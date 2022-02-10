@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">Regjistrues zëri</string>
+<string name="record_your_message">Regjistro mesazhin tënd</string>
+<string name="message_recorded">Mesazhi u regjistrua</string>
+<string name="review_message">Teksti i mesazhit</string>
+<string name="recording">Duke regjistruar</string>
+<string name="recording_stopped">Regjistrimi ndaloi</string>
+<string name="recording_save">Regjistrimi u ruajt</string>
+<string name="recording_nosave">Regjistrimi nuk u ruajt</string>
+<string name="storage_is_full">Memoria është plot</string>
+<string name="max_length_reached">U arrit gjatësia maksimale</string>
+<string name="phone_message">"Nuk mund ta aktivizoni Rregjistratorin e Zërit ndërsa telefononi."</string>
+<string name="min_available">"Rreth <xliff:g id="minutes">%d</xliff:g> min në dispozicion"</string>
+<string name="min_and_time_available">"Rreth <xliff:g id="minutes">%d</xliff:g> min e <xliff:g id="seconds">%d</xliff:g> sek në dispozicion"</string>
+<string name="sec_available">"Rreth <xliff:g id="seconds">%d</xliff:g>s në dispozicion"</string>
+<string name="accept">Ruaj</string>
+<string name="discard">Hiq</string>
+<string name="button_ok">Ruaj</string>
+<string name="press_record">Shtyp regjistro</string>
+<string name="audio_db_artist_name">Regjistrimet e tua</string>
+<string name="audio_db_album_name">Regjistrimet audio</string>
+<string name="audio_db_playlist_name">Regjistrimet e mia</string>
+<string name="error_app_internal">Gabimi i brendshëm aplikacioni</string>
+<string name="error_mediadb_new_record">E pamundur të ruajë audion e regjistruar</string>
+<string name="save">Ruaj</string>
+<string name="select_file_type">Zgjidh llojin e skedës të regjistrimit</string>
+<string name="record_amr">"AMR (cilësi e ulët)"</string>
+<string name="record_3gpp">"3GPP (shkallë e lartë)"</string>
+<string name="button_cancel">Anulo</string>
+<string name="path_save">Shtegu standard u ruajt</string>
+<string name="path_nosave">Shtegu standard nuk u ruajt</string>
+<string name="path_default">Shtegu standard nuk është i shkrueshëm ose është i pavlefshëm, është shtegu për në shtegun e memories të brendshme</string>
+<string name="menu_set_save_path">Vendos shtegun e ruajtjes</string>
+<string name="back">Prapa...</string>
+<string name="path_label">Ruaj në</string>
+<string name="pause">Ndërprit</string>
+<string name="storage_is_not_enough">Memoria nuk është e mjaftueshme</string>
+<string name="menu_recording_file_list">"Regjistrimet"</string>
+<string name="recording_list_empty">Lista bosh</string>
+<string name="menu_recording_list_select_all">Zgjidh të gjitha</string>
+<string name="menu_recording_list_delete">Fshi</string>
+<string name="menu_recording_list_deselect_all">Çzgjidh</string>
+<string name="recording_file_delete_success">Regjistrimi u fshi</string>
+<string name="recording_file_database_failed">Dështoi të fshihet skeda e databazës</string>
+<string name="recording_file_delete_failed">Dështoi të fshihet skeda e regjistrimit</string>
+<string name="confirm_del">Jeni të sigurt që doni t\'i fshini skedat?</string>
+<string name="button_delete">Fshi</string>
+<string name="recording_file_delete_alert_title">Fshi</string>
+<string name="recording_file_delete_alert_message">"Të sigurt që do të fshini %1$s ?"</string>
+<string name="recording_file_list">"Regjistrimet"</string>
+<string name="less_than_one_second">1 sekondë</string>
+<string name="is_scanning">MediaScanner po skanon tani, ju lutem prisni...</string>
+<string name="emptylist">Lista është bosh</string>
+<string name="choose_file">Ju lutem zgjidhni regjistrimin që doni të fshini skedat!</string>
+<string name="error_path">Shtegu që zgjodhët nuk ekziston, ju lutem vendosni përsëri!</string>
+<string name="path_miss">Shtegu i ruajtur nuk ekziston ose nuk mund të hapet!</string>
+<string name="file_is_corrupt">"Skedari është dëmtuar"</string>
+<string name="low_memory">"Memoria nuk mjafton, regjistrimi do të ndalojë!"</string>
+<string name="record_error">Ndodhi një përjashtim në regjistrim!</string>
+<string name="play_error">"Lexuesi i muzikës është çaktivizuar, nuk mund të hapet！"</string>
+<string name="dialog_title">Ju lutem zgjidhni</string>
+<string name="dialog_message">"Ruaj regjistrimin?"</string>
+<string name="same_application_running">"Pajisja regjistruese po përdoret nga një program tjetër, mbylle këtë program!"</string>
+<string name="recording_time_short">Koha e regjistrimit më pak se 1 sekondë, nuk u ruajt</string>
+<string name="file_path_button">"Shtegu i skedës"</string>
+<string name="file_name">"Emri i skedës："</string>
+<string name="file_path">"Shtegu i skedës："</string>
+<string name="rename">Riemëro</string>
+<string name="rename_save">"Riemërimi me sukses"</string>
+<string name="rename_nosave">"Riemërtimi dështoi"</string>
+<string name="filename_is_not_modified">Emri i skedës nuk është modifikuar</string>
+<string name="duplicate_name">emri i skedës i dyfishtë</string>
+<string name="soundpicker_label">Ju lutem zgjidhni skedën e regjistrimit</string>
+<string name="error_sdcard_path">"Karta SD nuk ekziston. Shtegu i paracaktuar i ruajtjes është ndryshuar te memoria e brendshme."</string>
+<string name="input_length_overstep">Hyrja ka arritur gjatësinë maksimale</string>
+<string name="filename_empty_error">Emri i skedës nuk mund të jetë bosh, ruani emrin origjinal</string>
+<string name="please_choose_files">ju lutem zgjidhni skedat</string>
+<string name="selected_files_count">"ka zgjedhur<xliff:g id="COUNTS">%d</xliff:g>"</string>
+<string name="use_default_path">Shegu i ruajtur nuk ekziston, përdorni shtegun standard</string>
+<string name="stroage_not_mounted">"Memoria nuk është lidhur"</string>
+<string name="special_char_exist">"Karakteret speciale <xliff:g id="COUNTS">%s</xliff:g> nuk suportohen"</string>
+<string name="menu_select_more">Zgjidh më shumë</string>
+<string name="menu_select_type">Vendos llojin e skedës</string>
+<string name="path_miss_nosave">Shtegu i ruajtur nuk ekziston, regjistrimi nuk është ruajtur!</string>
+<string name="dialog_dismiss">Hiq</string>
+<string name="error_permissions">"Aplikacioni nuk ka lejet kritike të nevojshme për ekzekutimin. Kontrollo cilësimet e tua të lejeve."</string>
+<string name="internal_sdcard">"Karta e brendshme SD"</string>
+<string name="external_sdcard">"Karta e jashtme SD"</string>
+<string name="internal_storage">telefon</string>
+<string name="external_storage">Karta SD</string>
+<string name="set_as_ring">"Vendos si zile"</string>
+<string name="read_file_path">"Kontrollo rrugën e skedës"</string>
+<string name="operate_share">Ndaj</string>
+<string name="ringtone_title_sim1">Ringtoni i telefonit SIM1</string>
+<string name="ringtone_title_sim2">"Ringtoni i telefonit të SIM2"</string>
+<string name="ringtone_menu_short">Përdor si rington</string>
+<string name="please_insert_sim_card">Ju lutem vendosni një kartë SIM të paktën</string>
+<string name="ring_set_silent_vibrate">"Ringtonet personale nuk suportohen në këtë metodë"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" vendosur si Rington telefoni SIM1."</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" vendosur si Rington telefoni SIM2."</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" vendos si rington telefoni."</string>
+<string name="ring_set_fail">"Na vjen keq, kënga nuk mund të luhet. Ju lutem zgjidhni një këngë tjetër si rington"</string>
+<string name="tag_limit">"Numri i etiketave ka arritur maksimumin"</string>
+<string name="no_allow_play_calling">"Nuk mund të luhet asnjë skedar audio gjatë thirrjes."</string>
+<string name="playback_failed">Luajtësi nuk suporton këtë lloj skedari audio.</string>
+<string name="tag">Etiketë</string>
+<string name="previous_tag">"Etiketa e fundit"</string>
+<string name="next_tag">"Etiketa tjetër"</string>
+<string name="recording_play">"Regjistrim i luajtjes"</string>
+<string name="clip_duration_tip">"Ndrysho gjatësinë"</string>
+<string name="record_setting">Cilësimet</string>
+<string name="file_type">Formato</string>
+<string name="type_amr">"AMR"</string>
+<string name="type_3gpp">"3GPP"</string>
+<string name="save_path">Ruaj vendndodhjen</string>
+<string name="set_timer_recording">"Regjistrimi i programuar"</string>
+<string name="timer_recording_detail">"Fillo regjistrimin në <xliff:g id="hours">%s</xliff:g>:<xliff:g id="minutes">%s</xliff:g> për <xliff:g id="COUNTS">%s</xliff:g>"</string>
+<string name="view_file_details">Shiko detajet</string>
+<string name="file_size">"Madhësia e skedës:"</string>
+<string name="file_date">"Data e skedës:"</string>
+<string name="recording_start_time">"Koha e fillimit të regjistrimit"</string>
+<string name="recording_duration">"Orët e kohëzgjatjes së regjistrimit"</string>
+<string name="tuned_timer_recording">"Regjistrimi me kohëmatës u aktivizua"</string>
+<string name="miss_timer_recording">"Regjistrimi i kohëmatjes së humbur"</string>
+<string name="miss_timer_time">"Koha: <xliff:g id="TIME">%s</xliff:g>"</string>
+<string-array name="duration_hours">
+<item>"orë"</item>
+<item>"orë"</item>
+</string-array>
+<string-array name="timer_recording_time">
+<item>"Regjistrimi i kohëmatjes është vendosur për më pak se 1 minutë nga tani."</item>
+<item>"Regjistrimi i kohëmatjes është vendosur për <xliff:g id="HOURS">%1$s</xliff:g>  nga tani."</item>
+<item>"Regjistrimi i kohëmatjes është vendosur për <xliff:g id="MINUTES">%2$s</xliff:g> nga tani."</item>
+<item>"Regjistrimi i kohëmatjes është vendosur për <xliff:g id="HOURS">%1$s</xliff:g> dhe <xliff:g id="MINUTES">%2$s</xliff:g> nga tani."</item>
+</string-array>
+<plurals name="hours">
+<item quantity="one">1 orë</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> orë"</item>
+</plurals>
+<plurals name="minutes">
+<item quantity="one">1 minutë</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> minuta"</item>
+</plurals>
+<string name="start_record">"fillo regjistrimin"</string>
+<string name="resume_record">"vazhdo regjistrimin"</string>
+<string name="start_play">"fillo luajtjen"</string>
+<string name="resume_play">"vazhdo luajtjen"</string>
+<string name="reset_timer_recording">"Pajisja e regjistrimit përdoret nga një program tjetër, ju lutem rivendosni regjistrimin e kohëmatjes!"</string>
+<string name="storage_not_enough">"Memoria nuk mjafton, nuk arriti të nisë regjistrimin!"</string>
+<string name="phone_storage_not_enough">"Memoria e telefonit nuk është e mjaftueshme!"</string>
+<string name="illegal_chars_of_filename">"Emri i skedarit nuk mund të përmbajë karakteret e palejuara \\:*?\"\u003C\u003E|/"</string>
+<string name="hour">"h"</string>
+<string name="min">"m"</string>
+<string name="start">Fillo</string>
+<string name="record">"Regjistro"</string>
+<string name="timeset">"Vendosja e kohëmatësit"</string>
+<string name="starttimeandduration">"Koha e nisjes \u0026 kohëzgjatja"</string>
+<string name="local_record">"Regjistrim lokal"</string>
+<string name="call_record">"Regjistrim i thirrjes"</string>
+<string name="clip_time">"Kohëzgjatja e klipit"</string>
+<string name="clip_name_suffix">"Klip"</string>
+<string name="file_choose">"Zgjedhja e skedarit"</string>
+<string name="save_dialog_title">"Regjistrim i ri"</string>
+<string name="keep_original_file">"Ruaj skedarin origjinal"</string>
+<string name="save_successful">"Ruajtja me sukses! Shtegu i ruajtjes:<xliff:g id="FILEPATH">%1$s</xliff:g>"</string>
+<string name="save_failed">Ruajtja dështoi!</string>
+<string name="recording_now">"Po regjistron..."</string>
+<string name="recording_pause">"Regjistrimi u ndërpre..."</string>
+<string name="record_pause">Ndërprit</string>
+<string name="record_stop">Ndalo</string>
+<string name="record_stop_and_save">"NDALO DHE RUAJ"</string>
+<string name="record_timer">"Regjistrimi i kohëmatësit"</string>
+<string name="record_miss">"Regjistrimi i humbur me kohëmatës"</string>
+<string name="close_timer">"Mbyll regjistrimin me kohëmatës"</string>
+<string name="soundrecording">Duke regjistruar</string>
+<string name="pauserecording">"Ndërprit regjistrimin"</string>
+<string name="clip_file_exit">"Emri i skedarit është i përsëritur. Rifute atë"</string>
+<string name="autosaverecord">"Ruajtja automatike"</string>
+<string name="auto_save">"Ruaj automatikisht regjistrimet"</string>
+<string name="new_record">"Regjistrim i ri"</string>
+<string name="speak_open">"Modaliteti i marrësit ndezur"</string>
+<string name="speak_close">"Modaliteti i marrësit fikur"</string>
+<string name="hour_duration">"<xliff:g id="hour">%s</xliff:g>orë"</string>
+<string name="button_set">Vendos</string>
+<string name="button_tag">Etiketë</string>
+<string name="button_list">Lista</string>
+<string name="type_mp3">"MP3"</string>
+<string name="record_mp3">"MP3 (cilësi e lartë)"</string>
+<string name="file_rename">"Emri i skenarit është përsëritje, nuk është ruajtur"</string>
+<string name="background_speak_close">"Luajtja e regjistrimit nuk punon në sfond dhe u mbyll"</string>
+<plurals name="confirm_delfile">
+<item quantity="one">"Je i sigurt që do ta fshish skedarin?"</item>
+<item quantity="other">Jeni të sigurt që doni t\'i fshini skedat?</item>
+</plurals>
+<string name="mode_change">"Modaliteti i audios u ndryshua, nevojitet kohë, të lutem prit..."</string>
+<string name="rename_button">"BRAKTIS"</string>
+<string name="no_sd_write_permission">"Regjistruesi zanor nuk ka akses te karta SD, lejo autorizimin ose pastro memorien e aplikacionit dhe përdore përsëri."</string>
+<string name="confirm">"OK"</string>
+<string name="superuser_request_confirm">"Regjistruesi zanor nuk ka akses te karta SD, zgjidh kartën e jashtme SD SANDISK në direktorinë rrënjë dhe autorizo regjistruesin zanor që të funksionojë."</string>
+<string name="share_max_warning">"U zgjodhën më shumë se 100 skedarë dhe funksioni i ndarjes nuk ishte i disponueshëm"</string>
+<string name="exit_multiwindow_tips">"Regjistruesi i zërit nuk e mbështet modalitetin me shumë dritare, përdore regjistruesin e zërit në modalitetin ekran i plotë."</string>
+</resources>

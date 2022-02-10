@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Gravador de som"</string>
+<string name="record_your_message">"Grave sua mensagem"</string>
+<string name="message_recorded">"Mensagem gravada"</string>
+<string name="review_message">"Escrita da mensagem"</string>
+<string name="recording">Gravando</string>
+<string name="recording_stopped">"Gravação interrompida"</string>
+<string name="recording_save">"Gravação salva"</string>
+<string name="recording_nosave">"Gravação não foi salva"</string>
+<string name="storage_is_full">"O armazenamento está cheio."</string>
+<string name="max_length_reached">"Duração máxima atingida"</string>
+<string name="phone_message">"Não é possível ligar o gravador de som durante uma chamada."</string>
+<string name="min_available">"Cerca de <xliff:g id="minutes">%d</xliff:g> minutos disponíveis"</string>
+<string name="min_and_time_available">"Sobre <xliff:g id="minutes">%d</xliff:g> min e <xliff:g id="seconds">%d</xliff:g> segundo disponível"</string>
+<string name="sec_available">"Cerca de <xliff:g id="minutes">%d</xliff:g>s disponíveis"</string>
+<string name="accept">"Salvar"</string>
+<string name="discard">"Descartar"</string>
+<string name="button_ok">"OK"</string>
+<string name="press_record">"Pressione gravar"</string>
+<string name="audio_db_artist_name">"Suas gravações"</string>
+<string name="audio_db_album_name">"Gravações de áudio"</string>
+<string name="audio_db_playlist_name">"Minhas Gravações"</string>
+<string name="error_app_internal">"Erro de aplicação interna"</string>
+<string name="error_mediadb_new_record">"Não é possível salvar o áudio gravado"</string>
+<string name="save">"Salvar"</string>
+<string name="select_file_type">"Selecionar o tipo de arquivo de registro"</string>
+<string name="record_amr">"tipo amr (Baixa-qualidade)"</string>
+<string name="record_3gpp">"Tipo 3gpp (Alta-qualidade)"</string>
+<string name="button_cancel">"Cancelar"</string>
+<string name="path_save">"Caminho padrão salvo"</string>
+<string name="path_nosave">"Caminho padrão não salvo"</string>
+<string name="path_default">"Caminho atual não é nem de armazenamento interno, nem de armazenamento externo. Caminho padrão para salvamento foi alterado para armazenamento interno."</string>
+<string name="menu_set_save_path">"Definir caminho de salvamento"</string>
+<string name="back">"Retroceder.."</string>
+<string name="path_label">"Salvar para"</string>
+<string name="pause">"Pausar"</string>
+<string name="storage_is_not_enough">"Armazenamento não é suficiente"</string>
+<string name="menu_recording_file_list">"Lista de arquivo de gravação"</string>
+<string name="recording_list_empty">"Lista vazia"</string>
+<string name="menu_recording_list_select_all">"Selecionar tudo"</string>
+<string name="menu_recording_list_delete">"Apagar"</string>
+<string name="menu_recording_list_deselect_all">"Desmarcar"</string>
+<string name="recording_file_delete_success">"Gravação excluída"</string>
+<string name="recording_file_database_failed">"Falha ao excluir o arquivo de banco de dados"</string>
+<string name="recording_file_delete_failed">"Falha ao excluir arquivo de gravação"</string>
+<string name="confirm_del">"Você tem certeza de que deseja excluir os arquivos?"</string>
+<string name="button_delete">"Apagar"</string>
+<string name="recording_file_delete_alert_title">"Apagar"</string>
+<string name="recording_file_delete_alert_message">"Você tem certeza de que deseja excluir %1$s?"</string>
+<string name="recording_file_list">"Lista de arquivo de gravação"</string>
+<string name="less_than_one_second">"1 segundo"</string>
+<string name="is_scanning">"O MediaScanner está digitalizando agora, por favor aguarde ..."</string>
+<string name="emptylist">"Lista está vazia"</string>
+<string name="choose_file">"Por favor, selecione a gravação da qual deseja excluir arquivos!"</string>
+<string name="error_path">"O caminho que você selecionou não existe, por favor, reconfigure!"</string>
+<string name="path_miss">"O caminho armazenado não existe ou não pode ser acessado!"</string>
+<string name="file_is_corrupt">"O arquivo está corrmpido"</string>
+<string name="low_memory">"Memória do telefone insuficiente, a gravação irá parar!"</string>
+<string name="record_error">"Ocorreu uma exceção na gravação!"</string>
+<string name="play_error">"O player de música foi desativado, não foi possível abrí-lo!"</string>
+<string name="dialog_title">"Por favor selecione"</string>
+<string name="dialog_message">"Salvar a gravação?"</string>
+<string name="same_application_running">"O dispositivo de gravação está sendo usado por outro programa, por favor, feche este programa!"</string>
+<string name="recording_time_short">"O tempo de gravação foi de menos de 1 segundo, não foi salva"</string>
+<string name="file_path_button">"Caminho do arquivo"</string>
+<string name="file_name">"Nome do arquivo:"</string>
+<string name="file_path">"Caminho do arquivo:"</string>
+<string name="rename">"Renomear"</string>
+<string name="rename_save">"Renomeado com sucesso!"</string>
+<string name="rename_nosave">"Falha ao renomear "</string>
+<string name="filename_is_not_modified">"O nome de arquivo não está modificado"</string>
+<string name="duplicate_name">"Nome de arquivo duplicado"</string>
+<string name="soundpicker_label">"Por favor selecionar o arquivo de gravação"</string>
+<string name="error_sdcard_path">"O cartão SD não existe. O caminho de salvamento padrão foi alterado para armazenamento interno."</string>
+<string name="input_length_overstep">"Entrada alcançou o comprimento máximo"</string>
+<string name="filename_empty_error">"Nome do arquivo não pode estar vazio, salve com o nome original"</string>
+<string name="please_choose_files">"Por favor escolha os arquivos"</string>
+<string name="selected_files_count">"Escolheu<xliff:g id="COUNTS">%d</xliff:g>"</string>
+<string name="use_default_path">"O caminho salvo não existe, use um caminho padrão"</string>
+<string name="stroage_not_mounted">"A armazenamento não está montado"</string>
+<string name="special_char_exist">"Carácteres especiais <xliff:g id="COUNTS">%s</xliff:g> não são suportados"</string>
+<string name="menu_select_more">"Selecionar Mais"</string>
+<string name="menu_select_type">"Ajustar o tipo de arquivo"</string>
+<string name="path_miss_nosave">"O caminho de armazenamento não existe, a gravação não foi salva!"</string>
+<string name="dialog_dismiss">"Descartar"</string>
+<string name="error_permissions">"O aplicativo não tem permissões críticas necessárias para rodar. Por favor verifique as configurações das suas permissões."</string>
+<string name="internal_sdcard">"Cartão SD interno"</string>
+<string name="external_sdcard">"Cartão SD externo"</string>
+<string name="internal_storage">"Armazenamento interno"</string>
+<string name="external_storage">"Armazenamento externo"</string>
+<string name="set_as_ring">"Definir como tons de toque"</string>
+<string name="read_file_path">"Verifique o caminho do arquivo"</string>
+<string name="operate_share">"Compartilhar"</string>
+<string name="ringtone_title_sim1">"Toque de telefone do SIM1"</string>
+<string name="ringtone_title_sim2">"Toque do telefone do SIM2"</string>
+<string name="ringtone_menu_short">"Usar como toque"</string>
+<string name="please_insert_sim_card">"Por favor insira pelo menos um cartão SIM "</string>
+<string name="ring_set_silent_vibrate">"Toques personalizados não são suportados no modo atual"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" definir como toque do SIM1 do telefone."</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" definir como toque do SIM2 do telefone."</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" definir como toque do telefone."</string>
+<string name="ring_set_fail">"Desculpe, a canção não pôde ser reproduzida. Por favor selecione a outra canção como melodia"</string>
+<string name="tag_limit">"O número de marcadores alcançou o máximo"</string>
+<string name="no_allow_play_calling">"Não é permitido reproduzir música durante as chamadas (rádio/vídeo)."</string>
+<string name="playback_failed">"O aparelho não suporta este tipo de arquivo de audio."</string>
+<string name="tag">"Marcador"</string>
+<string name="previous_tag">"Último marcador"</string>
+<string name="next_tag">"Marcador seguinte"</string>
+<string name="recording_play">"Reprodução de gravação"</string>
+<string name="clip_duration_tip">"Editar comprimento"</string>
+<string name="record_setting">"Definições de Gravação"</string>
+<string name="file_type">"Tipo de Arquivo "</string>
+<string name="type_amr">"tipo amr"</string>
+<string name="type_3gpp">"tipo 3gpp"</string>
+<string name="save_path">"Caminho armazenado"</string>
+<string name="set_timer_recording">"Gravação programada"</string>
+<string name="timer_recording_detail">"Começar a gravar às <xliff:g id="hours">%s</xliff:g>:<xliff:g id="minutes">%s</xliff:g> para <xliff:g id="COUNTS">%s</xliff:g>"</string>
+<string name="view_file_details">"Ver detalhes"</string>
+<string name="file_size">"Tamanho do arquivo:"</string>
+<string name="file_date">"Data do arquivo:"</string>
+<string name="recording_start_time">"Hora de início da gravação"</string>
+<string name="recording_duration">"Hora de duração da gravação"</string>
+<string name="tuned_timer_recording">"Gravação de temporizador ligada"</string>
+<string name="miss_timer_recording">"Gravação de temporizador perdida"</string>
+<string name="miss_timer_time">"Hora: <xliff:g id="TIME">%s</xliff:g>"</string>
+<string-array name="duration_hours">
+<item>" hora"</item>
+<item>" horas"</item>
+</string-array>
+<string-array name="timer_recording_time">
+<item>"Gravação de temporizador definido para menos de 1 minuto a partir de agora."</item>
+<item>"Gravação de temporizador definida para <xliff:g id="HOURS">%1$s</xliff:g> a partir de agora."</item>
+<item>"Gravação de temporizador definida para <xliff:g id="MINUTES">%2$s</xliff:g> a partir de agora."</item>
+<item>"Gravação de temporizador definida para <xliff:g id="HOURS">%1$s</xliff:g> e <xliff:g id="MINUTES">%2$s</xliff:g> a partir de agora."</item>
+</string-array>
+<plurals name="hours">
+<item quantity="one">"1 hora"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> horas"</item>
+</plurals>
+<plurals name="minutes">
+<item quantity="one">"1 minuto"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> minutos"</item>
+</plurals>
+<string name="start_record">"iniciar gravação"</string>
+<string name="resume_record">"retomar gravação"</string>
+<string name="start_play">"iniciar reprodução"</string>
+<string name="resume_play">"retomar reprodução"</string>
+<string name="reset_timer_recording">"O dispositivo de gravação está sendo usado por outro programa. Reinicie a gravação temporizada!"</string>
+<string name="storage_not_enough">"Armazenamento insuficiente. Falha ao iniciar gravação temporizada!"</string>
+<string name="phone_storage_not_enough">"Armazenamento do telefone insuficiente!"</string>
+    <string name="illegal_chars_of_filename">"O nome do ficheiro não pode conter carateres não permitidos \\:*?\"\u003C\u003E|/"</string>
+     <string name="hour">"h"</string>
+     <string name="min">"M"</string>
+     <string name="start">"Iniciar"</string>
+     <string name="record">"rec"</string>
+     <string name="timeset">"Definir temporizador"</string>
+     <string name="starttimeandduration">"Hora de início/duração da gravação"</string>
+     <string name="local_record">"Gravação local"</string>
+     <string name="call_record">"Gravação de chamada"</string>
+     <string name="clip_time">"Duração do clipe"</string>
+     <string name="clip_name_suffix">"Clipe"</string>
+<string name="file_choose">"Escolher arquivo"</string>
+<string name="save_dialog_title">"Nome do Novo Arquivo de Gravação"</string>
+<string name="keep_original_file">"Manter arquivo original"</string>
+     <string name="save_successful">"Guardado com sucesso! Caminho da gravação:<xliff:g id="FILEPATH">%1$s</xliff:g>"</string>
+     <string name="save_failed">"Falha ao guardar!"</string>
+<string name="recording_now">"Gravando ..."</string>
+<string name="recording_pause">"Gravação pausada ..."</string>
+     <string name="record_pause">"Pausar"</string>
+     <string name="record_stop">"Parar"</string>
+     <string name="record_timer">"Temporizar gravação"</string>
+     <string name="record_miss">"Temporizar gravação falhou"</string>
+     <string name="close_timer">"Fechar temporizador da gravação"</string>
+     <string name="soundrecording">Gravando</string>
+     <string name="pauserecording">"Colocar gravação em pausa"</string>
+<string name="clip_file_exit">"O nome do arquivo já foi usado."</string>
+<string name="autosaverecord">"Salvar uma gravação automaticamente"</string>
+<string name="auto_save">"Salvar gravações automaticamente"</string>
+     <string name="new_record">"Nova gravação"</string>
+<string name="speak_open">"Modo de recepção ligado"</string>
+<string name="speak_close">"Modo de recepção desligado"</string>
+     <string name="hour_duration">"<xliff:g id="hour">%s</xliff:g>H"</string>
+     <string name="button_set">"Definir"</string>
+     <string name="button_tag">"Marcador"</string>
+     <string name="button_list">"Lista"</string>
+     <string name="type_mp3">"tipo mp3"</string>
+     <string name="record_mp3">"tipo mp3 (alta qualidade)"</string>
+<string name="file_rename">"O nome do arquivo já existe, não foi possível salvá-lo"</string>
+<string name="background_speak_close">"O play de gravação não pode funcionar em segundo plano e está fechado"</string>
+<plurals name="confirm_delfile">
+<item quantity="one">"Você tem certeza de que deseja excluir o arquivo?"</item>
+<item quantity="other">"Você tem certeza de que deseja excluir os arquivos?"</item>
+</plurals>
+     <string name="mode_change">"Leva um pouco de tempo para alterar o modo de áudio, aguarde..."</string>
+     <string name="rename_button">"Abandonar"</string>
+<string name="record_stop_and_save">"PARAR E SALVAR"</string>
+<string name="no_sd_write_permission">"O Gravador de Som não tem acesso ao cartão SD. Autorize ou limpe o armazenamento do aplicativo e opere novamente."</string>
+<string name="confirm">"OK"</string>
+<string name="superuser_request_confirm">"O Gravador de som não tem acesso ao cartão SD, selecione o cartão SD SANDISK do diretório raiz externo e autorize o Gravador de som a operar."</string>
+<string name="share_max_warning">"Mais de 100 arquivos foram selecionados e a função de compartilhamento não está disponível."</string>
+<string name="exit_multiwindow_tips">"O Gravador de som não é compatível com o modo de várias janelas, use o Gravador de som no modo de tela cheia."</string>
+</resources>

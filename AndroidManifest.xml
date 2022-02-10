@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.soundrecorder">
+
+    <original-package android:name="com.android.soundrecorder" />
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="android.permission.MODIFY_PHONE_STATE" />
+	
+    <!-- SPRD: add -->
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH_PRIVILEGED" />
+	<uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.SET_MEDIA_KEY_LISTENER"/>
+    <application android:label="@string/app_name"
+                 android:icon="@mipmap/ic_launcher"
+                 android:supportsRtl="true"
+                 android:resizeableActivity="false"
+                 android:usesCleartextTraffic="false">
+        <activity android:name="com.sprd.soundrecorder.RecorderActivity"
+                android:configChanges="orientation|screenSize|keyboardHidden"
+                android:screenOrientation="unspecified"
+                android:launchMode="singleTop"
+                android:theme="@style/AppTheme.Base">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                 <action android:name="android.provider.MediaStore.RECORD_SOUND" />
+                 <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <service android:name="com.sprd.soundrecorder.service.RecordingService"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.android.soundrecorder.timerrecord.START" />
+            </intent-filter>
+        </service>
+<!-- SPRD: add @{ -->
+        <activity android:name="com.sprd.soundrecorder.PathSelect" android:label="@string/path_label"
+                android:theme="@style/Theme.PathSelect"
+                android:configChanges="orientation|screenSize|keyboardHidden"
+                android:screenOrientation="unspecified">
+        </activity>
+
+        <activity android:name="com.sprd.soundrecorder.RecordListActivity"
+                  android:theme="@style/JingOS_AppTheme"
+                  android:label="@string/recording_file_list"
+                  android:configChanges="orientation|screenSize|keyboardHidden"
+                  android:screenOrientation="unspecified">
+            <intent-filter>
+                <action android:name="com.android.soundrecorder.EXTRA_FILE_LIST" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.sprd.soundrecorder.MultiChooseActivity"
+                  android:theme="@style/JingOS_AppTheme"
+                  android:configChanges="orientation|screenSize|keyboardHidden|locale|layoutDirection"
+                  android:screenOrientation="unspecified">
+        </activity>
+
+        <activity android:name="com.sprd.soundrecorder.SoundPicker"
+            android:label="@string/soundpicker_label"
+            android:theme="@style/Theme.SoundPicker"
+            android:configChanges="orientation|screenSize|keyboardHidden|mcc|mnc"
+            android:screenOrientation="unspecified">
+        </activity>
+        <activity android:name="com.sprd.soundrecorder.RecordFilePlayActivity"
+                  android:theme="@style/Theme.SoundRecorder"
+                  android:label="@string/recording_play"
+                  android:configChanges="orientation|screenSize|keyboardHidden|uiMode"
+                  android:screenOrientation="unspecified">
+        </activity>
+        <activity android:name="com.sprd.soundrecorder.RecordingFileClip"
+            android:theme="@style/Theme.RecordingFileList"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:screenOrientation="unspecified">
+        </activity>
+
+        <activity android:name="com.sprd.soundrecorder.SettingActivity"
+                  android:theme="@style/Theme.JingOSRecordingFileList"
+                  android:label="@string/record_setting"
+                  android:configChanges="orientation|screenSize|keyboardHidden"
+                  android:screenOrientation="unspecified">
+        </activity>
+        <activity
+            android:name="com.sprd.soundrecorder.ui.CreateSaveDialog"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:exported="false"
+            android:theme="@android:style/Theme.Material.Light.Dialog">
+        </activity>
+
+        <receiver android:name="com.sprd.soundrecorder.RecorderReceiver" >
+            <intent-filter>
+                <action android:name="com.android.soundrecorder.timerrecord.START" />
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.LOCALE_CHANGED"/>
+            </intent-filter>
+        </receiver>
+
+    </application>
+</manifest>

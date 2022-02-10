@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"ಸೌಂಡ್ ರೆಕಾರ್ಡರ್"</string>
+<string name="record_your_message">"ನಿಮ್ಮ ಸಂದೇಶವನ್ನು ರೆಕಾರ್ಡ್ ಮಾಡಿ"</string>
+<string name="message_recorded">"ಸಂದೇಶ ರೆಕಾರ್ಡ್ ಆಗಿದೆ"</string>
+<string name="review_message">"ಸಂದೇಶದ ಸಾಹಿತ್ಯ"</string>
+<string name="recording">"ದಾಖಲಾತಿ"</string>
+<string name="recording_stopped">"ರೆಕಾರ್ಡಿಂಗ್ ನಿಲ್ಲಿಸಲಾಗಿದೆ"</string>
+<string name="recording_save">"ರೆಕಾರ್ಡಿಂಗ್ ಸೇವ್ ಮಾಡಲಾಗಿದೆ"</string>
+<string name="recording_nosave">"ರೆಕಾರ್ಡಿಂಗ್ ಸೇವ್ ಮಾಡಲಾಗಿಲ್ಲ"</string>
+<string name="storage_is_full">"ಸ್ಟೋರೇಜ್ ತುಂಬಿದೆ"</string>
+<string name="max_length_reached">"ಗರಿಷ್ಠ ಉದ್ದ ತಲುಪಿದೆ"</string>
+<string name="insert_sd_card">"ದಯವಿಟ್ಟು ಒಂದು SD ಕಾರ್ಡ್ ಅನ್ನು ಒಳಸೇರಿಸಿ"</string>
+<string name="phone_message">"ಕರೆ ಮಾಡುವಾಗ ಸೌಂಡ್ ರೆಕಾರ್ಡರ್ ಆನ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ."</string>
+<string name="min_available">"ಸುಮಾರಾಗಿ <xliff:g id="minutes">%d</xliff:g> ನಿಮಿಷಗಳು ಲಭ್ಯವಿವೆ"</string>
+<string name="min_and_time_available">"ಸುಮಾರಾಗಿ <xliff:g id="minutes">%d</xliff:g> ನಿಮಿಷಗಳು ಮತ್ತು <xliff:g id="seconds">%d</xliff:g> ಸೆಕೆಂಡುಗಳು ಲಭ್ಯವಿವೆ"</string>
+<string name="sec_available">"ಸುಮಾರಾಗಿ <xliff:g id="seconds">%d</xliff:g> ಸೆಕೆಂಡುಗಳು ಲಭ್ಯವಿವೆ"</string>
+<string name="accept">"ಉಳಿಸಿ"</string>
+<string name="discard">"ತ್ಯಜಿಸಿ"</string>
+<string name="button_ok">"ಸರಿ"</string>
+<string name="press_record">"ರೆಕಾರ್ಡ್ ಒತ್ತಿ"</string>
+<string name="audio_db_artist_name">"ನಿಮ್ಮ ಗ್ರಹಣಗಳು"</string>
+<string name="audio_db_album_name">"ಆಡಿಯೋ ರೆಕಾರ್ಡಿಂಗ್ಗಳು"</string>
+<string name="audio_db_playlist_name">"ನನ್ನ ಗ್ರಹಣಗಳು"</string>
+<string name="error_sdcard_access">"SD ಕಾರ್ಡನ್ನು ಪ್ರವೇಶ ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ"</string>
+<string name="error_app_internal">"ಆಂತರಿಕ ಅಪ್ಲಿಕೇಶನ್ ತಪ್ಪಾಗಿದೆ"</string>
+<string name="error_mediadb_new_record">"ಗ್ರಹಿತ  ಶ್ರವಣವನ್ನು ಉಳಿಸಲಾಗುತ್ತಿಲ್ಲ"</string>
+<string name="save">"ಉಳಿಸಿ"</string>
+<string name="select_file_type">"ರೆಕಾರ್ಡ್ ಫೈಲ್ ಬಗೆಯನ್ನು ಆರಿಸಿ"</string>
+<string name="record_amr">"AMR ವಿಧ"</string>
+<string name="record_3gpp">"3gpp ವಿಧ"</string>
+<string name="button_cancel">"ರದ್ದು"</string>
+<string name="path_save">"ಡೀಫಾಲ್ಟ್ ಪಥ ಸೇವ್ ಮಾಡಲಾಗಿದೆ"</string>
+<string name="path_nosave">"ಡೀಫಾಲ್ಟ್ ಪಥ ಸೇವ್ ಮಾಡಲಾಗಿಲ್ಲ"</string>
+<string name="path_default">"ಪ್ರಸ್ತುತ ಪಥ ಬರೆಯಬಹುದಾದುದಲ್ಲ ಅಥವಾ ಅಮಾನ್ಯವಾದುದು , ಅದು ಆಂತರಿಕ ಶೇಖರಣೆಯ ಪಥಕ್ಕೆ ಪಥ"</string>
+<string name="menu_set_save_path">"ಪಥ ಸೇವ್ ಮಾಡಿ ಎಂಬುದನ್ನು ಸೆಟ್ ಮಾಡಿ"</string>
+<string name="back">"ಹಿಂದೆ .."</string>
+<string name="path_label">"ಪಥ ಸೇವ್ ಮಾಡಿ ಎಂಬುದನ್ನು ದಯವಿಟ್ಟು ಆಯ್ಕೆ ಮಾಡಿ"</string>
+<string name="pause">"ಸದ್ಯಕ್ಕೆ ನಿಲ್ಲಿಸಿ"</string>
+<string name="storage_is_not_enough">"ಶೇಖರಣೆ ಸಾಕಾಗುವುದಿಲ್ಲ"</string>
+<string name="menu_recording_file_list">"ರೆಕಾರ್ಡಿಂಗ್ ಫೈಲ್ ಪಟ್ಟಿ"</string>
+<string name="recording_list_empty">"ಪಟ್ಟಿಯನ್ನು ಖಾಲಿ ಮಾಡಿ"</string>
+<string name="menu_recording_list_select_all">"ಎಲ್ಲಾ ಆಯ್ಕೆ"</string>
+<string name="menu_recording_list_delete">"ಅಳಿಸಿ"</string>
+<string name="menu_recording_list_deselect_all">"ಆಯ್ಕೆ ರದ್ದು"</string>
+<string name="recording_file_delete_success">"ರೆಕಾರ್ಡಿಂಗ್ ಅಳಿಸಲಾಗಿದೆ"</string>
+<string name="recording_file_database_failed">"ಡೇಟಾಬೇಸ್ ಫೈಲ್ ಅಳಿಸುವಿಕೆ ವಿಫಲವಾಗಿದೆ"</string>
+<string name="recording_file_delete_failed">"ರೆಕಾರ್ಡಿಂಗ್ ಫೈಲ್ ಅಳಿಸುವಿಕೆ ವಿಫಲವಾಗಿದೆ"</string>
+<string name="confirm_del">"ನೀವು ಖಚಿತವಾಗಿ ಫೈಲ್ಗಳನ್ನು ಅಳಿಸಲು ಬಯಸುವಿರಾ?"</string>
+<string name="button_delete">"ಅಳಿಸಿ"</string>
+<string name="recording_file_delete_alert_title">"ಅಳಿಸಿ"</string>
+<string name="recording_file_delete_alert_message">"ಖಚಿತವಾಗಿ %1$s ಅನ್ನು ಅಳಿಸಲು ಬಯಸುವಿರಾ?"</string>
+<string name="recording_file_list">"ರೆಕಾರ್ಡಿಂಗ್ ಫೈಲ್ ಪಟ್ಟಿ"</string>
+<string name="less_than_one_second">"1 ನಿಮಿಷ"</string>
+<string name="is_scanning">"ಮೀಡಿಯಾ ಸ್ಕ್ಯಾನರ್ ಈಗ ಸ್ಕ್ಯಾನಿಂಗ್ ಮಾಡುತ್ತಿದೆ, ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ ..."</string>
+<string name="emptylist">"ಪಟ್ಟಿ ಖಾಲಿಯಾಗಿದೆ"</string>
+<string name="choose_file">"ಫೈಲ್ಗಳನ್ನು ಅಳಿಸಲು ದಯವಿಟ್ಟು ನಿಮಗೆ ಬೇಕಾದ ರೆಕಾರ್ಡಿಂಗ್ ಆಯ್ಕೆ ಮಾಡಿ!"</string>
+<string name="error_path">"ನೀವು ಆಯ್ಕೆಮಾಡಿದ ಪಥ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ, ದಯವಿಟ್ಟು ರೀಸೆಟ್ ಮಾಡಿ!"</string>
+<string name="path_miss">"ಶೇಖರಿಸಿದ ಪಥ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ ಅಥವಾ ಅದನ್ನು ಪ್ರವೇಶಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ!"</string>
+<string name="low_memory">"ಫೋನ್ ಮೆಮೊರಿ ಸಾಕಾಗುವುದಿಲ್ಲ,ರೆಕಾರ್ಡಿಂಗ್ ನಿಲ್ಲುತ್ತದೆ!"</string>
+<string name="record_error">"ರೆಕಾರ್ಡ್ ಆಗುತ್ತಿದೆ, ಒಂದು ಎಕ್ಸೆಪ್ಶನ್ ಸಂಭವಿಸಿದೆ!"</string>
+<string name="play_error">"ಮ್ಯೂಸಿಕ್ ಪ್ಲೇಯರ್ ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ,ತೆರೆಯಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ!"</string>
+<string name="dialog_title">"ದಯವಿಟ್ಟು ಆಯ್ಕೆ ಮಾಡಿ"</string>
+<string name="dialog_message">"ರೆಕಾರ್ಡಿಂಗ್ ಅನ್ನು ಸೇವ್ ಮಾಡಬೇಕೇ?"</string>
+<string name="same_application_running">"ರೆಕಾರ್ಡಿಂಗ್ ಡಿವೈಸ್ವು ಮತ್ತೊಂದು ಪ್ರೋಗ್ರಾಂನಿಂದ ಬಳಸಲ್ಪಡುತ್ತಿದೆ.ದಯವಿಟ್ಟು ಈ ಪ್ರೋಗ್ರಾಂ ಮುಚ್ಚಿ !"</string>
+<string name="recording_time_short">"ರೆಕಾರ್ಡಿಂಗ್ ಸಮಯ 1 ಸೆಕೆಂಡ್ ಗಿಂತ ಕಡಿಮೆ, ಸೇವ್ ಮಾಡಲಾಗಿಲ್ಲ"</string>
+<string name="rename">"ಮರುಹೆಸರಿಡು"</string>
+<string name="rename_save">"ಮರುಹೆಸರಿಸುವುದು ಯಶಸ್ವಿಯಾಗಿದೆ"</string>
+<string name="rename_nosave">"ಮರುಹೆಸರಿಸುವುದು ವಿಫಲವಾಗಿದೆ"</string>
+<string name="filename_is_not_modified">"ಫೈಲ್ ಹೆಸರು ಮಾರ್ಪಡಿಸಲಾಗಿಲ್ಲ"</string>
+<string name="duplicate_name">"ಫೈಲ್ ಹೆಸರು ನಕಲು"</string>
+<string name="soundpicker_label">"ರೆಕಾರ್ಡಿಂಗ್ ಫೈಲ್ ಅನ್ನು ದಯವಿಟ್ಟು ಆಯ್ಕೆ ಮಾಡಿ"</string>
+<string name="error_sdcard_path">"SD ಕಾರ್ಡ್ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ. ಡೀಫಾಲ್ಟ್ ಸೇವ್ ಪಥ ಅನ್ನು ಆಂತರಿಕ ಶೇಖರಣೆಗೆ ಬದಲಾಯಿಸಲಾಗಿದೆ."</string>
+<string name="input_length_overstep">"ಆದಾನ ಗರಿಷ್ಠ ಉದ್ದ ತಲುಪಿದೆ"</string>
+<string name="filename_empty_error">"ಫೈಲ್ ಹೆಸರು ಖಾಲಿ ಇರುವಂತಿಲ್ಲ, ಮೂಲ ಹೆಸರನ್ನು ಸೇವ್ ಮಾಡಿ"</string>
+<string name="please_choose_files">"ದಯವಿಟ್ಟು ಫೈಲ್ಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ"</string>
+<string name="selected_files_count">"ಇದನ್ನು ಆರಿಸಿದ್ದಾರೆ <xliff:g id="COUNTS">%d</xliff:g>"</string>
+<string name="use_default_path">"ಶೇಖರಿಸಿದ ಪಥ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ. ಡೀಫಾಲ್ಟ್ ಪಥ ಅನ್ನು ಬಳಸಿ"</string>
+<string name="special_char_exist">"ವಿಶೇಷ ಅಕ್ಷರಗಳು <xliff:g id="COUNTS">%s</xliff:g> ಬೆಂಬಲಿತವಾಗಿಲ್ಲ"</string>
+<string name="view_file_details">"ವಿವರಗಳನ್ನು ನೋಡಿ"</string>
+<string name="type_mp3">"MP3"</string>
+<string name="type_amr">"AMR"</string>
+<string name="type_3gpp">"3GPP"</string>
+<string name="tuned_timer_recording">"ಟೈಮರ್ ರೆಕಾರ್ಡಿಂಗ್ ಆನ್ ಆಗಿದೆ"</string>
+<string name="timeset">"ಟೈಮರ್ ಸೆಟ್"</string>
+<string-array name="timer_recording_time">
+<item>"ಟೈಮರ್ ರೆಕಾರ್ಡಿಂಗನ್ನು ಈಗಿಂದ ಒಂದು ನಿಮಿಷಕ್ಕಿಂತ ಕಡಿಮೆಗೆ  ಸೆಟ್  ಮಾಡಲಾಗಿದೆ."</item>
+<item>"ಟೈಮರ್ ರೆಕಾರ್ಡಿಂಗನ್ನು ಮುಂದಿನದಕ್ಕೆ ಸೆಟ್ ಮಾಡಲಾಗಿದೆ <xliff:g id="HOURS">%1$s</xliff:g> ಈಗಿಂದ."</item>
+<item>"ಟೈಮರ್ ರೆಕಾರ್ಡಿಂಗನ್ನು ಮುಂದಿನದಕ್ಕೆ ಸೆಟ್ ಮಾಡಲಾಗಿದೆ  <xliff:g id="MINUTES">%2$s</xliff:g> ಈಗಿಂದ."</item>
+<item>"ಟೈಮರ್ ರೆಕಾರ್ಡಿಂಗನ್ನು ಮುಂದಿನದಕ್ಕೆ ಸೆಟ್ ಮಾಡಲಾಗಿದೆ <xliff:g id="HOURS">%1$s</xliff:g> ಮತ್ತು <xliff:g id="MINUTES">%2$s</xliff:g> ಈಗಿಂದ"</item>
+</string-array>
+<string name="timer_recording_detail">"ಇಲ್ಲಿ ರೆಕಾರ್ಡಿಂಗ್ ಆರಂಭಿಸಿ  <xliff:g id="hours">%s</xliff:g>:<xliff:g id="minutes">%s</xliff:g>  <xliff:g id="COUNTS">%s</xliff:g>"</string>
+<string name="tag_limit">"ಟ್ಯಾಗ್ ಗಳ ಸಂಖ್ಯೆ ಗರಿಷ್ಠ ಮಟ್ಟವನ್ನು ತಲುಪಿದೆ"</string>
+<string name="tag">"ಟ್ಯಾಗ್"</string>
+<string name="stroage_not_mounted">"ಸಂಗ್ರಹಣೆಯನ್ನು ಜೋಡಿಸಲಾಗಿಲ್ಲ"</string>
+<string name="storage_not_enough">"ಶೇಖರಣೆಯು ಸಾಕಾಗುವುದಿಲ್ಲ, ರೆಕಾರ್ಡಿಂಗ್ ಪ್ರಾರಂಭಿಸಲು ವಿಫಲವಾಗಿದೆ!"</string>
+<string name="starttimeandduration">"ಪ್ರಾರಂಭದ ಸಮಯ \u0026 ಅವಧಿಯು"</string>
+<string name="start_record">"ರೆಕಾರ್ಡ್ ಆರಂಭಸಿ"</string>
+<string name="start_play">"ಪ್ಲೇ ಆರಂಭಿಸಿ"</string>
+<string name="start">"ಆರಂಭ"</string>
+<string name="speak_open">"ಸ್ವೀಕರಿಸುವವರ ಮೋಡ್ ಆನ್ ಆಗಿದೆ"</string>
+<string name="speak_close">"ಸ್ವೀಕರಿಸುವವರ ಮೋಡ್ ಆಫ್ ಆಗಿದೆ"</string>
+<string name="soundrecording">"ದಾಖಲಾತಿ"</string>
+<string name="set_timer_recording">"ಅನುಸೂಚಿತ ರೆಕಾರ್ಡಿಂಗ್"</string>
+<string name="set_as_ring">"ರಿಂಗ್ ಟೋನ್ ಎಂದು ಹೊಂದಿಸಿ"</string>
+<string name="save_successful">"ಯಶಸ್ವಿಯಾಗಿ ಉಳಿಸಿ! ಪಾತ್ ಉಳಿಸಿ:<xliff:g id="FILEPATH">%1$s</xliff:g>"</string>
+<string name="save_path">"ಸ್ಥಳ ಉಳಿಸಿ"</string>
+<string name="save_failed">"ಉಳಿಕೆ ವಿಫಲವಾಗಿದೆ"</string>
+<string name="save_dialog_title">"ಹೊಸ ರೆಕಾರ್ಡಿಂಗ್"</string>
+<string name="ringtone_title_sim2">"SIM2 ಫೋನ್ ರಿಂಗ್ ಟೋನ್"</string>
+<string name="ringtone_title_sim1">"SIM1 ಫೋನ್ ರಿಂಗ್ ಟೋನ್"</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" SIM2 ಫೋನ್ ರಿಂಗ್ ಟೋನ್ ಆಗಿ ಸ್ಥಾಪಿಸಲಾಗಿದೆ."</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" SIM1 ಫೋನ್ ರಿಂಗ್ ಟೋನ್ ಆಗಿ ಸ್ಥಾಪಿಸಲಾಗಿದೆ."</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ರಿಂಗ್ ಟೋನ್ ಆಗಿ ಸ್ಥಾಪಿಸಿ."</string>
+<string name="ringtone_menu_short">"ರಿಂಗ್ ಟೋನ್ ಆಗಿ ಬಳಸಿ"</string>
+<string name="ring_set_silent_vibrate">"ಸಧ್ಯದ ಸ್ಥಿತಿಯನ್ನು ಕಸ್ಟಮ್ ಕರೆಧ್ವನಿಗಳು ಬೆಂಬಲಿಸುತ್ತಿಲ್ಲ"</string>
+<string name="ring_set_fail">"ಕ್ಷಮಿಸಿ, ಈ ಹಾಡನ್ನು ಚಾಲನೆಗೊಳಿಸಲು ಆಗುತ್ತಿಲ್ಲ. ದಯವಿಟ್ಟು ಬೇರೆ ಹಾಡನ್ನು ನಿಮ್ಮ ರಿಂಗ್ ಟೋನ್ ಆಗಿ ಆಯ್ಕೆ ಮಾಡಿ"</string>
+<string name="resume_record">"ರೆಕಾರ್ಡ್ ಮುಂದುವರಿಸಿ"</string>
+<string name="resume_play">"ಪ್ಲೇ ಮುಂದುವರಿಸಿ"</string>
+<string name="reset_timer_recording">"ರೆಕಾರ್ಡಿಂಗ್ ಸಾಧನವನ್ನು ಇನ್ನೊಂದು ಪ್ರೋಗ್ರಾಮ್ ಬಳಸುತ್ತಿದೆ,ದಯವಿಟ್ಟು,ಟೈಮರ್ ರೆಕಾರ್ಡಿಂಗನ್ನು ರೀಸೆಟ್ ಮಾಡಿ"</string>
+<string name="rename_button">"ಅಬಂಡನ್"</string>
+<string name="recording_start_time">"ಆರಂಭದ ಸಮಯ ರೆಕಾರ್ಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ"</string>
+<string name="recording_play">"ರೆಕಾರ್ಡ್ ಆಗುತ್ತಿದೆ ಪ್ಲೇ"</string>
+<string name="recording_pause">"ರೆಕಾರ್ಡಿಂಗ್ ವಿರಾಮಗೊಳಿಸಿದೆ ..."</string>
+<string name="recording_now">"ರೆಕಾರ್ಡಿಂಗ್ ..."</string>
+<string name="recording_duration">"ದಾಖಲಿಸುತ್ತಿದೆ ಕಾಲಾವಧಿ ಗಂಟೆ"</string>
+<string name="record_timer">"ಟೈಮರ್ ರೆಕಾರ್ಡ್"</string>
+<string name="record_stop_and_save">"ನಿಲ್ಲಿಸಿ ಮತ್ತು ಉಳಿಸಿ"</string>
+<string name="record_stop">"ನಿಲ್ಲಿಸಿ"</string>
+<string name="record_setting">"ಸೆಟ್ಟಿಂಗ್ ಗಳು"</string>
+<string name="record_pause">"ಸದ್ಯಕ್ಕೆ ನಿಲ್ಲಿಸಿ"</string>
+<string name="record_mp3">"MP3 (ಉತ್ತಮ ಗುಣಮಟ್ಟದ)"</string>
+<string name="record_miss">"ಮಿಸ್ಡ್ ಟೈಮರ್ ರೆಕಾರ್ಡ್"</string>
+<string name="record">"ರೆಕಾರ್ಡ್"</string>
+<string name="read_file_path">"ಕಡತ ಮಾರ್ಗ ಪರಿಶೀಲಿಸಿ"</string>
+<string name="previous_tag">"ಕೊನೆಯ ಟ್ಯಾಗ್"</string>
+<plurals name="minutes">
+<item quantity="one">"1 ನಿಮಿಷ"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> ನಿಮಿಷಗಳು"</item>
+</plurals>
+<plurals name="hours">
+<item quantity="one">"1 ಗಂಟೆ"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> ಗಂಟೆಗಳು"</item>
+</plurals>
+<plurals name="confirm_delfile">
+<item quantity="one">"ನೀವು ಫೈಲ್ ಅಳಿಸಲು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?"</item>
+<item quantity="other">"ನೀವು ಖಚಿತವಾಗಿ ಫೈಲ್ಗಳನ್ನು ಅಳಿಸಲು ಬಯಸುವಿರಾ?"</item>
+</plurals>
+<string name="please_insert_sim_card">"ದಯವಿಟ್ಟು ನಿಷ್ಠಪಕ್ಷ SIM ಕಾರ್ಡನ್ನಾದರೂ ಒಳಸೇರಿಸಿ"</string>
+<string name="playback_failed">"ಪ್ಲೇಯರ್ ಈ ರೀತಿಯ ಆಡಿಯೋ ಕಡತಗಳನ್ನು ಬೆಂಬಲಿಸುತ್ತಿಲ್ಲ"</string>
+<string name="phone_storage_not_enough">"ಫೋನ್ ಸಂಗ್ರಹಣೆ ಸಾಕಾಗುವುದಿಲ್ಲ!"</string>
+<string name="pauserecording">"ರೆಕಾರ್ಡ್ ವಿರಾಮ"</string>
+<string name="path_miss_nosave">"ಸಂಗ್ರಹಣಾ ಮಾರ್ಗ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ!, ದಾಖಲಾತಿಗಳು ಉಳಿದುಕೊಂಡಿಲ್ಲ"</string>
+<string name="operate_share">"ಹಂಚಿಕೊಳ್ಳಿ"</string>
+<string name="no_sd_write_permission">"ಸೌಂಡ್ ರೆಕಾರ್ಡರ್ ನಿಮ್ಮ SD ಕಾರ್ಡ್ ಗೆ ಪ್ರವೇಶವನ್ನು ಹೊಂದಿಲ್ಲ, ದಯವಿಟ್ಟು ಅಪ್ಲಿಕೇಶನ್ನ ಸಂಗ್ರಹಣೆಯನ್ನು ದೃಢೀಕರಿಸಿ ಅಥವಾ ತೆರವುಗೊಳಿಸಿ ಮತ್ತು ಮತ್ತೆ ಕಾರ್ಯನಿರ್ವಹಿಸಿ. "</string>
+<string name="next_tag">"ಮುಂದಿನ ಟ್ಯಾಗ್"</string>
+<string name="new_record">"ಹೊಸ ದಾಖಲೆ"</string>
+<string name="mode_change">"ಆಡಿಯೊ ಮೋಡ್ ಬದಲಾವಣೆಗೆ ಸಮಯ ಬೇಕಾಗುತ್ತದೆ ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ ..."</string>
+<string name="miss_timer_time">"ಸಮಯ: <xliff:g id="TIME">%s</xliff:g>"</string>
+<string name="miss_timer_recording">"ತಪ್ಪಿದ ಟೈಮರ್ ರೆಕಾರ್ಡಿಂಗ್"</string>
+<string name="min">"m"</string>
+<string name="menu_select_type">"ಕಡತದ ವಿಧವನ್ನು ಹೊಂದಿಸಿ"</string>
+<string name="menu_select_more">"ಹೆಚ್ಚು ಆಯ್ಕೆ ಮಾಡಿ"</string>
+<string name="local_record">"ಸ್ಥಳೀಯ ದಾಖಲೆ"</string>
+<string name="keep_original_file">"ಮೂಲ ಕಡತವನ್ನು ಇಟ್ಟುಕೊಳ್ಳಿ"</string>
+<string name="internal_storage">"ಫೋನ್"</string>
+<string name="internal_sdcard">"ಆಂತರಿಕ SD ಕಾರ್ಡ್"</string>
+<string name="illegal_chars_of_filename">\\:*?\"\u003C&gt;|/ ಫೈಲ್ ಹೆಸರು ಅಕ್ರಮ ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರಬಾರದು</string>
+<string name="hour_duration">"<xliff:g id="hour">%s</xliff:g>ಹೆಚ್"</string>
+<string name="hour">"h"</string>
+<string name="file_type">"ಫಾರ್ಮ್ಯಾಟ್"</string>
+<string name="file_size">"ಕಡತದ ಗಾತ್ರ："</string>
+<string name="file_rename">"ಫೈಲ್ ಹೆಸರು ಪುನರಾವರ್ತನೆಯಾಗಿದೆ, ಅದು ಸೇವ್‌ ಆಗಿಲ್ಲ"</string>
+<string name="file_path_button">"ಕಡತ ಮಾರ್ಗ "</string>
+<string name="file_path">"ಕಡತ ಮಾರ್ಗ:"</string>
+<string name="file_name">"ಕಡತದ ಹೆಸರು"</string>
+<string name="file_is_corrupt">"ಫೈಲ್ ದೋಷಪೂರಿತವಾಗಿದೆ"</string>
+<string name="file_date">"ಕಡತದ ದಿನಾಂಕ:"</string>
+<string name="file_choose">"ಫೈಲ್ ಆರಿಸಿ"</string>
+<string name="external_storage">"SD ಕಾರ್ಡ್"</string>
+<string name="external_sdcard">"ಬಾಹ್ಯ SD ಕಾರ್ಡ್"</string>
+<string-array name="duration_hours">
+<item>" ಗಂಟೆ"</item>
+<item>" ಗಂಟೆಗಳು"</item>
+</string-array>
+<string name="dialog_dismiss">"ತೆಗೆದು ಹಾಕಿ"</string>
+<string name="confirm">"ಸರಿ"</string>
+<string name="close_timer">"ಟೈಮರ್ ರೆಕಾರ್ಡ್ ಮುಚ್ಚು"</string>
+<string name="clip_time">"ಕ್ಲಿಪ್ ಅವಧಿ"</string>
+<string name="clip_name_suffix">"ಕ್ಲಿಪ್"</string>
+<string name="clip_file_exit">"ಕಡತದ ಹೆಸರು ಪುನರಾವರ್ತಿತವಾಗಿದೆ. ದಯವಿಟ್ಟು ಅದನ್ನು ಮತ್ತೆ ನಮೂದಿಸಿ"</string>
+<string name="clip_duration_tip">"ಉದ್ದವನ್ನು ಸಂಪಾದಿಸಿ"</string>
+<string name="call_record">"ಕರೆಯ ದಾಖಲೆ"</string>
+<string name="button_tag">"ಟ್ಯಾಗ್"</string>
+<string name="button_set">"ಹೊಂದಿಸಿ"</string>
+<string name="button_list">"ಪಟ್ಟಿ"</string>
+<string name="background_speak_close">"ರೆಕಾರ್ಡ್ ಪ್ಲೇ ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುವುದಿಲ್ಲ ಮತ್ತು ಸ್ಥಗಿತವಾಗಿದೆ"</string>
+<string name="autosaverecord">"ಸ್ವಯಂ ಉಳಿಸು"</string>
+<string name="auto_save">"ಸ್ವಯಂಚಾಲಿತವಾಗಿ ರೆಕಾರ್ಡಿಂಗ್ಗಳನ್ನು ಉಳಿಸಿ"</string>
+<string name="no_allow_play_calling">"ಕರೆಯ ಸಮಯದಲ್ಲಿ ಯಾವುದೇ ಆಡಿಯೊ ಫೈಲ್ ಅನ್ನು ಪ್ಲೇ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ."</string>
+<string name="error_permissions">"ಅಪ್ಲಿಕೇಶನ್ಗೆ ಕಾರ್ಯನಿರ್ವಹಿಸಲು ಅಗತ್ಯವಿರುವ ನಿರ್ಣಾಯಕ ಅನುಮತಿಗಳನ್ನು ಹೊಂದಿಲ್ಲ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಅನುಮತಿ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ಪರಿಶೀಲಿಸಿ."</string>
+<string name="superuser_request_confirm">"ಸೌಂಡ್ ರೆಕಾರ್ಡರ್ ನಿಮ್ಮ ಎಸ್‌ಡಿ ಕಾರ್ಡ್‌ಗೆ ಪ್ರವೇಶವನ್ನು ಹೊಂದಿಲ್ಲ, ದಯವಿಟ್ಟು ಬಾಹ್ಯ ಮೂಲ ಡೈರೆಕ್ಟರಿ SANDISK SD  ಕಾರ್ಡ್ ಆಯ್ಕೆಮಾಡಿ ಮತ್ತು ಕಾರ್ಯನಿರ್ವಹಿಸಲು ಸೌಂಡ್ ರೆಕಾರ್ಡರ್ ಅನ್ನು ಅಧಿಕೃತಗೊಳಿಸಿ."</string>
+<string name="share_max_warning">"100 ಕ್ಕೂ ಹೆಚ್ಚು ಫೈಲ್‌ಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ ಮತ್ತು ಹಂಚಿಕೆ ಫಂಕ್ಷನ್ ಲಭ್ಯವಿಲ್ಲ"</string>
+<string name="exit_multiwindow_tips">"ಮಲ್ಟಿ ವಿಂಡೋ ಮೋಡ್‌ ಅನ್ನು ಸೌಂಡ್‌ ರೆಕಾರ್ಡರ್‌ ಬೆಂಬಲಿಸುವುದಿಲ್ಲ, ದಯವಿಟ್ಟು ಫುಲ್‌ ಸ್ಕ್ರೀನ್‌ ಮೋಡ್‌ನಲ್ಲಿ ಸೌಂಡ್‌ ರೆಕಾರ್ಡರ್ ಅನ್ನು ಬಳಸಿ."</string>
+</resources>

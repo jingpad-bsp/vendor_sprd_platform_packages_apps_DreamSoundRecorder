@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">"ឧបករណ៍ថតសម្លេង"</string>
+  <string name="record_your_message">"ថតសារលិខិត"</string>
+  <string name="message_recorded">"សារលិខិតបានថតហើយ"</string>
+  <string name="review_message">"អត្ថបទសារលិខិត"</string>
+  <string name="recording">"ថតសំឡេង"</string>
+  <string name="recording_save">"សម្លេងថតរក្សាទុករួច"</string>
+  <string name="recording_nosave">"សម្លេងថតមិនទាន់រក្សាទុកទេ"</string>
+  <string name="storage_is_full">"ទំហំចងចាំពេញហើយ"</string>
+  <string name="max_length_reached">"បានដល់អតិបរមាវែង"</string>
+  <string name="insert_sd_card">"សូមស៊កបញ្ចូលកាតSD"</string>
+  <string name="phone_message">"កាលណាកំពុងនិយាយទូរស័ព្ទ មិនអាចបើកឧបករណ៍ថតសម្លេងទេ។"</string>
+  <string name="min_available">"ប្រហែលសល់ <xliff:g id="minutes">%d</xliff:g> នាទី អាចប្រើបាន"</string>
+  <string name="sec_available">"ប្រហែលសល់ <xliff:g id="seconds">%d</xliff:g>វិនាទីអាចប្រើបាន"</string>
+  <string name="accept">"រក្សាទុក"</string>
+  <string name="discard">"បោះបង់"</string>
+  <string name="button_ok">"បានហើយ"</string>
+  <string name="press_record">"ចុចប៊ូតុងថត"</string>
+  <string name="audio_db_artist_name">"សម្លេងថតរបស់លោក"</string>
+  <string name="audio_db_album_name">"សម្លេងថត"</string>
+  <string name="audio_db_playlist_name">"សម្លេងថតខ្ញុំ"</string>
+  <string name="error_sdcard_access">"មិនអាចអានមើលកាតSDទេ"</string>
+  <string name="error_app_internal">"កម្មវិធីខាងក្នុងមានកំហុស"</string>
+  <string name="error_mediadb_new_record">"មិនអាចរក្សាទុកសម្លេងថតបាន"</string>
+  <string name="select_file_type">"ជ្រើសរើសប្រភេទឯកសារថតសម្លេង"</string>
+  <string name="record_amr">"ប្រភេទamr"</string>
+  <string name="record_3gpp">"ប្រភេទ3gpp"</string>
+  <string name="button_cancel">"បោះបង់"</string>
+  <string name="path_save">"ផ្លូវលំនាំដើមបានរក្សាទុក"</string>
+  <string name="path_nosave">"ផ្លូវលំនាំដើមមិនទាន់រក្សាទុក"</string>
+  <string name="path_default">"ផ្លូវបច្ចុប្បន្ននេះមិនមែនអង្គចងចាំខាងក្នុង ក៏មិនមែនអង្គចងចាំខាងក្រៅទេ។ ផ្លូវសម្រាប់រក្សាទុកផ្លាស់ទៅជាអង្គចងចាំខាងក្នុង។"</string>
+  <string name="menu_set_save_path">"កំណត់ផ្លូវសម្រាប់រក្សាទុក"</string>
+  <string name="back">"ត្រឡប់ទៅ.."</string>
+  <string name="path_label">"សូមជ្រើសរើសផ្លូវសម្រាប់រក្សាទុក"</string>
+  <string name="storage_is_not_enough">"អង្គចងចាំមិនគ្រប់គ្រាន់ទេ"</string>
+  <string name="menu_recording_file_list">"បញ្ជីឯកសាថតសម្លេង"</string>
+  <string name="menu_recording_list_select_all">"ជ្រើសរើសទាំងអស់"</string>
+  <string name="menu_recording_list_delete">"លុបចោល"</string>
+  <string name="menu_recording_list_deselect_all">"ដោះជម្រើសទាំងអស់"</string>
+  <string name="recording_file_delete_success">"ឯកសារថតសម្លេងលុបចោលហើយ"</string>
+  <string name="recording_file_database_failed">"លុបចោលឃ្លាំងទិន្នន័យបរាជ័យ"</string>
+  <string name="recording_file_delete_failed">"លុបចោលឯកសារថតសម្លេងបរាជ័យ"</string>
+  <string name="confirm_del">"តើលោកសម្រេចលុបចោលឯកសារនេះទេ?"</string>
+  <string name="button_delete">"លុបចោល"</string>
+  <string name="recording_file_delete_alert_title">"លុបចោល"</string>
+  <string name="recording_file_delete_alert_message">"សម្រេចលុបចោលទេ %1$s ?"</string>
+  <string name="recording_file_list">"បញ្ជីឯកសារថតសម្លេង"</string>
+  <string name="less_than_one_second">"1 វិនាទី"</string>
+  <string name="is_scanning">"កម្មវិថីពិនិត្យមើលមីឌាកំពុងពិនិត្យលមើល។ សូមសាកល្បងទៀតពេលក្រោយ។"</string>
+  <string name="low_memory">"ទំហំអង្គចងចាំតិចពេក"</string>
+  <string name="emptylist">"បញ្ជីទទេ"</string>
+  <string name="choose_file">"សូមជ្រើសរើសឯកសារថតសម្លេងដែលលោកចង់លុបចោល!"</string>
+  <string name="error_path">"ផ្លូវដែលលោកជ្រើសរើសមិននៅទេ សូមកំណត់ជាថ្មី!"</string>
+  <string name="path_miss">"គ្មានផ្លូវសម្រាប់រក្សាទុកទេ ឬមិនអាចចូលបាន!"</string>
+  <string name="record_error">"ការថតសម្លេងមានកំហុស!"</string>
+  <string name="same_application_running">"ឧបករណ៍ថតសម្លេងកំពុងប្រើប្រាស់ដោយកម្មវិធីផ្សេងទៀត សូមបិទកម្មវិធីនេះ!"</string>
+  <string name="min_and_time_available">"ប្រហែល <xliff:g id="minutes">%d</xliff:g> នាទីនិង<xliff:g id="seconds">%d</xliff:g> វិនាទីអាចប្រើបាន"</string>
+  <string name="rename">ឲ្យឈ្មោះឡើងវិញ</string>
+  <string name="rename_save">"ដាក់ឈ្មោះជាថ្មីជោគជ័យ"</string>
+  <string name="rename_nosave">"ដាក់ឈ្មោះជាថ្មីបរាជ័យ"</string>
+  <string name="soundpicker_label">"សូមជ្រើសរើសឯកសារថត"</string>
+  <string name="dialog_title">សូមជ្រើសរើស</string>
+  <string name="dialog_message">"ចង់រក្សាទុកសម្លេងថតឬទេ?"</string>
+  <string name="recording_time_short">"ឯកសារថតសម្លេងតិចជាង1វិនាទី មិនទាន់រក្សាទុក"</string>
+    <string name="recording_stopped">"សម្លេងថតចប់ហើយ"</string>
+    <string name="save">"រក្សាទុក"</string>
+    <string name="pause">"ការផ្អាក"</string>
+    <string name="recording_list_empty">"បញ្ជីទទេ"</string>
+    <string name="filename_is_not_modified">"ឈ្មោះឯកសារមិនត្រូវបានកែប្រែឡើយ"</string>
+    <string name="duplicate_name">"ឈ្មោះឯកសារជាន់គ្នា"</string>
+    <string name="error_sdcard_path">"រកមិនឃើញកាតsd។ ផ្លូវសម្រាប់រក្សាទុកដែលកំណត់តាមលំនាំដើមត្រូវបានកែទៅជាអង្គចងចាំខាងក្នុង។"</string>
+    <string name="input_length_overstep">"ខ្លឹមសារដែលបានបញ្ចូលបានវែងដល់កម្រិតអតិបរមាហើយ"</string>
+    <string name="filename_empty_error">"ឈ្មោះឯកសារមិនអាចទុកអោយទទេបានទេ ដូចនេះរក្សាទុកតាមឈ្មោះដើម"</string>
+    <string name="please_choose_files">"សូមមេត្តាជ្រើសរើសឯកសារ"</string>
+    <string name="selected_files_count">"បានជ្រើសរើស<xliff:g id="COUNTS">%d</xliff:g>"</string>
+<string name="view_file_details">"មើល​ព័ត៌មាន​លម្អិត"</string>
+<string name="use_default_path">គន្លងឯកសារដែលបានរក្សាទុកមិនមានទេ សូមប្រើគន្លងតាមលំនាំដើម</string>
+<string name="type_mp3">"MP3"</string>
+<string name="type_amr">"AMR"</string>
+<string name="type_3gpp">"3GPP"</string>
+<string name="tuned_timer_recording">"សំឡេងថតតាមមុខងារកំណត់ពេលត្រូវបានបើក"</string>
+<string name="timeset">"កំណត់ម៉ោង"</string>
+<string-array name="timer_recording_time">
+<item>"ការថតសម្លេងកំណត់ម៉ោងត្រូវបានកំណត់នៅរយៈពេលមិនដល់1នាទីទៀតទេ។"</item>
+<item>"ការថតសម្លេងកំណត់ម៉ោងត្រូវបានកំណត់នៅរយៈពេល <xliff:g id="HOURS">%1$s</xliff:g> ម៉ោងទៀត​។"</item>
+<item>"ការថតសម្លេងកំណត់ម៉ោងត្រូវបានកំណត់នៅរយៈពេល<xliff:g id="MINUTES">%2$s</xliff:g> នាទីទៀត។"</item>
+<item>"ការថតសម្លេងកំណត់ម៉ោងត្រូវបានកំណត់នៅរយៈពេល <xliff:g id="HOURS">%1$s</xliff:g> ម៉ោងនិង <xliff:g id="MINUTES">%2$s</xliff:g> នាទីទៀត។"</item>
+</string-array>
+<string name="timer_recording_detail">"ចាប់ផ្តើមថតនៅម៉ោង <xliff:g id="hours">%s</xliff:g>:<xliff:g id="minutes">%s</xliff:g> រយៈពេល <xliff:g id="COUNTS">%s</xliff:g>"</string>
+<string name="tag_limit">"ចំនួនដែលបានកត់ចំណាំបានដល់ចំនួនកំណត់ហើយ"</string>
+<string name="tag">"ស្លាក"</string>
+<string name="stroage_not_mounted">"ឧបករណ៍ផ្ទុកមិនត្រូវបានភ្ជាប់ទេ"</string>
+<string name="storage_not_enough">"មិនមានទំហំផ្ទុកគ្រប់គ្រាន់ បានបរាជ័យក្នុងការចាប់ផ្តើមថតសំឡេង!"</string>
+<string name="starttimeandduration">"រយៈពេលចាប់ផ្តើម \u0026"</string>
+<string name="start_record">"ចាប់ផ្តើមថតសម្លេង"</string>
+<string name="start_play">"ចាប់ផ្តើមចាក់"</string>
+<string name="start">"ចាប់ផ្ដើម"</string>
+<string name="special_char_exist">"សញ្ញាពិសេសដូចជា<xliff:g id="COUNTS">%s</xliff:g> មិនត្រូវបានគាំទ្រនោះទេ"</string>
+<string name="speak_open">"របៀបទទួលគឺបើក"</string>
+<string name="speak_close">"របៀបទទួលគឺបិទ"</string>
+<string name="soundrecording">ការថតសម្លេង</string>
+<string name="set_timer_recording">"សំឡេងថតដែលត្រូវបានកំណត់ពេល"</string>
+<string name="set_as_ring">"កំណត់ជាសំឡេងរោទ៍"</string>
+<string name="save_successful">"ការរក្សាទុកបានជោគជ័យ! ផ្លូវរក្សាទុកគឺ៖<xliff:g id="FILEPATH">%1$s</xliff:g>"</string>
+<string name="save_path">"រក្សាទុក​ទីតាំង"</string>
+<string name="save_failed">"ការរក្សាទុកបរាជ័យ!"</string>
+<string name="save_dialog_title">"ការថតសំឡេងថ្មី"</string>
+<string name="ringtone_title_sim2">"សម្លេងរោទិ៍នៃទូរស័ព្ទចំពោះស៊ីម2"</string>
+<string name="ringtone_title_sim1">សម្លេងរោទិ៍របស់ស៊ីម១</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ត្រូវបានកំណត់ជាសំឡេងរោទ៍ទូរសព្ទរបស់ស៊ីមទី 2 ។"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ត្រូវបានកំណត់ជាសំឡេងរោទ៍ទូរសព្ទរបស់ស៊ីមទី 1 ។"</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ត្រូវបានកំណត់ជាសំឡេងរោទ៍ទូរសព្ទ។"</string>
+<string name="ringtone_menu_short">ប្រើវាជាសម្លេងរោទិ៍</string>
+<string name="ring_set_silent_vibrate">ម៉ូដដែលកំពុងប្រើប្រាស់នេះមិនគាំទ្រភ្លេងរោទិ៍កំណត់ដោយស្វ័យប្រវត្តិទេ។</string>
+<string name="ring_set_fail">សុំអត់ទោស ឯកសារសម្លេងរោទ៍មិនអាចចាក់បាន។ សូមជ្រើសរើសចម្រៀងដទៃធ្វើជាសម្លេងរោទ៍</string>
+<string name="resume_record">"បន្តការថតសម្លេង"</string>
+<string name="resume_play">"បន្តការចាក់"</string>
+<string name="reset_timer_recording">"ឧបករណ៍ចាក់ត្រូវបានកំពុងប្រើដោយកម្មវិធីផ្សេងទៀត សូមធ្វើការកំណត់ពេលវេលាថតសម្លេងឡើងវិញ!"</string>
+<string name="rename_button">"បោះបង់"</string>
+<string name="recording_start_time">"ពេលវេលាចាប់ផ្តើមថតសម្លេង"</string>
+<string name="recording_play">"ការចាក់ការថតសម្លេង"</string>
+<string name="recording_pause">"ការថតបានផ្អាក..."</string>
+<string name="recording_now">"កំពុងថត..."</string>
+<string name="recording_duration">"ម៉ោងសម្រាប់ធ្វើការថតសម្លេង"</string>
+<string name="record_timer">"ម៉ោងថត"</string>
+<string name="record_stop_and_save">"បញ្ឈប់ ហើយរក្សាទុក"</string>
+<string name="record_stop">"បញ្ឈប់"</string>
+<string name="record_setting">"ការកំណត់"</string>
+<string name="record_pause">"ផ្អាក"</string>
+<string name="record_mp3">"MP3 (គុណភាពខ្ពស់)"</string>
+<string name="record_miss">"ខកខានម៉ោងថត"</string>
+<string name="record">"ថត"</string>
+<string name="read_file_path">"ឆែកមើលគន្លងនៃឯកសារ"</string>
+<string name="previous_tag">"កត់ចំណាំចុងក្រោយ"</string>
+<plurals name="minutes">
+<item quantity="one">"១ នាទី"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> នាទី"</item>
+</plurals>
+<plurals name="hours">
+<item quantity="one">១ម៉ោង</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> ម៉ោង"</item>
+</plurals>
+<plurals name="confirm_delfile">
+<item quantity="one">"តើអ្នកពិតជាចងលុបឯកសារនេះមែនទេ?"</item>
+<item quantity="other">តើលោកអ្នកច្បាស់ថាលុបឯកសារនេះចោលឬ?</item>
+</plurals>
+<string name="please_insert_sim_card">សូមស៊កស៊ីមកាតយ៉ាងហោចមួយចូល</string>
+<string name="playback_failed">សូមទោស ប្រដាប់បញ្ចាំងមិនគាំទ្រឯកសារសំឡេងនេះ</string>
+<string name="play_error">"កម្មវិធីចាក់តន្ត្រីត្រូវបានបិទ មិនអាចបើកបានទេ！"</string>
+<string name="phone_storage_not_enough">"អង្គចងចាំទូរស័ព្ទមិនគ្រប់គ្រាន់ទេ!"</string>
+<string name="pauserecording">"ផ្អាកថត"</string>
+<string name="path_miss_nosave">គន្លងដែលបានផ្ទុកនេះមិនមានទេ ការថតនឹងមិនត្រូវបានរក្សាទុកទេ!</string>
+<string name="operate_share">"ចែករំលែក"</string>
+<string name="no_sd_write_permission">"កម្មវិធីថតសំឡេងមិនមានសិទ្ធិចូលប្រើកាត SD របស់អ្នកទេ សូមផ្ដល់ការអនុញ្ញាត ឬសម្អាតទំហំផ្ទុករបស់កម្មវិធី ហើយធ្វើប្រតិបត្តិការម្តងទៀត។"</string>
+<string name="no_allow_play_calling">"មិនអាចចាក់ឯកសារសំឡេងណាមួយបានទេក្នុងអំឡុងពេលហៅទូរសព្ទ។"</string>
+<string name="next_tag">"កត់ចំណាំបន្ទាប់"</string>
+<string name="new_record">"ការថតថ្មី"</string>
+<string name="mode_change">"ការផ្លាស់ប្តូរម៉ូដសំឡេងត្រូវការពេលវេលា សូមរង់ចាំ..."</string>
+<string name="miss_timer_time">"ពេលវេលា៖ <xliff:g id="TIME">%s</xliff:g>"</string>
+<string name="miss_timer_recording">"ហួសពេលថតសម្លេងកំណត់ម៉ោង"</string>
+<string name="min">"M"</string>
+<string name="menu_select_type">កំណត់ប្រភេទឯកសារ</string>
+<string name="menu_select_more">ជ្រើសរើសច្រើន</string>
+<string name="local_record">"កំណត់ត្រាមូលដ្ឋាន"</string>
+<string name="keep_original_file">"រក្សាឯកសារដើម"</string>
+<string name="internal_storage">"ទូរសព្ទ"</string>
+<string name="internal_sdcard">"កាត SD ខាងក្នុង"</string>
+<string name="illegal_chars_of_filename">"ឈ្មោះឯកសារមិនអាចមានតួអក្សរ \\:*?\"\u003C\u003E|/ បានឡើយ"</string>
+<string name="hour_duration">"<xliff:g id="hour">%s</xliff:g>H"</string>
+<string name="hour">"H"</string>
+<string name="file_type">"ហ្វ័រម៉ាត"</string>
+<string name="file_size">"ទំហំឯកសារ៖"</string>
+<string name="file_rename">"ឈ្មោះឯកសារគឺស្ទួនគ្នា វាមិនត្រូវបានរក្សាទុកទេ"</string>
+<string name="file_path_button">គន្លងឯកសារ</string>
+<string name="file_path">គន្លងឯកសារ៖</string>
+<string name="file_name">ឈ្មោះឯកសារ៖</string>
+<string name="file_is_corrupt">"ឯកសារគឺខូច"</string>
+<string name="file_date">"កាលបរិច្ឆេទឯកសារ៖"</string>
+<string name="file_choose">"ការជ្រើសឯកសារ"</string>
+<string name="external_storage">"កាត SD"</string>
+<string name="external_sdcard">"កាត SD ខាងក្រៅ"</string>
+<string name="error_permissions">"កម្មវិធីមិនមានការអនុញ្ញាតចាំបាច់ដើម្បីដំណើរការទេ។ សូមពិនិត្យមើលការកំណត់ការអនុញ្ញាតរបស់អ្នក។"</string>
+<string-array name="duration_hours">
+<item>"ម៉ោង"</item>
+<item>"ម៉ោង"</item>
+</string-array>
+<string name="dialog_dismiss">"បោះបង់"</string>
+<string name="confirm">យល់ព្រម</string>
+<string name="close_timer">"បិទម៉ោងថត"</string>
+<string name="clip_time">"រយៈពេលឈុត"</string>
+<string name="clip_name_suffix">"ឈុត"</string>
+<string name="clip_file_exit">"ឈ្មោះឯកសារគឺស្ទួនគ្នា។ សូមបញ្ចូលវាឡើងវិញ"</string>
+<string name="clip_duration_tip">"កែតម្រូវប្រវែង"</string>
+<string name="call_record">"កំណត់ត្រាការហៅ"</string>
+<string name="button_tag">"ស្លាក"</string>
+<string name="button_set">"កំណត់"</string>
+<string name="button_list">បញ្ជី</string>
+<string name="background_speak_close">"ការចាក់សំឡេងមិនដំណើរការនៅក្នុងផ្ទៃខាងក្រោយឡើយ ហើយត្រូវបានបិទ"</string>
+<string name="autosaverecord">"រក្សាទុកដោយស្វ័យប្រវត្តិ"</string>
+<string name="auto_save">"រក្សាទុកសំឡេងថតដោយស្វ័យប្រវត្តិ"</string>
+<string name="superuser_request_confirm">"កម្មវិធីថតសំឡេងមិនមានសិទ្ធិចូលប្រើកាត SD របស់អ្នកទេ សូមជ្រើសរើសកាត SD SANDISK របស់ថតឬសខាងក្រៅ ហើយអនុញ្ញាតកម្មវិធីថតសំឡេងឲ្យប្រតិបត្តិការ។"</string>
+<string name="share_max_warning">"បានជ្រើសរើសលើសពី 100 ឯកសារ ហើយមុខងារចែករំលែកមិនអាចប្រើបានទេ"</string>
+<string name="exit_multiwindow_tips">"កម្មវិធីថតសំឡេងមិនស្គាល់ម៉ូដពហុវីនដូទេ សូមប្រើកម្មវិធីថតសំឡេង​នៅក្នុងម៉ូដ​ពេញអេក្រង់។"</string>
+</resources>

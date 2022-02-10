@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">Soinu grabagailua</string>
+<string name="record_your_message">Zure mezua grabatu</string>
+<string name="message_recorded">Mezua gorde da</string>
+<string name="review_message">Mezuaren letra</string>
+<string name="recording">Grabazioa</string>
+<string name="recording_stopped">Grabazioa gelditu da</string>
+<string name="recording_save">Grabazioa gorde da</string>
+<string name="recording_nosave">Grabazioa ez da gorde</string>
+<string name="storage_is_full">Biltegiratzea beteta dago</string>
+<string name="max_length_reached">Luzeera maximora heldu da</string>
+<string name="phone_message">Ezin da Soinu Grabagailua piztu deia basten bitartean.</string>
+<string name="min_available">Gutxi gorabehera <xliff:g id="minutes">%d</xliff:g> min erabilgarri</string>
+<string name="min_and_time_available">Gutxi gorabehera <xliff:g id="minutes">%d</xliff:g> minutu eta <xliff:g id="seconds">%d</xliff:g> segundu erabilgarri</string>
+<string name="sec_available">Gutxi gorabehera <xliff:g id="seconds">%d</xliff:g>s erabilgarri</string>
+<string name="accept">Gorde</string>
+<string name="discard">Baztertu</string>
+<string name="button_ok">Gorde</string>
+<string name="press_record">Sakatu grabatu</string>
+<string name="audio_db_artist_name">Zure grabazioak</string>
+<string name="audio_db_album_name">Audio grabazioak</string>
+<string name="audio_db_playlist_name">Nire grabazioak</string>
+<string name="error_app_internal">Barneko aplikazioaren errorea</string>
+<string name="error_mediadb_new_record">Ezin da grabatutako audioa gorde</string>
+<string name="save">Gorde</string>
+<string name="select_file_type">Hautatu grabazio fitxategi mota</string>
+<string name="record_amr">"AMR (kalitate gutxi)"</string>
+<string name="record_3gpp">"3GPP (kalitate handia)"</string>
+<string name="button_cancel">"Utzi"</string>
+<string name="path_save">Bide lehenetsia gorde da</string>
+<string name="path_nosave">Bide lehenetsia ez da gorde</string>
+<string name="path_default">Une honetako bidea ezin da idatzi edo baliogabea da, barne-memoria biderako bidea da.</string>
+<string name="menu_set_save_path">Ezarri gordetzeko bidea</string>
+<string name="back">Atzera joaten…</string>
+<string name="path_label">Non gorde</string>
+<string name="pause">Pausatuta</string>
+<string name="storage_is_not_enough">Biltegiratzea ez da nahikoa</string>
+<string name="menu_recording_file_list">"Grabaketak"</string>
+<string name="recording_list_empty">Zerrenda hutsik dago</string>
+<string name="menu_recording_list_select_all">"Hautatu dena"</string>
+<string name="menu_recording_list_delete">"Ezabatu"</string>
+<string name="menu_recording_list_deselect_all">"Desautatu"</string>
+<string name="recording_file_delete_success">Grabazioa ezabatu da</string>
+<string name="recording_file_database_failed">Ezin izan da datu-baseko fitxategia ezabatu</string>
+<string name="recording_file_delete_failed">Ezin izan da grabazio fitxategia ezabatu</string>
+<string name="confirm_del">Ziur zaude fitxategiak ezabatu nahi dituzula?</string>
+<string name="button_delete">"Ezabatu"</string>
+<string name="recording_file_delete_alert_title">"Ezabatu"</string>
+<string name="recording_file_delete_alert_message">Ziur zaude %1$s ezabatu nahi duzula?</string>
+<string name="recording_file_list">"Grabaketak"</string>
+<string name="less_than_one_second">"1 segundo"</string>
+<string name="is_scanning">"MediaScanner eskaneatzen ari da, mesedez itxaron..."</string>
+<string name="emptylist">Zerrenda hutsik dago</string>
+<string name="choose_file">"Hautatu fitxategiak ezabatu nahi dituzuneko erregistroa!"</string>
+<string name="error_path">"Aukeratutako bidea ez da existitzen, mesedez berriz konfiguratu!"</string>
+<string name="path_miss">"Gordetako bidea ez da existitzen edo ezin da aurkitu!"</string>
+<string name="file_is_corrupt">Fitxategia hondatuta dago</string>
+<string name="low_memory">"Ez dago memoria nahikoa. Grabaketa geldituko da."</string>
+<string name="record_error">"Grabatzean ezohiko arazo bat egon da!"</string>
+<string name="play_error">"Desgaitu da musika-erreproduzigailua eta ezin da ireki"</string>
+<string name="dialog_title">Mesedez hautatu</string>
+<string name="dialog_message">"Grabazioa gorde?"</string>
+<string name="same_application_running">"Beste programa bat erabiltzen ari da grabaketak egiteko gailua. Itxi programa hori."</string>
+<string name="recording_time_short">"Grabazio denbora segundo 1 baino gutxiagokoa izan da, ez da gorde"</string>
+<string name="file_path_button">Fitxategiaren bidea</string>
+<string name="file_name">Fitxategiaren izena:</string>
+<string name="file_path">"Fitxategiaren bidea:"</string>
+<string name="rename">Izena aldatu</string>
+<string name="rename_save">Izen aldaketa ondo burutu da</string>
+<string name="rename_nosave">Izen aldaketa ez da ondo burutu</string>
+<string name="filename_is_not_modified">Fitxategi-izena ez da aldatu</string>
+<string name="duplicate_name">Fitxategiaren izena bikoiztuta</string>
+<string name="soundpicker_label">Mesedez hautatu grabazioaren fitxategia</string>
+<string name="error_sdcard_path">"SD txartela ez dago. Gordetzeko bide-izen lehenetsia barruko memoriara aldatu egin da."</string>
+<string name="input_length_overstep">Sarrerak luzeera maximora heldu da</string>
+<string name="filename_empty_error">Fitxategia-izena ezin da hutsik egon, gorde jatorrizko izena</string>
+<string name="please_choose_files">mesedez fitxategiak aukeratu</string>
+<string name="selected_files_count">"<xliff:g id="COUNTS">%d</xliff:g> hautatu dira"</string>
+<string name="use_default_path">Gordetzeko bidea ez dago, erabili lehenetsitako bidea</string>
+<string name="stroage_not_mounted">"Kanpoko memoria ez da muntatu"</string>
+<string name="special_char_exist">"Karaktere bereziak <xliff:g id="COUNTS">%s</xliff:g> ez daude onartuak"</string>
+<string name="menu_select_more">Gehiago hautatu</string>
+<string name="menu_select_type">Ezarri fitxategi mota</string>
+<string name="path_miss_nosave">"Artxibatutako bidea ez da existitzen, Grabazioa ez da gorde！"</string>
+<string name="dialog_dismiss">Baztertu</string>
+<string name="error_permissions">"Aplikazioak ez ditu exekutatzeko behar dituen oinarrizko baimenak. Egiaztatu baimen-ezarpenak."</string>
+<string name="internal_sdcard">"Barruko SD txartela"</string>
+<string name="external_sdcard">"Kanpoko SD txartela"</string>
+<string name="internal_storage">Telefonoa</string>
+<string name="external_storage">SD txartela</string>
+<string name="set_as_ring">"Ezarri deien tonu gisa"</string>
+<string name="read_file_path">"Bilatu fitxategiaren bidea"</string>
+<string name="operate_share">Partekatu</string>
+<string name="ringtone_title_sim1">SIM1 Telefonoaren dei tonua</string>
+<string name="ringtone_title_sim2">"SIM2 telefonoaren dei-tonua"</string>
+<string name="ringtone_menu_short">Erabili dei tonu gisa</string>
+<string name="please_insert_sim_card">"Sartu SIM txartel bat gutxienez"</string>
+<string name="ring_set_silent_vibrate">"Modu honek ez ditu onartzen pertsonalizatutako tonuak"</string>
+<string name="ringtone_set_sim1">\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ezarri SIM1 Telefonoaren dei tonu gisa.</string>
+<string name="ringtone_set_sim2">\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ezarri SIM2 Telefonoaren dei tonu gisa.</string>
+<string name="ringtone_set">\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ezarri telefonoaren dei tonu gisa.</string>
+<string name="ring_set_fail">"Sentitzen dugu, abestia ezin izan da erreproduzitu. Mesedez aukeratu beste abesti bat dei soinu bezala"</string>
+<string name="tag_limit">"Etiketen gehienezko kopurura heldu da"</string>
+<string name="no_allow_play_calling">"Ezin dira erreproduzitu audio-fitxategiak deia abian dagoen bitartean."</string>
+<string name="playback_failed">"Erreproduzigailuak ez du onartzen audio fitxategi mota hau."</string>
+<string name="tag">Etiketa</string>
+<string name="previous_tag">"Azken etiketa"</string>
+<string name="next_tag">"Hurrengo etiketa"</string>
+<string name="recording_play">"Grabazioa erreproduzitu"</string>
+<string name="clip_duration_tip">"Editatu luzera"</string>
+<string name="record_setting">Ezarpenak</string>
+<string name="file_type">Formateatu</string>
+<string name="type_amr">"AMR"</string>
+<string name="type_3gpp">"3GPP"</string>
+<string name="save_path">Gorde kokapena</string>
+<string name="set_timer_recording">"Programatutako grabaketa"</string>
+<string name="timer_recording_detail">"Hasi grabazioa <xliff:g id="hours">%s</xliff:g>:<xliff:g id="minutes">%s</xliff:g> eta jarraitu <xliff:g id="COUNTS">%s</xliff:g>-z"</string>
+<string name="view_file_details">Ikusi xehetasunak</string>
+<string name="file_size">"Fitxategiaren tamaina: "</string>
+<string name="file_date">"Fitxategiaren data: "</string>
+<string name="recording_start_time">"Grabazioaren hasierako ordua"</string>
+<string name="recording_duration">"Grabazioaren iraupen ordua"</string>
+<string name="tuned_timer_recording">"Aktibatu da tenporizadorearen grabaketa"</string>
+<string name="miss_timer_recording">"Grabazioaren tenporizadorea galdua"</string>
+<string name="miss_timer_time">"Ordua: <xliff:g id="TIME">%s</xliff:g>"</string>
+<string-array name="duration_hours">
+<item>" ordua"</item>
+<item>" orduak"</item>
+</string-array>
+<string-array name="timer_recording_time">
+<item>"Grabazioaren tenporizadorea ezarrita dago une honetatik minutu 1 baino gutxiagora."</item>
+<item>"Grabazioaren tenporizadorea ezarrita dago une honetatik <xliff:g id="HOURS">%1$s</xliff:g> barru."</item>
+<item>"Grabazioaren tenporizadorea ezarrita dago une honetatik <xliff:g id="MINUTES">%2$s</xliff:g> barru."</item>
+<item>"Grabazioaren tenporizadorea ezarrita dago une honetatik <xliff:g id="HOURS">%1$s</xliff:g> eta <xliff:g id="MINUTES">%2$s</xliff:g> barru."</item>
+</string-array>
+<plurals name="hours">
+<item quantity="one">1 ordu</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> ordu"</item>
+</plurals>
+<plurals name="minutes">
+<item quantity="one">1 min</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> minutu"</item>
+</plurals>
+<string name="start_record">"hasi grabazioa"</string>
+<string name="resume_record">"berrekin grabazioa"</string>
+<string name="start_play">"hasi erreprodukzioa"</string>
+<string name="resume_play">"berrekin erreprodukzioa"</string>
+<string name="reset_timer_recording">"Beste programa bat erabiltzen ari da grabatzeko gailua,berrezarri grabazioaren tenporizadorea!" </string>
+<string name="storage_not_enough">"Ez dago memoria nahikoa. Ezin izan da hasi grabaketa"</string>
+<string name="phone_storage_not_enough">"Telefonoak ez du nahikoa memoriarik!"</string>
+<string name="illegal_chars_of_filename">Fitxategiaren izenak ezin ditu eduki karaktere hauek: \\:*?\"\u003C\u003E|/</string>
+<string name="hour">h</string>
+<string name="min">minutu</string>
+<string name="start">Hasi</string>
+<string name="record">REC</string>
+<string name="timeset">Tenporizadorea ezarri da</string>
+<string name="starttimeandduration">"Hasiera-ordua eta iraupena"</string>
+<string name="local_record">Lokaleko grabaketa</string>
+<string name="call_record">Deiaren grabaketa</string>
+<string name="clip_time">"Bideoaren iraupena"</string>
+<string name="clip_name_suffix">Pista</string>
+<string name="file_choose">Fitxategi-aukeraketa</string>
+<string name="save_dialog_title">"Grabaketa berria"</string>
+<string name="keep_original_file">Gorde jatorrizko fitxategia</string>
+<string name="save_successful">Ondo gorde da! Hemen gordeta: <xliff:g id="FILEPATH">%1$s</xliff:g></string>
+<string name="save_failed">Ezin izan da gorde!</string>
+<string name="recording_now">Grabatzen</string>
+<string name="recording_pause">Grabaketa pausatu da...</string>
+<string name="record_pause">Pausatuta</string>
+<string name="record_stop">Gelditu</string>
+<string name="record_stop_and_save">"GELDITU ETA GORDE"</string>
+<string name="record_timer">Tenporizadore bidezko grabaketa</string>
+<string name="record_miss">Tenporizadore bidezko grabaketa galdu da</string>
+<string name="close_timer">Itxi tenporizadore bidezko grabaketa</string>
+<string name="soundrecording">Grabazioa</string>
+<string name="pauserecording">Eten grabaketa</string>
+<string name="clip_file_exit">Fitxategiaren izena errepikatuta dago. Idatzi berriro.</string>
+<string name="autosaverecord">"Gorde automatikoki"</string>
+<string name="auto_save">"Gorde grabaketak automatikoki"</string>
+<string name="new_record">Grabaketa berria</string>
+<string name="speak_open">Hartzailea modua aktibatuta dago</string>
+<string name="speak_close">Hartzailea modua desaktibatuta dago</string>
+<string name="hour_duration"><xliff:g id="hour">%s</xliff:g> h</string>
+<string name="button_set">Ezarri</string>
+<string name="button_tag">Etiketa</string>
+<string name="button_list">Zerrenda</string>
+<string name="type_mp3">"MP3"</string>
+<string name="record_mp3">"MP3 (kalitate handia)"</string>
+<string name="file_rename">Fitxategiaren izena errepikatuta dago, eta ez da gorde</string>
+<string name="background_speak_close">"Ezin da erreproduzitu erregistroa atzeko planoan. Itxi egin da."</string>
+<plurals name="confirm_delfile">
+<item quantity="one">Ziur fitxategia ezabatu nahi duzula?</item>
+<item quantity="other">Ziur zaude fitxategiak ezabatu nahi dituzula?</item>
+</plurals>
+<string name="mode_change">Audio modua aldatzeko ordua da, itxaron...</string>
+<string name="rename_button">Utzi</string>
+<string name="no_sd_write_permission">"Soinuaren grabagailuak ezin du atzitu SD txartela. Eman baimena edo garbitu aplikazioaren memoria eta saiatu berriro."</string>
+<string name="confirm">"ados"</string>
+<string name="superuser_request_confirm">"Soinu Grabatzaileak ez dauka sarbiderik SD txartelera, mesedez aukeratu jatorrizko kanpoko direktoriotik SANDISK SD txartela eta baimendu Soinu Grabatzailea funtzionatu ahal izateko."</string>
+<string name="share_max_warning">"100 fitxategi baino gehiago hautatu dira, eta partekatzeko funtzioa ez zegoen erabilgarri"</string>
+<string name="exit_multiwindow_tips">"Soinu-grabagailuak ez du leiho anitzeko modua onartzen, erabili pantaila osoko Ahots-grabagailua mesedez."</string>
+</resources>

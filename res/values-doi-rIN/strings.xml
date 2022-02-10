@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"साउंड रिर्काडर"</string>
+<string name="record_your_message">"अपना सनेहा रिकार्ड करो"</string>
+<string name="message_recorded">"सनेहा रिकार्ड होई गेआ"</string>
+<string name="review_message">"सनेहा संगीत"</string>
+<string name="recording">"रिकार्डिंग"</string>
+<string name="recording_stopped">"रिकार्डिंग बंद"</string>
+<string name="recording_save">"रिकार्डिंग सहेजी गेई"</string>
+<string name="recording_nosave">"रिकार्डिंग नेईं सहेजी गेई"</string>
+<string name="storage_is_full">"स्टोरज पूरी भरोची दी ऐ"</string>
+<string name="max_length_reached">"अधिकत्म लंबाई पुज्जी गेई"</string>
+<string name="phone_message">"काल करदे बेल्लै साउंड रिकार्डर चालू नेईं करी सकदा।"</string>
+<string name="min_available">"लगभग <xliff:g id="minutes">%d</xliff:g> मिनट उपलब्ध न"</string>
+<string name="min_and_time_available">"लगभग <xliff:g id="minutes">%d</xliff:g> मिनट ते <xliff:g id="seconds">%d</xliff:g> सकेंड उपलब्ध न"</string>
+<string name="sec_available">"लगभग <xliff:g id="seconds">%d</xliff:g> सकेंड उपलब्ध न"</string>
+<string name="accept">"सहेजो"</string>
+<string name="discard">"रद्द करो"</string>
+<string name="button_ok">"ठीक ऐ"</string>
+<string name="press_record">"रिकार्ड दबाओ"</string>
+<string name="audio_db_artist_name">"थुआढ़ियां रिकार्डिंगां"</string>
+<string name="audio_db_album_name">"आडियो रिकार्डिगां"</string>
+<string name="audio_db_playlist_name">"मेरियां रिकार्डिंगां"</string>
+<string name="error_app_internal">"अंदरूनी ऐपलीकेशन त्रुटि"</string>
+<string name="error_mediadb_new_record">"रिकार्ड कीते गेदे विडियो सहेजने च असमर्थ"</string>
+<string name="save">"सहेजो"</string>
+<string name="select_file_type">"रिकार्ड फाइल प्रारूप चुनो"</string>
+<string name="record_amr">"amr प्रारूप (घट्ट-गुणवत्ता)"</string>
+<string name="record_3gpp">"3gpp प्रारूप (उच्च गुणवत्ता)"</string>
+<string name="button_cancel">"रद्द करो"</string>
+<string name="path_save">"डिफाल्ट बत्त सहेजी गेई ऐ"</string>
+<string name="path_nosave">"डिफाल्ट बत्त नेईं सहेजी गेई ऐ"</string>
+<string name="path_default">"मौजूदा बत्त अमान्य जां लिखने जोग नेईँ ऐ, एह् बत्त अंदरूनी स्टोरज दी बत्त ऐ"</string>
+<string name="menu_set_save_path">"सहेजना बत्त सेट करो"</string>
+<string name="back">"बापस.."</string>
+<string name="path_label">"किरपा करियै सहेजना बत्त चुनो"</string>
+<string name="pause">"थम्मो"</string>
+<string name="storage_is_not_enough">"स्टोरज पूरी नेईं ऐ"</string>
+<string name="menu_recording_file_list">"रिकार्डिंग फाइल सूची"</string>
+<string name="recording_list_empty">"खाल्ली सूची"</string>
+<string name="menu_recording_list_select_all">"सब्भै चुनो"</string>
+<string name="menu_recording_list_delete">"डिलीट"</string>
+<string name="menu_recording_list_deselect_all">"अन-चुनेआ"करो</string>
+<string name="recording_file_delete_success">"रिकार्डिंग डिलीट कीती गेई"</string>
+<string name="recording_file_database_failed">"डेटाबेस फाइल डिलीट करने च असफल"</string>
+<string name="recording_file_delete_failed">"रिकार्डिंग फाइल डिलीट करने च असफल"</string>
+<string name="confirm_del">"क्या तुस जकीनी तौर पर फाइलां डिलीट करना चांह्​दे ओ?"</string>
+<string name="button_delete">"डिलीट"</string>
+<string name="recording_file_delete_alert_title">"डिलीट"</string>
+<string name="recording_file_delete_alert_message">"%1$s जकीनी तौर पर डिलीट करो?"</string>
+<string name="recording_file_list">"रिकार्डिंग फाइल सूची"</string>
+<string name="less_than_one_second">"1 सेकंड"</string>
+<string name="is_scanning">"मीडिया स्कैनर इसलै स्कैन करै करदा ऐ, किरपा करियै इंतजार करो..."</string>
+<string name="emptylist">"सूची खाल्ली ऐ"</string>
+<string name="choose_file">"किरपा करियै रिकार्डिंग चुनो जो फाइलां तुस डिलीट करना चांह्​दे ओ!"</string>
+<string name="error_path">"जेह्​ड़ी बत्त तुसें चुनी ऐ ओह् मौजूद नेईँ ऐ, किरपा करियै मुड़ियै-सेट करो!"</string>
+<string name="path_miss">"संरक्षत बत्त मौजूद नेईं ऐ जां ऐक्सस नेईं कीती जाई सकदी!"</string>
+<string name="file_is_corrupt">"फाइल खराब ऐ"</string>
+<string name="low_memory">"मेमोरी पूरी नेईँ ऐ, रिकार्डिंग बंद होई जाग!"</string>
+<string name="record_error">"रिकार्डिंग च अपवाद होई गेआ ऐ!"</string>
+<string name="play_error">"म्यूजिक प्लेयर निश्क्रिय ऐ, खोलने च असमर्थ！"</string>
+<string name="dialog_title">"किरपा करियै चुनो"</string>
+<string name="dialog_message">"रिकार्डिंग सहेजो?"</string>
+<string name="same_application_running">"रिकार्डिंग डिवाइस कुसै होर प्रोग्राम आसेआ बरतेआ जा करदा ऐ, किरपा करियै प्रोग्राम बंद करो!"</string>
+<string name="recording_time_short">"रिकार्डिंग समां 1 सकेंड थमां घट्ट, सहेजी नेईं गेई"</string>
+<string name="file_path_button">"फाइल बत्त"</string>
+<string name="file_name">"फाइल नांऽ："</string>
+<string name="file_path">"फाइल बत्त："</string>
+<string name="rename">"नांऽ बदलो"</string>
+<string name="rename_save">"नांऽ बदलना सफलतापूर्वक होआ"</string>
+<string name="rename_nosave">"मुड़-नांऽ करना असफल"</string>
+<string name="filename_is_not_modified">"फाइल नांऽ संशोधत नेईं ऐ"</string>
+<string name="duplicate_name">"फाइल नांऽ नकली"</string>
+<string name="soundpicker_label">"किरपा करियै रिकार्डिग फाइल चुनो"</string>
+<string name="error_sdcard_path">"SD कार्ड बजूद च नेईं। डिफाल्ट सहेजने दी बत्त अंदरूनी स्टोरज च बदली दित्ती गेई ऐ।"</string>
+<string name="input_length_overstep">"इनपुट अधिकत्म लंबाई तगर पुज्जी गेआ"</string>
+<string name="filename_empty_error">"फाइल नांऽ खाल्ली नेईं होई सकदा, मूल नांऽ सहेजो"</string>
+<string name="please_choose_files">"किरपा करियै फाइलां चुनो"</string>
+<string name="selected_files_count">"<xliff:g id="COUNTS">%d</xliff:g> चुने गे न"</string>
+<string name="use_default_path">"संरक्षत बत्त मौजूद नेईं ऐ, डिफाल्ट बत्त बरतो!"</string>
+<string name="stroage_not_mounted">"स्टोरज माउंट नेई कीती गेई ऐ"</string>
+<string name="special_char_exist">"खास वर्ण <xliff:g id="COUNTS">%s</xliff:g> समर्थत नेईं"</string>
+<string name="menu_select_more">"होर चुनो"</string>
+<string name="menu_select_type">"फाइल प्रारूप सेट करो"</string>
+<string name="path_miss_nosave">"संरक्षत बत्त मौजूद नेईं ऐ, रिकार्डिंग नेईं सहेजी गेई!"</string>
+<string name="dialog_dismiss">"रद्द करो"</string>
+<string name="error_permissions">"ऐप कोल रन लेई लोड़चदी म्हत्तवपूर्ण मंजूरी नेईं ऐ। किरपा करियै अपनी मंजूरियां सेटिंग्स जांचो।"</string>
+<string name="internal_sdcard">"अंदरूनी SD कार्ड"</string>
+<string name="external_sdcard">"बाह्‌री sdकार्ड"</string>
+<string name="internal_storage">"अंदरूनी स्टोरज"</string>
+<string name="external_storage">"बाह्​री स्टोरज"</string>
+<string name="set_as_ring">"रिंग टोन दे रूप च सेट करो"</string>
+<string name="read_file_path">"फाइल बत्त जांचो"</string>
+<string name="operate_share">"सांझा करो"</string>
+<string name="ringtone_title_sim1">"सिम1 फोन रिंगटोन"</string>
+<string name="ringtone_title_sim2">"सिम 2 फोन रिंगटोन "</string>
+<string name="ringtone_menu_short">"रिंगटोन दे रूप च बरतो"</string>
+<string name="please_insert_sim_card">"किरपा करियै घट्ट थमां घट्ट सिम कार्ड दाखल करो"</string>
+<string name="ring_set_silent_vibrate">"मौजूदा मोड च कस्टम रिंगटोन समर्थत नेईं ऐ"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g> \" सिम1 फोन रिंगटोन दे रूप च सेट"</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g> \" सिम2 फोन रिंगटोन दे रूप च सेट"</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g> \" फोन रिंगटोन दे रूप च सेट करो"</string>
+<string name="ring_set_fail">"माफ करो, गीत प्ले नेईं कीता जाई सकेआ। किरपा करियै रिंगटोन दे रूप कोई होर गाना चुनो"</string>
+<string name="tag_limit">"टैग दी संख्या बद्धो-बद्ध तगर पुज्जी गेई ऐ"</string>
+<string name="no_allow_play_calling">"(रेडियो/वीडियो) काल दे दरान म्यूजिक प्ले करने दी इजाजत नेईं ऐ।"</string>
+<string name="playback_failed">"माफ करो, फाइल प्ले करने च असफल"</string>
+<string name="tag">"टैग"</string>
+<string name="previous_tag">"अंतम टैग"</string>
+<string name="next_tag">"अगला टैग"</string>
+<string name="recording_play">"रिकार्डिंग प्ले"</string>
+<string name="clip_duration_tip">"लंबाई संपादत करो"</string>
+<string name="record_setting">"रिकार्ड सेटिंगां"</string>
+<string name="file_type">"फाइल प्रारूप"</string>
+<string name="type_amr">"amr प्रारूप"</string>
+<string name="type_3gpp">"3gpp प्रारूप"</string>
+<string name="save_path">"बत्त सहेजो"</string>
+<string name="set_timer_recording">"टाइमर रिकार्डिंग सेट करो"</string>
+<string name="timer_recording_detail">"<xliff:g id="COUNTS">%s</xliff:g> लेई <xliff:g id="hours">%s</xliff:g>:<xliff:g id="minutes">%s</xliff:g>पर रिकार्ड शुरू करो "</string>
+<string name="view_file_details">"ब्यौरे दिक्खो"</string>
+<string name="file_size">"फाइल साइज:"</string>
+<string name="file_date">"फाइल दी तरीक:"</string>
+<string name="recording_start_time">"रिकार्डिंग शूरू समां"</string>
+<string name="recording_duration">"रिकार्डिंग अवधि घैंटा"</string>
+<string name="tuned_timer_recording">"टाइमर रिकार्डिंग पर ट्यून कीता गेआ"</string>
+<string name="miss_timer_recording">"मिस्ड टाइमर रिकार्डिंग"</string>
+<string name="miss_timer_time">"समां: <xliff:g id="TIME">%s</xliff:g>""</string>
+<string-array name="duration_hours">
+<item>"घैंटा"</item>
+<item>"घैंटा"</item>
+</string-array>
+<string-array name="timer_recording_time">
+<item>"हून थमां 1 मिनट दे घट्ट समें लेई टाइमर रिकार्डिंग सेट ऐ।"</item>
+<item>"टाइमर रिकार्डिंग हूनै थमां <xliff:g id="HOURS">%1$s</xliff:g> लेई सेट ऐ।"</item>
+<item>"टाइमर रिकार्डिंग हूनै थमां <xliff:g id="MINUTES">%2$s</xliff:g> लेई सेट ऐ।"</item>
+<item>"टाइमर रिकार्डिंग हूनै थमां<xliff:g id="HOURS">%1$s</xliff:g>  ते <xliff:g id="MINUTES">%2$s</xliff:g> लेई सेट ऐ।"</item>
+</string-array>
+<plurals name="hours">
+<item quantity="one">"1 घैंटा"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> घैंटें"</item>
+</plurals>
+<plurals name="minutes">
+<item quantity="one">"1 मिनट"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g>  मिनट"</item>
+</plurals>
+<string name="start_record">"रिकार्डर शुरू करो"</string>
+<string name="resume_record">"रिकार्ड परतियै शुरू करो"</string>
+<string name="start_play">"प्ले शुरू करो"</string>
+<string name="resume_play">"परतियै प्ले करो"</string>
+<string name="reset_timer_recording">"रिकार्डिंग डिवाइस दी बरतून कुसै होर प्रोग्राम आसेआ कीती जंदी ऐ, किरपा करियै टाइमर रिकीर्डिंग रीसेट करो!"</string>
+<string name="storage_not_enough">"स्टोरज पर्याप्त नेईं ऐ, टाइमर रिकार्डिंग शुरू करने च असफल रेहा ऐ!"</string>
+<string name="phone_storage_not_enough">"फोन स्टोरज पर्याप्त नेईं ऐ!"</string>
+</resources>

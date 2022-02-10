@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by Spreadst -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="false"
+    android:background="@color/record_time_show_bg"
+    android:orientation="vertical" >
+
+        <LinearLayout
+        android:id="@+id/layout_footer"
+        android:gravity="center"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="6dp"
+        android:paddingLeft="40dp"
+        android:paddingRight="40dp"
+        android:paddingBottom="16dp"
+        android:background="#FFFFFFFF"
+        android:visibility="gone"
+        android:layout_alignParentBottom="true">
+        <Button
+            android:id="@+id/textview_file_delete"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="@string/menu_recording_list_delete"/>
+        <Button
+            android:id="@+id/textview_file_path"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="@string/file_path_button"/>
+        <Button
+            android:id="@+id/textview_file_rename"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="@string/rename"/>
+    </LinearLayout>
+   
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="false"
+        android:descendantFocusability="blocksDescendants"
+        android:drawSelectorOnTop="false"
+        android:divider="@drawable/jingos_divider_line"
+        android:fastScrollEnabled="false"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/emptylist"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:text="@string/emptylist"
+        android:textColor="@color/text_color_empty_list"
+        android:textSize="@dimen/text_size_empty_list"
+        android:visibility="gone"
+        android:textAppearance="?android:attr/textAppearanceMedium"/>
+</RelativeLayout>

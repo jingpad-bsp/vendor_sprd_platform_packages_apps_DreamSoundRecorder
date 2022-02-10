@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"ସାଉଣ୍ଡ ରେକର୍ଡର"</string>
+<string name="record_your_message">"ଆପଣଙ୍କ ମେସେଜ୍ ରେକର୍ଡ କରନ୍ତୁ"</string>
+<string name="message_recorded">"ମେସେଜ୍ ରେକର୍ଡ ହୋଇଛି"</string>
+<string name="review_message">"ମେସେଜ୍ ଲିରିକ୍ସ"</string>
+<string name="recording">"ରେକର୍ଡ କରୁଛି"</string>
+<string name="recording_stopped">"ରେକର୍ଡିଂ ବନ୍ଦ ହୋଇଛି"</string>
+<string name="recording_save">"ରେକର୍ଡିଂ ସେଭ୍ ହୋଇଛି"</string>
+<string name="recording_nosave">"ରେକର୍ଡିଂ ସେଭ୍ ହୋଇ ନାହିଁ"</string>
+<string name="storage_is_full">"ଷ୍ଟୋରେଜ୍ ପୂରା ଅଛି"</string>
+<string name="max_length_reached">"ସର୍ବିାଧିକ ଦୈର୍ଘ୍ୟ ପହଞ୍ଚିସାରିଛି"</string>
+<string name="phone_message">"କଲ୍ କରିବା ସମୟରେ ସାଉଣ୍ଡ ରେକର୍ଡର ଅନ୍ କରିପାରିବ ନାହିଁ ।"</string>
+<string name="min_available">"ପ୍ରାୟ <xliff:g id="minutes">%d</xliff:g> ମିନିଟ୍ ଉପଲବ୍ଧ"</string>
+<string name="min_and_time_available">"ପ୍ରାୟ <xliff:g id="minutes">%d</xliff:g> ମିନିଟ୍ ଏବଂ <xliff:g id="seconds">%d</xliff:g> ସେକେଣ୍ଡ ଉପଲବ୍ଧ"</string>
+<string name="sec_available">"ପ୍ରାୟ <xliff:g id="seconds">%d</xliff:g> ଉପଲବ୍ଧ"</string>
+<string name="accept">"ସଞ୍ଚୟ କରନ୍ତୁ"</string>
+<string name="discard">"ବର୍ଜନ"</string>
+<string name="button_ok">"ସଞ୍ଚୟ କରନ୍ତୁ"</string>
+<string name="press_record">"ରେକର୍ଡ ଦବାନ୍ତୁ"</string>
+<string name="audio_db_artist_name">"ଆପଣଙ୍କର ରେକର୍ଡିଂ ଗୁଡ଼ିକ"</string>
+<string name="audio_db_album_name">"ଅଡିଓ ରେକର୍ଡିଂଗୁଡ଼ିକ"</string>
+<string name="audio_db_playlist_name">"ମୋର ରେକର୍ଡିଂ ଗୁଡ଼ିକ"</string>
+<string name="error_app_internal">"ଇଣ୍ଟରନାଲ୍ ଆପ୍ଲିକେସନ୍ ତ୍ରୁଟି"</string>
+<string name="error_mediadb_new_record">"ରେକର୍ଡ ହୋଇଥିବା ଅଡିଓ ସେବ୍ କରିବାକୁ ଅସମର୍ଥ"</string>
+<string name="save">"ସଞ୍ଚୟ କରନ୍ତୁ"</string>
+<string name="select_file_type">"ରେକର୍ଡ ଫାଇଲ୍ ପ୍ରକାର ଚୟନ କରନ୍ତୁ"</string>
+<string name="record_amr">"AMR (ନିମ୍ନ-ମାନ)"</string>
+<string name="record_3gpp">"3GP (ଉଚ୍ଚ-ମାନ)"</string>
+<string name="button_cancel">"ବାତିଲ କରନ୍ତୁ"</string>
+<string name="path_save">"ଡିଫଲ୍ଟ ପାଥ୍ ସେଭ୍ ହୋଇଛି"</string>
+<string name="path_nosave">"ଡିଫଲ୍ଟ ପାଥ୍ ସେଭ୍ ହୋଇନାହିଁ"</string>
+<string name="path_default">"ବର୍ତ୍ତମାନର ପାଥ୍ ରାଇଟେବଲ୍ କିମ୍ବା ଇନଭ୍ୟାଲିଡ୍ ନୁହେଁ, ଏହା ଇଣ୍ଟରନାଲ୍ ଷ୍ଟୋରେଜ୍ ପାଥ୍ କୁ ରାସ୍ତା"</string>
+<string name="menu_set_save_path">"ସେଭ୍ ପାଥ୍ ସେଟ୍ କରନ୍ତୁ"</string>
+<string name="back">"ବ୍ୟାକ୍…"</string>
+<string name="path_label">"କୁ ସଞ୍ଚୟ କରନ୍ତୁ"</string>
+<string name="pause">"ବିରତି ନିଅନ୍ତୁ"</string>
+<string name="storage_is_not_enough">"ଷ୍ଟୋରେଜ ଯଥେଷ୍ଟ ନୁହେଁ"</string>
+<string name="menu_recording_file_list">"ରେକର୍ଡିଂଗୁଡ଼ିକ"</string>
+<string name="recording_list_empty">"ତାଲିକା ଖାଲି କରନ୍ତୁ"</string>
+<string name="menu_recording_list_select_all">"ସବୁ ଯାକ ବାଛନ୍ତୁ"</string>
+<string name="menu_recording_list_delete">"କାଟ"</string>
+<string name="menu_recording_list_deselect_all">"ଡିସିଲେକ୍ଟ"</string>
+<string name="recording_file_delete_success">"ରେକର୍ଡିଂ ଡିଲିଟ୍ ହୋଇଯାଇଛି"</string>
+<string name="recording_file_database_failed">"ଡାଟାବେସ୍ ଫାଇଲ୍ ଡିଲିଟ୍ କରିବାରେ ବିଫଳ ହୋଇଛି"</string>
+<string name="recording_file_delete_failed">"ରେକର୍ଡିଂ ଫାଇଲ୍ ଡିଲିଟ୍ କରିବାରେ ବିଫଳ ହୋଇଛି"</string>
+<string name="confirm_del">"ଫାଇଲ୍ ଡିଲିଟ୍ କରିବା ପାଇଁ ଆପଣ ନିଶ୍ଚିତ କି?"</string>
+<string name="button_delete">"କାଟ"</string>
+<string name="recording_file_delete_alert_title">"କାଟ"</string>
+<string name="recording_file_delete_alert_message">"%1$s ଡିଲିଟ୍ କରିବା ପାଇଁ ନିଶ୍ଚିତ କି?"</string>
+<string name="less_than_one_second">"1 ସେକେଣ୍ଟ"</string>
+<string name="is_scanning">"ବର୍ତ୍ତମାନ ମିଡିଆସ୍କାନର୍ ସ୍କାନ୍ କରୁଛି, ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ…"</string>
+<string name="emptylist">"ଲିଷ୍ଟ ଖାଲି ଅଛି"</string>
+<string name="choose_file">"ଆପଣ ଡିଲିଟ୍ କରିବା ପାଇଁ ଚାହୁଁଥିବା ରେକର୍ଡିଂ ଦୟାକରି ଚୟନ କରନ୍ତୁ!"</string>
+<string name="error_path">"ଆପଣ ଚୟନ କରିଥିବା ପାଥ୍ ନାହିଁ, ଦୟାକରି ପୁଣିଥରେ ସେଟ୍ କରନ୍ତୁ!"</string>
+<string name="path_miss">"ଷ୍ଟୋର ହୋଇଥିବା ପାଥ୍ ନାହିଁ କିମ୍ବା ଆକସେସ୍ କରାଯାଇ ପାରିବ ନାହିଁ!"</string>
+<string name="file_is_corrupt">"ଫାଇଲ୍ କରପ୍ଟ ଅଛି"</string>
+<string name="low_memory">"ମେମୋରୀ ଯଥେଷ୍ଟ ନୁହେଁ, ରେକର୍ଡିଂ ବନ୍ଦ ହୋଇଯିବ!"</string>
+<string name="record_error">"ଏକ ବ୍ୟତିକ୍ରମ ରେକର୍ଡ କରିବା ଦେଖାଦେଇଛି!"</string>
+<string name="play_error">"ମ୍ୟୁଜିକ୍ ପ୍ଲେୟାର କାମ କରୁନାହିଁ, ଓପନ୍ ହେଉନାହିଁ！"</string>
+<string name="dialog_title">"ଦୟାକରି ସିଲେକ୍ଟ କରନ୍ତୁ"</string>
+<string name="dialog_message">"ରେକର୍ଡିଂ ସେଭ୍ କରିବେ?"</string>
+<string name="same_application_running">"ରେକର୍ଡିଂ ଡିଭାଇସ୍‍ ଅନ୍ୟ ପ୍ରୋଗ୍ରାମ ଦ୍ୱାରା ବ୍ୟବହାର କରାଯାଉଛି, ଦୟାକରି ଏହି ପ୍ରୋଗ୍ରାମଟି ବନ୍ଦ କରନ୍ତୁ!"</string>
+<string name="recording_time_short">"1 ସେକେଣ୍ଡରୁ କମ୍ ସମୟର ରେକର୍ଡିଂ, ସେଭ୍ ହୋଇନାହିଁ"</string>
+<string name="file_path_button">"ଫାଇଲ୍ ପାଥ୍"</string>
+<string name="file_name">"ଫାଇଲ୍ ନାମ:"</string>
+<string name="file_path">"ଫାଇଲ୍ ପାଥ୍:"</string>
+<string name="rename">"ପୁଣି ନାମ ଦିଅନ୍ତୁ"</string>
+<string name="rename_save">"ସଫଳତାର ସହ ପୁନର୍ନାମକରଣ କରନ୍ତୁ"</string>
+<string name="rename_nosave">"ପୁନର୍ନାମକରଣ ବିଫଳହେଲା"</string>
+<string name="filename_is_not_modified">"ଫାଇଲନାମ ପରିବର୍ତ୍ତିତ ହୋଇନାହିଁ"</string>
+<string name="duplicate_name">"ଫାଇଲ୍ ନାମ ନକଲି"</string>
+<string name="soundpicker_label">"ଦୟାକରି ରେକର୍ଡିଂ ଫାଇଲ୍ ଚୟନ କରନ୍ତୁ"</string>
+<string name="error_sdcard_path">"sdକାର୍ଡ ନାହିଁ । ଇଣ୍ଟରନାଲ୍ ଷ୍ଟୋରେଜକୁ ଡିଫଲ୍ଟ ସେଭ୍ ପାଥ୍ ବଦଳିଯାଇଛି ।"</string>
+<string name="input_length_overstep">"ଇନପୁଟ୍ ସର୍ବାଧିକ ଦୈର୍ଘ୍ୟ ପର୍ଯ୍ୟନ୍ତ ପହଞ୍ଚିଛି"</string>
+<string name="filename_empty_error">"ଫାଇଲନାମ ଖାଲି ରହି ପାରିବ ନାହିଁ, ପ୍ରକୃତ ନାମ ସେଭ୍ କରନ୍ତୁ"</string>
+<string name="please_choose_files">"ଦୟାକରି ଫାଇଲ୍ ଚୟନ କରନ୍ତୁ"</string>
+<string name="selected_files_count">"<xliff:g id="COUNTS">%d</xliff:g> ଚୟନ କରିଛି"</string>
+<string name="use_default_path">"ଷ୍ଟୋର ହୋଇଥିବା ପାଥ୍ ନାହିଁ, ଡିଫଲ୍ଟ ପାଥ୍ ବ୍ୟବହାର କରନ୍ତୁ"</string>
+<string name="stroage_not_mounted">"ଷ୍ଟୋରେଜ ମାଉଣ୍ଟ କରାଯାଇ ନାହିଁ"</string>
+<string name="special_char_exist">"<xliff:g id="COUNTS">%s</xliff:g> ସ୍ପେସିଆଲ୍ କ୍ୟାରେକ୍ଟରଗୁଡ଼ିକ ସମର୍ଥନ କରୁନାହିଁ"</string>
+<string name="menu_select_more">"ଅଧିକ ଚୟନ କରନ୍ତୁ"</string>
+<string name="menu_select_type">"ଫାଇଲ୍ ପ୍ରକାର ସେଟ୍ କରନ୍ତୁ"</string>
+<string name="path_miss_nosave">"ଷ୍ଟୋର ହୋଇଥିବା ପାଥ୍ ନାହିଁ, ରେକର୍ଡିଂ ସେଭ୍ ହୋଇନାହିଁ！"</string>
+<string name="dialog_dismiss">"ଡିସ୍‌ମିସ୍‌"</string>
+<string name="error_permissions">"ଚାଲିବା ପାଇଁ ଆବଶ୍ୟକ ନିର୍ଣ୍ଣୟମୂଳକ ଅନୁମତି ଏପ ର ନାହିଁ । ଦୟାକରି ଆପଣଙ୍କ ଅନୁମତି ସଂସ୍ଥାପନା ଗୁଡିକୁ ଯାଞ୍ଚ କରନ୍ତୁ ।"</string>
+<string name="internal_sdcard">"ଆଭ୍ୟନ୍ତରୀଣ sd କାର୍ଡ"</string>
+<string name="external_sdcard">"ବାହ୍ୟ sd କାର୍ଡ"</string>
+<string name="internal_storage">"ଫୋନ"</string>
+<string name="external_storage">"SD କାର୍ଡ"</string>
+<string name="set_as_ring">"ରିଙ୍ଗଟୋନ୍‍ ସେଟ୍‍ କରନ୍ତୁ"</string>
+<string name="read_file_path">"ଫାଇଲ୍ ପାଥ୍ ଯାଂଚ କରନ୍ତୁ"</string>
+<string name="operate_share">"ଭାଗୀଦାରୀତା କରନ୍ତୁ"</string>
+<string name="ringtone_title_sim1">"SIM1 ଫୋନ୍ ରିଂଟୋନ୍"</string>
+<string name="ringtone_title_sim2">"SIM2 ଫୋନ୍ ରିଙ୍ଗ୍ ଟୋନ୍"</string>
+<string name="ringtone_menu_short">"ରିଂଟୋନ୍ ଭାବରେ ବ୍ୟବହାର କରନ୍ତୁ"</string>
+<string name="please_insert_sim_card">"ଦୟାକରି ଅତି କମ୍ ରେ ଗୋଟିଏ SIM କାର୍ଡ ଇନସର୍ଟ କରନ୍ତୁ"</string>
+<string name="ring_set_silent_vibrate">"ବର୍ତ୍ତମାନର ମୋଡରେ କଷ୍ଟମ୍ ରିଂଟୋନ୍ ଗୁଡ଼ିକ ସପୋର୍ଟ ସମର୍ଥିତ ହେଉନାହିଁ"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" SIM1 ଫୋନ୍ ରିଂଟୋନ୍ ଭାବରେ ସେଟ୍ କରନ୍ତୁ"</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" SIM2 ଫୋନ୍ ରିଂଟୋନ୍ ଭାବରେ ସେଟ୍ କରନ୍ତୁ"</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ରିଂଟୋନ୍ ଭାବରେ ସେଟ୍ କରନ୍ତୁ ।"</string>
+<string name="ring_set_fail">"ଦୁଃଖିତ, ଗୀତଟି ବାଜି ପାରିବ ନାହିଁ । ଦୟାକରି ଅନ୍ୟ ଏକ ଗୀତ ରିଂଟୋନ୍ ଭାବରେ ଚୟନ କରନ୍ତୁ"</string>
+<string name="tag_limit">"ଟ୍ୟାଗ୍ ସଂଖ୍ୟା ସର୍ବାଧିକରେ ପହଞ୍ଚି ସାରିଛି"</string>
+<string name="playback_failed">"ଦୁଃଖିତ, ଫାଇଲ୍‍ ଚାଲିବାକୁ ବିଫଳ ।"</string>
+<string name="tag">"ଟ୍ୟାଗ୍"</string>
+<string name="previous_tag">"ଗତ ଟ୍ୟାଗ୍"</string>
+<string name="next_tag">"ପରବର୍ତ୍ତୀ ଟ୍ୟାଗ୍"</string>
+<string name="recording_play">"ରେକର୍ଡିଂ ପ୍ଲେ"</string>
+<string name="clip_duration_tip">"ଏଡିଟ୍ ଦୈର୍ଘ୍ୟ"</string>
+<string name="record_setting">"ସଂସ୍ଥାପନା"</string>
+<string name="file_type">"ଫର୍ମାଟ୍"</string>
+<string name="type_amr">"AMR"</string>
+<string name="type_3gpp">"3GPP"</string>
+<string name="save_path">"ଲୋକେସନ ସେଭ୍‌ କରନ୍ତୁ"</string>
+<string name="set_timer_recording">"ପୂର୍ବନିର୍ଦ୍ଧାରିତ ରେକଡିଂ"</string>
+<string name="timer_recording_detail">"<xliff:g id="hours">%s</xliff:g>:<xliff:g id="minutes">%s</xliff:g> ପାଇଁ <xliff:g id="COUNTS">%s</xliff:g> ରେକର୍ଡ ଆରମ୍ଭ କରନ୍ତୁ"</string>
+<string name="view_file_details">"ସବିଶେଷ ବିବରଣୀ ଭିଉ କରନ୍ତୁ"</string>
+<string name="file_size">"ଫାଇଲ୍‍ ଆକାର:"</string>
+<string name="file_date">"ଫାଇଲ୍ ତାରିଖ:"</string>
+<string name="recording_start_time">"ରେକର୍ଡିଂ ଆରମ୍ଭ ସମୟ"</string>
+<string name="recording_duration">"ରେକର୍ଡିଂ ଅବଧି ଘଣ୍ଟା"</string>
+<string name="tuned_timer_recording">"ଟାଇମର ରେକଡିଂ ଚାଲୁ କରାଯାଇଛି"</string>
+<string name="miss_timer_recording">"ଟାଇମର୍ ରେକର୍ଡିଂ ହୋଇନାହିଁ"</string>
+<string name="miss_timer_time">"ସମୟ: <xliff:g id="TIME">%s</xliff:g>"</string>
+<string-array name="duration_hours">
+<item>"ଘଣ୍ଟା"</item>
+<item>"ଘଣ୍ଟା"</item>
+</string-array>
+<string-array name="timer_recording_time">
+<item>"ବର୍ତ୍ତମାନଠାରୁ 1 ମିନିଟ୍ ରୁ କମ୍ ସମୟ ପାଇଁ ଟାଇମର୍ ରେକର୍ଡିଂ ସେଟ୍ ହୋଇଛି ।"</item>
+<item>"ଟାଇମର୍ ରେକର୍ଡିଂ ବର୍ତ୍ତମାନଠାରୁ <xliff:g id="HOURS">%1$s</xliff:g> ପାଇଁ ସେଟ୍ ହୋଇଛି ।"</item>
+<item>"ଟାଇମର୍ ରେକର୍ଡିଂ ବର୍ତ୍ତମାନଠାରୁ <xliff:g id="MINUTES">%2$s</xliff:g>ପାଇଁ ସେଟ୍ ହୋଇଛି ।"</item>
+<item>"ଟାଇମର୍ ରେକର୍ଡିଂ ବର୍ତ୍ତମାନଠାରୁ <xliff:g id="HOURS">%1$s</xliff:g> ଏବଂ <xliff:g id="MINUTES">%2$s</xliff:g>ପାଇଁ ସେଟ୍ ହୋଇଛି ।"</item>
+</string-array>
+<plurals name="hours">
+<item quantity="one">"1 ଘଣ୍ଟା"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> ଘଣ୍ଟା"</item>
+</plurals>
+<plurals name="minutes">
+<item quantity="one">"1 ମିନଣ୍ଟ"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> ମିନିଟ୍"</item>
+</plurals>
+<string name="start_record">"ରେକର୍ଡର ଆରମ୍ଭ କରନ୍ତୁ"</string>
+<string name="resume_record">"ପୁଣି ରେକର୍ଡ ଆରମ୍ଭ କରନ୍ତୁ"</string>
+<string name="start_play">"ପ୍ଲେ ଷ୍ଟାର୍ଟ କରନ୍ତୁ"</string>
+<string name="resume_play">"ଚଲେଇବା ପୁନରାରମ୍ଭ କରନ୍ତୁ"</string>
+<string name="reset_timer_recording">"ରେକର୍ଡିଂ ଡିଭାଇସ୍ ଅନ୍ୟ ଏକ ପ୍ରୋଗ୍ରାମ୍ ଦ୍ୱାରା ବ୍ୟବହାର ହେଉଛି, ଦୟାକରି ଟାଇମର୍ ରେକର୍ଡିଂ ରିସେଟ୍ କରନ୍ତୁ!"</string>
+<string name="storage_not_enough">"ଷ୍ଟୋରେଜ ଯଥେଷ୍ଟ ନୁହେଁ, ରେକର୍ଡିଂ ଆରମ୍ଭ କରିବାରେ ବ୍ୟର୍ଥ ହୋ‍ଇଛି!"</string>
+<string name="phone_storage_not_enough">"ଫୋନ୍ ଷ୍ଟୋରେଜ୍ ଯଥେଷ୍ଟ ନୁହେଁ!"</string>
+<string name="illegal_chars_of_filename">ଫାଇଲ ନାମରେ ଅବୈଧ ବର୍ଣ୍ଣ ରହି ପାରିବ ନାହିଁ \\:*?\"\u003C&gt;|/</string>
+<string name="hour">"ଏଚ୍‌"</string>
+<string name="min">"M"</string>
+<string name="start">"ଆରମ୍ଭ"</string>
+<string name="record">"ରେକର୍ଡିଂ"</string>
+<string name="timeset">"ଟାଇମର ସେଟ"</string>
+<string name="starttimeandduration">"ଆରମ୍ଭ ସମୟ\u0026ଅବଧି "</string>
+<string name="local_record">"ଲୋକାଲ ରେକର୍ଡ"</string>
+<string name="call_record">"କଲ ରେକର୍ଡ"</string>
+<string name="clip_time">"କ୍ଲିପ ଅବଧି"</string>
+<string name="clip_name_suffix">"କ୍ଲିପ"</string>
+<string name="file_choose">"ଫାଇଲ ଚୟନ"</string>
+<string name="save_dialog_title">"ନୂଆ ରେକର୍ଡିଂ"</string>
+<string name="keep_original_file">"ମୂଳ ଫାଇଲ ରଖ"</string>
+<string name="save_successful">"ସେବ ସଫଳ!ସେଭ ପାଥ:<xliff:g id="FILEPATH">%1$s</xliff:g>"</string>
+<string name="save_failed">"ସେଭ ବିଫଳ"</string>
+<string name="recording_now">"ରେକର୍ଡିଂ..."</string>
+<string name="recording_pause">"ରେକର୍ଡିଂ ପଜ୍‍ ହୋଇଗଲା"</string>
+<string name="record_pause">"ବିରତି ନିଅନ୍ତୁ"</string>
+<string name="record_stop">"ବନ୍ଦ କରନ୍ତୁ"</string>
+<string name="record_stop_and_save">"ବନ୍ଦ କରନ୍ତୁ ଏବଂ ସେଭ କରନ୍ତୁ"</string>
+<string name="record_timer">"ଟାଇମର ରେକର୍ଡ"</string>
+<string name="record_miss">"ମିସ୍‍ ହୋଇଥିବା ଟାଇମର ରେକର୍ଡ"</string>
+<string name="close_timer">"କ୍ଲୋଜ ଟାଇମର ରେକର୍ଡ"</string>
+<string name="soundrecording">"ରେକର୍ଡ କରୁଛି"</string>
+<string name="pauserecording">"ପଜ ରେକର୍ଡ"</string>
+<string name="clip_file_exit">"ଫାଇଲ ନାମ ର ପୂନରାବୃତି ହୋଇଛି|ଦୟାକରି ଆଉଥରେ ଏଣ୍ଟର କର"</string>
+<string name="autosaverecord">"ଅଟୋ ସେଭ"</string>
+<string name="auto_save">"ରେକର୍ଡିଂ କୁ ସ୍ୱଚାଳିତ ରୂପରେ ସେଭ୍‍ କର"</string>
+<string name="new_record">"ନୂଆ ରେ୍କର୍ଡ"</string>
+<string name="speak_open">"ରିସିଭର ମୋଡ ଅନ୍‍ ଅଛି"</string>
+<string name="speak_close">"ରିସିଭର ମୋଡ ବନ୍ଦ ଅଛି"</string>
+<string name="hour_duration">"<xliff:g id="hour">%s</xliff:g>H"</string>
+<string name="button_set">"ସ୍ଥାପନ କରନ୍ତୁ"</string>
+<string name="button_tag">"ଟ୍ୟାଗ୍"</string>
+<string name="button_list">"ତାଲିକା"</string>
+<string name="type_mp3">"MP3"</string>
+<string name="record_mp3">"MP3 (ଉଚ୍ଚ ଗୁଣବତ୍ତା)"</string>
+<string name="file_rename">"ଫାଇଲ ନାମ ର ପୂନରାବୃତି ହୋଇଛି, ଏହା ସେଭ ହୋଇନାହିଁ"</string>
+<string name="background_speak_close">"ରେକର୍ଡ ପ୍ଲେ ବ୍ଯାକଗ୍ରାଉଣ୍ଡ ରେ କାମ କରି ପାରିବନି ଏବଂ ଏହା ବନ୍ଦ ଅଛି"</string>
+<plurals name="confirm_delfile">
+<item quantity="one">"ଫାଇଲ ଟି ହଟେଇବାକୁ ଆପଣ ନିଶ୍ଚିତ କି?"</item>
+<item quantity="other">"ଫାଇଲ୍ ଡିଲିଟ୍ କରିବା ପାଇଁ ଆପଣ ନିଶ୍ଚିତ କି?"</item>
+</plurals>
+<string name="mode_change">"ଅଡିଓ ମୋଡ ପରିବର୍ତ୍ତନ ପାଇଁ ଟାଇମ ଦରକାର, ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ.."</string>
+<string name="rename_button">"ବର୍ଜନ କରନ୍ତୁ"</string>
+<string name="no_sd_write_permission">"ସାଉଣ୍ଡ ରେକର୍ଡର ପାଖରେ ଆପଣଙ୍କ SD କାର୍ଡ ଆକ୍ସେସ ନାହିଁ, ଦୟାକରି ଆପ୍ଲିକେଶନଟିର ଷ୍ଟୋରେଜ ଅନୁମୋଦନ ବା ପରିସ୍କାର କରନ୍ତୁ ଏବଂ ପୂନର୍ବାର ଚାଲୁ କରନ୍ତୁ."</string>
+<string name="confirm">"ଠିକଠାକ"</string>
+<string name="recording_file_list">"ରେକର୍ଡିଂଗୁଡ଼ିକ"</string>
+<string name="no_allow_play_calling">"କଲ୍‍ ଚାଲୁ ରହିଥିବା ଅବସ୍ଥାରେ ୌଣସି ଅଡିଓ ଫାଇଲ ବଜାଟାଇ ପାରିବ ନାହିଁ."</string>
+<string name="superuser_request_confirm">"ସାଉଣ୍ଡ ରେକର୍ଡରର ଆପଣଙ୍କ SD କାର୍ଡରେ ଆକ୍ସେସ ନାହିଁ, ,ଦୟାକରି ବାହାର ରୁଟ୍‍ ଡିରେକ୍ଟୋରି SANDISK SD କାର୍ଡ ନିର୍ବାଚନ କରନ୍ତୁ ଏବଂ ସାଉଣ୍ଡ ରେକର୍ଡର ପରିଚାଳନା ପାଇଁ ଅନୁମତି ଦିଅନ୍ତୁ |"</string>
+<string name="share_max_warning">"100ଟି ଫାଇଲରୁ ଅଧିକ ଚୟନ କରା ଯାଇଥିଲା, ଏବଂ ସେୟାର ଫଙ୍କସନ୍ ଉପଲବ୍ଧ ନଥିଲା"</string>
+<string name="exit_multiwindow_tips">"ଏକାଧିକ ୱିନଡୋ ମୋଡରେ ସାଉଣ୍ଡ ରେକର୍ଡର ସହାୟତା କରୁନାହିଁ, ଦୟାକରି ସଂପୂର୍ଣ୍ଣ ସ୍କ୍ରିନ୍ ମୋଡରେ ସାଉଣ୍ଡ ରେକର୍ଡର ବ୍ୟବହାର କରନ୍ତୁ |"</string>
+</resources>

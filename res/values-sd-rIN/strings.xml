@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"آواز جو رڪارڊ ڪندڙ"</string>
+<string name="record_your_message">"پنهنجي پيغام کي رڪارڊ ڪريو"</string>
+<string name="message_recorded">"پيغام رڪارڊ ٿي ويو"</string>
+<string name="review_message">"پيغام جا سر"</string>
+<string name="recording">"رڪارڊنگ ٿي رهي آهي"</string>
+<string name="recording_stopped">"رڪارڊنگ رڪجي وئي"</string>
+<string name="recording_save">"رڪارڊنگ محفوظ ٿي وئي"</string>
+<string name="recording_nosave">"رڪارڊنگ محفوظ نه ٿي"</string>
+<string name="storage_is_full">"ذخيره مڪمل ٿيل آهي"</string>
+<string name="max_length_reached">"وڌ کان وڌ حد اچي چڪي آهي"</string>
+<string name="phone_message"> "ڪال جي دوران آواز جو رڪارڊ ر کي کولي نه ٿو سگهجي"</string>
+<string name="min_available">"تقريبن <xliff:g id="minutes">%d</xliff:g> منٽ دستياب آهن"</string>
+<string name="min_and_time_available">"تقريبن <xliff:g id="minutes">%d</xliff:g> منٽ ۽   <xliff:g id="seconds">%d</xliff:g> سيڪنڊ دستياب آهن"</string>
+<string name="sec_available">"تقريبن  <xliff:g id="seconds">%d</xliff:g> سيڪنڊ دستياب آهن"</string>
+<string name="accept">" محفوظ ڪريو"</string>
+<string name="discard">" رد ڪريو"</string>
+<string name="button_ok">"ٺيڪ آهي"</string>
+<string name="press_record">"رڪارڊ کي دٻايو"</string>
+<string name="audio_db_artist_name">" توهان رڪارڊنگون"</string>
+<string name="audio_db_album_name">"آڊيو جون رڪارڊنگون"</string>
+<string name="audio_db_playlist_name">"منهنجون رڪارڊنگون"</string>
+<string name="error_app_internal">" اطلاق جي اندروني خرابي آهي"</string>
+<string name="error_mediadb_new_record">"رڪارڊ ڪيل آڊيو کي محفوظ ڪرڻ جي قابل نه آهي"</string>
+<string name="save">" محفوظ ڪريو"</string>
+<string name="select_file_type">"رڪارڊ واري فائل چونڊيو"</string>
+<string name="record_amr">"amr قسم (گهٽ معيار"</string>
+<string name="record_3gpp">"3gpp قسم (اعليٰ معيار)"</string>
+<string name="button_cancel">" رد ڪريو"</string>
+<string name="path_save">"مُرَوجّه رستو محفوظ ٿي ويو"</string>
+<string name="path_nosave">"مُرَوجّه رستو محفوظ نه ٿيو"</string>
+<string name="path_default">"هلندڙ رستو لکڻ جي ناقابل يا غير موزون آهي، اهو رستو اندروني ذخيرهگاه جو رستو آهي"</string>
+<string name="menu_set_save_path">"محفوظ ڪرڻ جي رستي کي مرتب ڪريو"</string>
+<string name="back">"واپس:"</string>
+<string name="path_label">"مهرباني ڪري رستي کي محفوظ ڪريو"</string>
+<string name="pause">" وقفو ڪريو"</string>
+<string name="storage_is_not_enough">"ذخيرهگاه ڪافي ناهي"</string>
+<string name="menu_recording_file_list">"رڪارڊنگ وارن فائلن جي فهرست"</string>
+<string name="recording_list_empty">"خالي فهرست"</string>
+<string name="menu_recording_list_select_all">" سمورا چونڊيو"</string>
+<string name="menu_recording_list_delete">" مٽايو"</string>
+<string name="menu_recording_list_deselect_all">"چونڊيل موقوف ڪريو"</string>
+<string name="recording_file_delete_success">"رڪارڊنگ مٽجي وئي"</string>
+<string name="recording_file_database_failed">"ڊيٽابيس جي فائل کي مٽائڻ ۾ ناڪامي ٿي وئي"</string>
+<string name="recording_file_delete_failed">"رڪارڊنگ جي فائل کي مٽائڻ ۾ ناڪامي ٿي وئي"</string>
+<string name="confirm_del">"فائلن کي مٽائڻ لاءِ توهان کي خاطري آهي؟"</string>
+<string name="button_delete">" مٽايو"</string>
+<string name="recording_file_delete_alert_title">" مٽايو"</string>
+<string name="recording_file_delete_alert_message">"%1$s کي خاطري سان مٽائڻ ٿا چاهيو؟"</string>
+<string name="recording_file_list">"رڪارڊنگ وارن فائلن جي فهرست"</string>
+<string name="less_than_one_second">"1 سيڪنڊُ"</string>
+<string name="is_scanning">"ميڊيا اسڪينر هينئر اسڪين ڪري رهيو آهي، مهرباني ڪري انتظار فرمائيندا..."</string>
+<string name="emptylist">"فهرست خالي آهي"</string>
+<string name="choose_file">"مهرباني ڪري رڪارڊنگ کي چونڊيو جيڪي فائلون توهان مٽائڻ چاهيو ٿا!"</string>
+<string name="error_path">"جيڪو رستو توهان چونڊيو آهي سو موجود ڪونهي، مهرباني ٻيهر مرتب ڪندا!"</string>
+<string name="path_miss">"محفوظ ڪيل رستو موجود ڪونهي يا ان تي رسي نه ٿو سگهجي!"</string>
+<string name="file_is_corrupt">"فائل خراب آهي"</string>
+<string name="low_memory">" ميموري ڪافي ناهي، رڪارڊنگ رڪجي ويندي!"</string>
+<string name="record_error">مستثنيٰ رڪارڊنگ ٿئي ٿي!"</string>
+<string name="play_error">"موسيقي جو پليئر غير فعال ٿيل آهي، کلڻ جي قابل نه آهي!"</string>
+<string name="dialog_title">" مهرباني ڪري چونڊيو"</string>
+<string name="dialog_message">رڪارڊنگ کي محفوظ ٿا ڪرڻ چاهيو؟"</string>
+<string name="same_application_running">"رڪارڊنگ جو ڊيوائس ڪنهن ٻئي پروگرام پاران استعمال پيو ٿئي، مهرباني ڪري هن پروگرام کي بند ڪندا!"</string>
+<string name="recording_time_short">"رڪارڊنگ جو وقت 1 سيڪنڊ کان گهٽ آهي، محفوظ نه ٿيو"</string>
+<string name="file_path_button">"فائل جو رستو"</string>
+<string name="file_name">"فائل جو نالو:"</string>
+<string name="file_path">"فائل جو رستو:"</string>
+<string name="rename">" ٻيهر نالو ڏيو"</string>
+<string name="rename_save">" ڪاميابي سان ٻيهر نالو رکجي ويو"</string>
+<string name="rename_nosave">"ٻيهر نالو ڏيڻ ۾ ناڪامي ٿي وئي"</string>
+<string name="filename_is_not_modified">"فائل جو نالو ترميم نه ٿي سگهيو"</string>
+<string name="duplicate_name">"فائل جو نالو ٻٽو آهي"</string>
+<string name="soundpicker_label">"مهرباني ڪري رڪارڊنگ جي فائل چونڊيو"</string>
+<string name="error_sdcard_path">"SD ڪارڊ موجود نه آهي. مُرَوجّه محفوظ ڪرڻ جو رستو اندروني ذخيرهگاه ۾ تبديل ڪيو ويو آهي."</string>
+<string name="input_length_overstep">"ان پٽ وڌ کان وڌ حد تي پهچي چڪي آهي"</string>
+<string name="filename_empty_error">"فائل جو نالو خالي نه ٿو ٿي سگهي، اصلي نالي سان محفوظ ڪريو"</string>
+<string name="please_choose_files">"مهرباني ڪري فائلون چونڊيو"</string>
+<string name="selected_files_count">"<xliff:g id="COUNTS">%d</xliff:g> کي چونڊيو ويو آهي"</string>
+<string name="use_default_path">"محفوظ ڪيل رستو موجود ڪونهي، مُرَوِجّه رستي کي استعمال ڪريو"</string>
+<string name="stroage_not_mounted">"ذخيرهگاه لڳل ڪونهي"</string>
+<string name="special_char_exist">" مخصوص حرفن <xliff:g id="COUNTS">%s</xliff:g> جي سهولت ڪانهي."</string>
+<string name="menu_select_more">" وڌيڪ چونڊيو"</string>
+<string name="menu_select_type">"فائل جي قسم کي مرتب ڪريو"</string>
+<string name="path_miss_nosave">"ذخيرو ڪيل رستو موجود ڪونهي، رڪارڊنگ محفوظ نه ٿي!</string>
+<string name="dialog_dismiss">" معطل ڪريو"</string>
+<string name="error_permissions">"اطلاق کي هلائڻ لاءِ ڪن نازڪ اجازتن جي ضرورت ناهي. مهرباني ڪري پنهنجي اجازتن جي ترتيبن کي چڪاس ڪريو."</string>
+<string name="internal_sdcard">"اندروني SD ڪارڊ"</string>
+<string name="external_sdcard">"بيروني sd ڪارڊ"</string>
+<string name="internal_storage">" اندروني ذخيره گاه"</string>
+<string name="external_storage">" بيروني ذخيره گاه"</string>
+<string name="set_as_ring">"وڄندڙ گهنٽي طور مرتب ڪريو"</string>
+<string name="read_file_path">"فائل جي رستي کي چڪاسيو"</string>
+<string name="operate_share">" شريڪ ڪريو"</string>
+<string name="ringtone_title_sim1">"SIM1 فون سر واري ڌن"</string>
+<string name="ringtone_title_sim2">"SIM2 فون جي وڄندڙ گهنٽي"</string>
+<string name="ringtone_menu_short">"سر واري ڌن طور استعمال ڪريو"</string>
+<string name="please_insert_sim_card">مهرباني ڪري گهٽ ۾ گهٽ SIM ڪارڊ کي ته وجهو"</string>
+<string name="ring_set_silent_vibrate">"هلندڙ طرز ۾ سر وارين ڌُنن جي سهولت ڪانهي"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"  SIM1فون تي سر واري ڌن طورمرتب ٿي وئي آهي."</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"  SIM2فون تي سر واري ڌن طورمرتب ٿي وئي آهي."</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" کي فون تي سر واري ڌن طور استعمال ڪريو."</string>
+<string name="ring_set_fail">"افسوس، گيت نه هلي سگهيو، مهرباني ڪري ڪنهن ٻئي گيت کي سر واري ڌُن طور چونڊيو"</string>
+<string name="tag_limit">"ٽئگن جو نمبر وڌ کان وڌ تي پهتل آهي"</string>
+<string name="no_allow_play_calling">"ڪنهن ڪال جي دوران موسيقي هلائڻ جي اجازت ڪانهي (ريڊيو/ويڊيو)."</string>
+<string name="playback_failed">افسوس، فائل کي هلائڻ ۾ ناڪامي ٿي وئي."</string>
+<string name="tag">"ٽئگ"</string>
+<string name="previous_tag">"آخري ٽئگ"</string>
+<string name="next_tag">"ايندڙ ٽئگ"</string>
+<string name="recording_play">"هليل کي رڪارڊ ڪريو"</string>
+<string name="clip_duration_tip">"ڊيگهه جي تدوين ڪريو"</string>
+<string name="record_setting">"ترتيبن کي رڪارڊ ڪريو"</string>
+<string name="file_type">"فائل جو قسم"</string>
+<string name="type_amr">"amr وارو قسم"</string>
+<string name="type_3gpp">"3gpp وارو قسم"</string>
+<string name="save_path">" رستي کي محفوظ ڪريو"</string>
+<string name="set_timer_recording">"ٽائمر جي رڪارڊنگ مرتب ڪريو"</string>
+<string name="timer_recording_detail">"<xliff:g id="hours">%s</xliff:g>: <xliff:g id="minutes">%s</xliff:g> رڪارڊ کي <xliff:g id="COUNTS">%s</xliff:g> لاءِ چالو ڪريو"</string>
+<string name="view_file_details">" تفصيلات ڏسو"</string>
+<string name="file_size">" فائل سائز:"</string>
+<string name="file_date">"فائل جي تاريخ:"</string>
+<string name="recording_start_time">"رڪارڊنگ جي ابتدا جو وقت"</string>
+<string name="recording_duration">"رڪارڊنگ جي دورانيي جو ڪلاڪ"</string>
+<string name="tuned_timer_recording">"ٽائمر جي رڪارڊنگ کوليو ويو"</string>
+<string name="miss_timer_recording">"ٽائمر جي گسي ويل رڪارڊنگ"</string>
+<string name="miss_timer_time">"وقت:<xliff:g id="TIME">%s</xliff:g>"</string>
+<string-array name="duration_hours">
+<item>" ڪلاڪُ"</item>
+<item>" ڪلاڪُ"</item>
+</string-array>
+<string-array name="timer_recording_time">
+<item>"هاڻي کان ٽائمر جي رڪارڊنگ 1 منٽ کان گهٽ تي ترتيب ڏنل آهي."</item>
+<item>"هاڻي کان ٽائمر لاءِ <xliff:g id="HOURS">%1$s</xliff:g> تي رڪارڊنگ ترتيب ڏنل آهي."</item>
+<item>"هاڻي کان ٽائمر لاءِ <xliff:g id="MINUTES">%2$s</xliff:g> تي رڪارڊنگ ترتيب ڏنل آهي."</item>
+<item>"هاڻي کان ٽائمر لاءِ <xliff:g id="HOURS">%1$s</xliff:g> ۽ <xliff:g id="MINUTES">%2$s</xliff:g> تي رڪارڊنگ ترتيب ڏنل آهي."</item>
+</string-array>
+<plurals name="hours">
+<item quantity="one">" 1 ڪلاڪُ"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> ڪلاڪ"</item>
+</plurals>
+<plurals name="minutes">
+<item quantity="one">" 1 منٽ"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> منٽ"</item>
+</plurals>
+<string name="start_record">"رڪارڊر کي چالو ڪريو"</string>
+<string name="resume_record">"رڪارڊ ڪرڻ کي قائم رکو"</string>
+<string name="start_play">"هلائڻ شروع ڪريو"</string>
+<string name="resume_play">" هلڻ کي برقرار رکو"</string>
+<string name="reset_timer_recording">"رڪارڊ ڪرڻ جو ڊيوائس ڪنهن ٻئي پروگرام پاران استعمال ۾ آهي، مهرباني ڪري ٽائمر جي رڪارڊنگ کي ٻيهر مرتب ڪريو!"</string>
+<string name="storage_not_enough">"ذخيرهگاه ڪافي ناهي، ٽائمر جي رڪارڊنگ جي شروعات ڪرڻ ۾ ناڪامي ٿي وئي!"</string>
+<string name="phone_storage_not_enough">"فون جو ذخيرهگاه ناڪافي آهي!"</string>
+</resources>

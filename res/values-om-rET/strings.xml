@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Sound waraabaa sagalee"</string>
+<string name="record_your_message">"Ergaa kee waraabi"</string>
+<string name="message_recorded">"Sagalee waraabame"</string>
+<string name="review_message">"Srarawwan ergaa"</string>
+<string name="recording">"Warrabbuu"</string>
+<string name="recording_stopped">"Waraabbiin dhaabbateera"</string>
+<string name="recording_save">"Warrabbuu olkaa’ame"</string>
+<string name="recording_nosave">"Waraabbiin hin olkaa’amne"</string>
+<string name="storage_is_full">"Kuustuun guutuudha"</string>
+<string name="max_length_reached">"Dheerina olaanaan bira gahameera"</string>
+<string name="phone_message">"Yeroo bilbilaa jirutti waraabaa sagalee hin banin."</string>
+<string name="min_available">"Waa’ee  daqiiqaa <xliff:g id="minutes">%d</xliff:g> jiruu"</string>
+<string name="min_and_time_available">"Waa’ee daqiiqaa<xliff:g id="minutes">%d</xliff:g> fi <xliff:g id="seconds">%d</xliff:g> sakandii argamuu"</string>
+<string name="sec_available">"Waa’ee <xliff:g id="seconds">%d</xliff:g> jiruu"</string>
+<string name="accept">"Olkaa’I"</string>
+<string name="discard">"Gatuu"</string>
+<string name="button_ok">"TOLE"</string>
+<string name="press_record">"Waraabbii cuqaasi"</string>
+<string name="audio_db_artist_name">"Waraabbiilee kee"</string>
+<string name="audio_db_album_name">"Waraabbiiwwan oodiyoo"</string>
+<string name="audio_db_playlist_name">"Waraabbilee koo"</string>
+<string name="error_app_internal">"Dogoggoraappilikeeshiinii keessaa"</string>
+<string name="error_mediadb_new_record">"Sagalee waraabame kuusuu hin dandeenye"</string>
+<string name="save">"Olkaa’I"</string>
+<string name="select_file_type">"Gosa galmee waraabbii filadhu"</string>
+<string name="record_amr">"Gosa amr (qulqullina gadi aanaa)"</string>
+<string name="record_3gpp">"Gosa 3gpp (qulqullina olaanaa)"</string>
+<string name="button_cancel">"Balleessi"</string>
+<string name="path_save">"karaan sirrii hin taane olkaa’ameera"</string>
+<string name="path_nosave">"karaan sirrii hin taane hin olkaa’amne"</string>
+<string name="path_default">"Karaan ammaa kan irratti barreeffamu miti yookan fudhatama hin qabu, kun karaa ittiin darbiinsaa miimoorii keesaati"</string>
+<string name="menu_set_save_path">"Karaa olkaa’uu filadhu"</string>
+<string name="back">"Duuba/deebii.."</string>
+<string name="path_label">"Maaloo karaa olkaawwii filadhu"</string>
+<string name="pause">"Addakuuti/Dhaabi"</string>
+<string name="storage_is_not_enough">"Kuusaan gahaa miti"</string>
+<string name="menu_recording_file_list">"Tarree galmee waraabbii"</string>
+<string name="recording_list_empty">"Tarree duwwaa"</string>
+<string name="menu_recording_list_select_all">"Hunda filii"</string>
+<string name="menu_recording_list_delete">"balleessuu"</string>
+<string name="menu_recording_list_deselect_all">"Filachuu dhiisuu"</string>
+<string name="recording_file_delete_success">"Waraabbiin balleeffamera"</string>
+<string name="recording_file_database_failed">"Galmee daataa beezii balleessuu hin dandeenye"</string>
+<string name="recording_file_delete_failed">"Galmee waraabbii balleessuu hin dandeenye"</string>
+<string name="confirm_del">"Galmeewwan kanneen balleessuu nni barbaaddaa?"</string>
+<string name="button_delete">"balleessuu"</string>
+<string name="recording_file_delete_alert_title">"balleessuu"</string>
+<string name="recording_file_delete_alert_message">"Balleessuu ni barbaddaa %1$s ?"</string>
+<string name="recording_file_list">"Tarree galmee waraabbii"</string>
+<string name="less_than_one_second">"Seekoondii 1"</string>
+<string name="is_scanning">"Qulqulleessaan miidiyaa amma qluqlulleessaa jira, maaloo obsi..."</string>
+<string name="emptylist">"Tarreen duwwaadha"</string>
+<string name="choose_file">"Waraabbii galmeewwan akka balleessun barbaaddu maaloo filadhu!"</string>
+<string name="error_path">"Karaan ati filatte hin jiru,maaloo irra deebi’ii sirreessi!"</string>
+<string name="path_miss">"The stored path does not ekaraan olkaa’ame hin jiru yookan dhiyeeffamuu hin dandeenye!"</string>
+<string name="file_is_corrupt">"faayilii faalame jira"</string>
+<string name="low_memory">"Miimooriin gahaa miti,waraabbiin ni dhaabata!"</string>
+<string name="record_error">"Taateewwan hin eegamne waraabuu!"</string>
+<string name="play_error">"Taphachiisan muziqqaa akka hin hojane ta\'e jira.banuunni hin danda\'aamu!"</string>
+<string name="dialog_title">"Maaloo filadhu"</string>
+<string name="dialog_message">"Waraabbii olkaa’uu?"</string>
+<string name="same_application_running">"Meeshaan warrabbuu fayyadamaa biraan karaa sagantaa biroo, maaloo sagantaa kana cufi!"</string>
+<string name="recording_time_short">"Yeroo warrabbuu  seekoondii 1 gadi,kan ol hin kaa’amne"</string>
+<string name="file_path_button">"Daandii  galmee"</string>
+<string name="file_name">"Maqaa galmee："</string>
+<string name="file_path">"Daandii galmee："</string>
+<string name="rename">"Irra debi’uun maqaa kennuu"</string>
+<string name="rename_save">"Maqaa jijjiirri milkaa’iinaan"</string>
+<string name="rename_nosave">"Maqaa jijjiiru kufecufuu dhiisuu kufe"</string>
+<string name="filename_is_not_modified">"Galmeen maqaa hin fooyyofne"</string>
+<string name="duplicate_name">"Baay’isaa galmee maqaa"</string>
+<string name="soundpicker_label">"Maaloo galmee waraabbii filadhu"</string>
+<string name="error_sdcard_path">"SD hin qabu Karaan olkaawwii dogoggoraa gara miimoorii keessaatti jijjiirameera."</string>
+<string name="input_length_overstep">"Galteen dheerina olaanaa gaheera"</string>
+<string name="filename_empty_error">"Maqaan galmee duwwaa ta’uu hin danda’u , maqaa isa sirrii olkaa’i"</string>
+<string name="please_choose_files">"Maaloo galmeewwan fiadhu"</string>
+<string name="selected_files_count">"filatame<xliff:g id="COUNTS">%d</xliff:g>"</string>
+<string name="use_default_path">"Karaan kuufame hin jiru,karaa al kallattii filadhu"</string>
+<string name="stroage_not_mounted">"Kuusii hin tullamne"</string>
+<string name="special_char_exist">"Amaloonni addaa hin  <xliff:g id="COUNTS">%s</xliff:g> deeggaraman"</string>
+<string name="menu_select_more">"Filaadhu hedduu"</string>
+<string name="menu_select_type">"Gosa galmee kaa’i"</string>
+<string name="path_miss_nosave">"Karaan kuufame hin jiru,,waraabbiin hin olkaa’amne！"</string>
+<string name="dialog_dismiss">"Dhaabuu"</string>
+<string name="error_permissions">"Appilikeeshiniin eeyyaamoota barbaachise gadi fageenyaan hin qabu dalaguuf: Maaloo yoomeessawwan eeyyaamoota kee mirkannessi."</string>
+<string name="internal_sdcard">"SD kaardii kessa jiru"</string>
+<string name="external_sdcard">"SD kaardii alaa"</string>
+<string name="internal_storage">"Bilbiila"</string>
+<string name="external_storage">"SD kaardii"</string>
+<string name="set_as_ring">"Sagalee wamichaa tolchi"</string>
+<string name="read_file_path">"Karaa faayilii too\'aadhu"</string>
+<string name="operate_share">"Qooduu"</string>
+<string name="ringtone_title_sim1">"Toonii bilbilaa SIM1"</string>
+<string name="ringtone_title_sim2">"Bilbiila Toonii SIIMII2"</string>
+<string name="ringtone_menu_short">"Toonii godhii fayyadami"</string>
+<string name="please_insert_sim_card">"maaloo yoo xiqqaatea SIM card itti galchi"</string>
+<string name="ring_set_silent_vibrate">"Toonii bilbilaa baramoon moodii ammaa keessatti hin taphatan"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"  akka toonii bilbila SIM1tti hojjechu."</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"  akka toonii bilbila SIM2tti hojjechu."</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" akka toonii bilbilaatti kaa’i."</string>
+<string name="ring_set_fail">"Nan gadda, faaruun hin taphatu. Maaloo faaruu biroo akka toonii bilbilaatti filadhu"</string>
+<string name="tag_limit">"Lakk iyyaatoota dhumma irraa ga\'e jira"</string>
+<string name="no_allow_play_calling">"Yeroo bilbiluutti muuziqaa taphachiisuun hin eyyamamu (raadiyoo/viidiyoo)."</string>
+<string name="playback_failed">"Taphachiisan faayilii waraabbi ka akkana hin deggaruu"</string>
+<string name="tag">"Mallattoo adda baasaa"</string>
+<string name="previous_tag">"Iyyaatoota dhumma"</string>
+<string name="next_tag">"Iyyaatoota itti anuu"</string>
+<string name="recording_play">"Tapachiisa waraabbi"</string>
+<string name="clip_duration_tip">"Dheerina gulaalla"</string>
+<string name="record_setting">"Qindaa\'ina waraabbi"</string>
+<string name="file_type">"Gosa Faayiilii"</string>
+<string name="type_amr">"Gosa amr"</string>
+<string name="type_3gpp">"Gosa 3gpp"</string>
+<string name="save_path">"Kaara kuusaa"</string>
+<string name="set_timer_recording">"Warrabbi yeeroo qindeessi"</string>
+<string name="timer_recording_detail">"Warraabbuu jalqabuu <xliff:g id="hours">%s</xliff:g>:<xliff:g id="minutes">%s</xliff:g> tif <xliff:g id="COUNTS">%s</xliff:g>"</string>
+<string name="view_file_details">"Ibsawwan ilaali"</string>
+<string name="file_size">"Hammamaa faayilii :"</string>
+<string name="file_date">"Guyyaa faayilii :"</string>
+<string name="recording_start_time">"Yeeroo waraabbinni itti jal qabe"</string>
+<string name="recording_duration">"Hanga waraabbinni ture"</string>
+<string name="tuned_timer_recording">"Yeeron waraabbinni irraa kayyame jira"</string>
+<string name="miss_timer_recording">"Yeeroo waraabbi kan jala darbe"</string>
+<string name="miss_timer_time">"Yeroo: <xliff:g id="TIME">%s</xliff:g>"</string>
+<string-array name="duration_hours">
+<item>" Sa\'aatti"</item>
+<item>" Sa\'aatiiwwan"</item>
+</string-array>
+<string-array name="timer_recording_time">
+<item>"Waraabbinni yeeroo ammaf daqiiqaa 1 gaadif sireeffame."</item>
+<item>"Yeroo lakkooftuu sirreeffamteef <xliff:g id="HOURS">%1$s</xliff:g> amma irraa."</item>
+<item>"Yeroo lakkooftuu sirreeffamteef <xliff:g id="MINUTES">%2$s</xliff:g> amma irraa."</item>
+<item>"Yeroo lakkooftuu sirreeffamteef <xliff:g id="HOURS">%1$s</xliff:g> fi <xliff:g id="MINUTES">%2$s</xliff:g> amma irraa."</item>
+</string-array>
+<plurals name="hours">
+<item quantity="one">"Sa’aattii 1"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> sa\'aatiiwwan"</item>
+</plurals>
+<plurals name="minutes">
+<item quantity="one">"Daaqiiqaa 1"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> daqiiqaawwan"</item>
+</plurals>
+<string name="start_record">"waraabbi jal qabu"</string>
+<string name="resume_record">"waraabbii irraa deebi\'uun jal qabu"</string>
+<string name="start_play">"taphachisuu jal qaba"</string>
+<string name="resume_play">"tapachiisuu irraa deebi\'aa jal qaba"</string>
+<string name="reset_timer_recording">"Mi\'aa waraabbi sagaantan biraa itti fayyadame jira, maaloo yeero waraabbi irraa deebi\'udhan qindeessa!"</string>
+<string name="storage_not_enough">"Qabiyyeen ga\'aamitti, waraabbin kuufee jira!"</string>
+<string name="phone_storage_not_enough">"Qabiyyeen bilbiila ga\'aamitti!"</string>
+<string name="illegal_chars_of_filename">"Maqaan faayilii arfiiwwan seeraan alaa qabachuu hin danda\'u \\:*?\"\u003C\u003E|/"</string>
+<string name="hour">"H"</string>
+<string name="min">"M"</string>
+<string name="start">"Jalqabi"</string>
+<string name="record">"Oolmaa"</string>
+<string name="timeset">"Qindeessituu yeero"</string>
+<string name="starttimeandduration">"Yeeroo itti jal qabe/ tuurtii waraabbi"</string>
+<string name="local_record">"Waraabbi naannoo"</string>
+<string name="call_record">"Waraabbi bilbiila"</string>
+<string name="clip_time">"Tuurtii muraa"</string>
+<string name="clip_name_suffix">"Muraa"</string>
+<string name="file_choose">"Filaannoo faayilii"</string>
+<string name="save_dialog_title">"Faayilii waraabbii haraawa maqaa itti tolchi"</string>
+<string name="keep_original_file">"Faayilii isa jal qaba olkaa\'i"</string>
+<string name="save_successful">"Milkaa\'iinaan Olkaa\'uu!!Karaa Olkaa\'uu:<xliff:g id="FILEPATH">%1$s</xliff:g>"</string>
+<string name="save_failed">"Ol kayyinsi kuufe jira!"</string>
+<string name="recording_now">"Waraabba jira…"</string>
+<string name="recording_pause">"Waraabbin dhabbatee jira…"</string>
+<string name="record_pause">"Addakuuti/Dhaabi"</string>
+<string name="record_stop">"Dhaabi"</string>
+<string name="record_timer">"Yeero waraabbi"</string>
+<string name="record_miss">"Yeero waraabbi kan jala darbe"</string>
+<string name="close_timer">"Yeero waraabbi cuufa"</string>
+<string name="soundrecording">"Warrabbuu"</string>
+<string name="pauserecording">"Waraabbi dhabba"</string>
+<string name="clip_file_exit">"Maqaan faayilii irraa deebi\'ameerra. Maaloo irraa deebi\'aa galcha"</string>
+<string name="autosaverecord">"Waraabbi olkaa\'i ofnaa"</string>
+<string name="auto_save">"Olkaa\'I ofnaa kan yeero waraabbin milka\'uu"</string>
+<string name="new_record">"Waraabbi haraawa"</string>
+<string name="speak_open">"Haalatan halla fudhachu irratti argama"</string>
+<string name="speak_close">"Haalatan halla hin fudhane irratti argama"</string>
+<string name="hour_duration">"<xliff:g id="hour">%s</xliff:g>sa\'aatii"</string>
+<string name="button_set">"Guuti"</string>
+<string name="button_tag">"Mallattoo adda baasaa"</string>
+<string name="button_list">"Tarreessuu"</string>
+<string name="type_mp3">"Gosa mp3"</string>
+<string name="record_mp3">"Gosa mp3 (qulqullina olaanaa)"</string>
+<string name="file_rename">"Maqaan faayilii irraa deebi\'ee jira,ol hin kayyamne"</string>
+<string name="background_speak_close">"Fudhatan duubbee irratti waan hin hojateef cufee jira"</string>
+<plurals name="confirm_delfile">
+<item quantity="one">"Faayilii cufuu kee mirkaana?"</item>
+<item quantity="other">"Galmeewwan kanneen balleessuu nni barbaaddaa?"</item>
+</plurals>
+<string name="mode_change">"Jijjiran sagaalle haalatan yeero barbaada maaloo obsaa…"</string>
+<string name="rename_button">"Gati"</string>
+</resources>

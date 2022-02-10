@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"সাওন্দ রেকোর্দ তৌনবা"</string>
+<string name="record_your_message">"নহাক্কি মেসেজ রেকোর্দ তৌ"</string>
+<string name="message_recorded">"মেসেজ রেকোর্দ তৌরে"</string>
+<string name="review_message">"মেসেজ ঈশৈ ময়েকশীং"</string>
+<string name="recording">"রেকোর্দ তৌরি"</string>
+<string name="recording_stopped">"রেকোর্দ তৌবা লেপ্পি"</string>
+<string name="recording_save">"রেকোর্দ তৌবা সেব তৌরে"</string>
+<string name="recording_nosave">"রেকোর্দ তৌবা সেব তৌদে"</string>
+<string name="storage_is_full">"স্টোরেজ পিক থল্লি"</string>
+<string name="max_length_reached">"খ্বাইদগী শাংবা য়ৌরে"</string>
+<string name="phone_message">"কোল তৌরিঙৈ মতমদা সাওন্দ রেকোর্দর থাবা য়াদে."</string>
+<string name="min_available">"মরমদা <xliff:g id="minutes">%d</xliff:g> খ্বাইদগী য়ামদবা ফংবা"</string>
+<string name="min_and_time_available">"মরমদা <xliff:g id="minutes">%d</xliff:g> খ্বাইদগী য়ামদবা অমসুং <xliff:g id="seconds">%d</xliff:g> সেকেন্দ ফংই"</string>
+<string name="sec_available">"মরমদা <xliff:g id="seconds">%d</xliff:g>s ফংই"</string>
+<string name="accept">"সেব তৌ"</string>
+<string name="discard">"লংথোকউ"</string>
+<string name="button_ok">"ওকে"</string>
+<string name="press_record">"রেকোর্দ নম্মু"</string>
+<string name="audio_db_artist_name">"নহাক্কি রেকোর্দিংশীং"</string>
+<string name="audio_db_album_name">"ওদিও রেকোর্দিংশীং"</string>
+<string name="audio_db_playlist_name">"ঐহাক্কি রেকোর্দিংশীং"</string>
+<string name="error_app_internal">"মনুংগী এপ্লিকেশন্দা অশোয়বা"</string>
+<string name="error_mediadb_new_record">"রেকোর্দ তৌখিবা ওদিও সেব তৌবা ঙমদে"</string>
+<string name="save">"সেব তৌ"</string>
+<string name="select_file_type">"রেকোর্দ ফাইল মখল খল্লু"</string>
+<string name="record_amr">"amr টাইপ (অনেম্বা-ক্বালিতি)"</string>
+<string name="record_3gpp">"3gpp টাইপ (অৱাংবা-ক্বালিতি)"</string>
+<string name="button_cancel">"ককথৎলু"</string>
+<string name="path_save">"দিফাওল্ট লম্বী সেব তৌরে"</string>
+<string name="path_nosave">"দিফাওল্ট লম্বী সেব তৌদে"</string>
+<string name="path_default">"হৌজিক্কি লম্বেল অসি ইবা য়াদে নত্ত্রগা চৎনদে, মদু মনুংগী স্টোরেজ লম্বী অদুগী লম্বী অদুনি"</string>
+<string name="menu_set_save_path">"সেব তৌবা লম্বী সেট তৌ"</string>
+<string name="back">"হল্লু.."</string>
+<string name="path_label">"সেব তৌবা লম্বী খনবিয়ু"</string>
+<string name="pause">"ঙাইহাক লেপ্পু"</string>
+<string name="storage_is_not_enough">"স্টোরেজ মতিক চাদে"</string>
+<string name="menu_recording_file_list">"ফাইল লিস্ট রেকোর্দ তৌরি"</string>
+<string name="recording_list_empty">"অহাংবা লিস্ট"</string>
+<string name="menu_recording_list_select_all">"লোইনা খল্লু"</string>
+<string name="menu_recording_list_delete">"মুথৎলু"</string>
+<string name="menu_recording_list_deselect_all">"খনবা তোকউ"</string>
+<string name="recording_file_delete_success">"রেকোর্দিং মুথৎলে"</string>
+<string name="recording_file_database_failed">"দাতাবেজ ফাইল মুথৎপা মায় পাক্ত্রে"</string>
+<string name="recording_file_delete_failed">"রেকোর্দ তৌরিবা ফাইল মুথৎপা মায় পাক্ত্রে"</string>
+<string name="confirm_del">"নহাক ফাইলশীং মুথৎকদবনি হায়বা শোয়দ্রব্রা?"</string>
+<string name="button_delete">"মুথৎলু"</string>
+<string name="recording_file_delete_alert_title">"মুথৎলু"</string>
+<string name="recording_file_delete_alert_message">"মুথৎপা শোয়দ্রে %1$s ?"</string>
+<string name="recording_file_list">"ফাইল লিস্ট রেকোর্দ তৌরি"</string>
+<string name="less_than_one_second">"সেকেন্দ 1"</string>
+<string name="is_scanning">"মেদিয়াস্কেনর হৌজিক স্কেন তৌরি, ঙাইবিয়ু..."</string>
+<string name="emptylist">"লিস্ট হাংই"</string>
+<string name="choose_file">"নহাক্না ফাইলশীং মুথৎপা পাম্বা রেকোর্দিং অদু খনবিয়ু!"</string>
+<string name="error_path">"নহাক্না খনবা লম্বী অদু লৈতে, হন্না সেট তৌবিয়ু!"</string>
+<string name="path_miss">"স্টোর তৌবা লম্নী অদু লৈতে নত্ত্রগা এক্সেস তৌবা ঙমদে!"</string>
+<string name="file_is_corrupt">"ফাইল করপ্ট ওই"</string>
+<string name="low_memory">"মেমোরি মতিক চাদে, রেকোর্দিং লেপ্লগনি!"</string>
+<string name="record_error">"রেকোর্দিং এক্সেপ্সন অমা থোকই!"</string>
+<string name="play_error">"ম্যুজিক প্লেয়র য়াহনখিদ্রে, হাংবা ঙমদ্রে！"</string>
+<string name="dialog_title">"খনবিয়ু"</string>
+<string name="dialog_message">"রেকোর্দিং অদু সেব তৌগদ্রা?"</string>
+<string name="same_application_running">"রেকোর্দিং তৌবা দিভাইস অদু অতোপ্পা প্রোগ্রাম অমনা শীজিন্নৈ, প্রোগ্রাম অসি খুমজিনবিয়ু!"</string>
+<string name="recording_time_short">"রেকোর্দ তৌবা মতম সেকেন্দ 1 দগী হন্থৈ, সেব তৌদে"</string>
+<string name="file_path_button">"ফাইল লম্বী"</string>
+<string name="file_name">"ফাইল মমিং："</string>
+<string name="file_path">"ফাইল লম্নী："</string>
+<string name="rename">"হন্না মমিং থোল্লু"</string>
+<string name="rename_save">"মায় পাক্না হন্না মমিং থোল্লু"</string>
+<string name="rename_nosave">"হন্না মমিং থোনবা মায় পাক্তবা"</string>
+<string name="filename_is_not_modified">"ফাইল মমিং শেমদোক্তে"</string>
+<string name="duplicate_name">"ফাইল মমিং দুপ্লিকেত"</string>
+<string name="soundpicker_label">"রেকোর্দ তৌবা ফাইল খনবিয়ু"</string>
+<string name="error_sdcard_path">"sd কার্দ লৈতে. দিফাওল্ট সেব তৌবা লম্বী মনুংগী স্টোরেজদা হোংলে."</string>
+<string name="input_length_overstep">"ইনপুত খ্বাইদগী শাংবা য়ৌরে"</string>
+<string name="filename_empty_error">"ফাইল মমিং হাংবা য়াদে, অহৌবা মমিং অদু সেব তৌ"</string>
+<string name="please_choose_files">"ফাইলশীং খনবিয়ু"</string>
+<string name="selected_files_count">"খল্লে<xliff:g id="COUNTS">%d</xliff:g>"</string>
+<string name="use_default_path">"স্টোর তৌবা লম্বী অদু লৈতে, দিফাওল্ট লম্বী শীজিন্নৌ"</string>
+<string name="stroage_not_mounted">"স্টোরেজ অদু থাঙ্গৎতে"</string>
+<string name="special_char_exist">"স্পেসিয়েল কেরেক্তরশীং %s<xliff:g id="COUNTS">%s</xliff:g> সপোর্ট তৌদে"</string>
+<string name="menu_select_more">"হেন্না খল্লু"</string>
+<string name="menu_select_type">"ফাইল মখল সেট তৌ"</string>
+<string name="path_miss_nosave">"স্টোর তৌবা লম্বী অদু লৈতে, রেকোর্দিং সেব তৌদে！"</string>
+<string name="dialog_dismiss">"খন্নগনু"</string>
+<string name="error_permissions">"এপ অদুগী রন তৌবদা দরকার ওইবা ক্রিতিকেল অয়াবা পীবশীং লৈতে. নহাক্কি অয়াবা পীবশীংগী সেটিংশীং চেক তৌ."</string>
+<string name="internal_sdcard">"মনুংগী SD কার্দ"</string>
+<string name="external_sdcard">"মপানগী sd কার্দ"</string>
+<string name="internal_storage">"মনুংগী স্টোরেজ"</string>
+<string name="external_storage">"মপানগী স্টোরেজ"</string>
+<string name="set_as_ring">"রিং তোনশীং ওইনা সেট তৌ"</string>
+<string name="read_file_path">"ফাইল পাথ অদু চেক তৌ"</string>
+<string name="operate_share">"শরুক য়ামিন্নৌ"</string>
+<string name="ringtone_title_sim1">"SIM1 ফোন রিংতোন"</string>
+<string name="ringtone_title_sim2">"SIM2 ফোন রিংতোন""</string>
+<string name="ringtone_menu_short">"রিংতোন ওইনা শীজিন্নৌ"</string>
+<string name="please_insert_sim_card">"য়ামদ্রবদা SIM কার্দ অমা থিংজিনবিয়ু"</string>
+<string name="ring_set_silent_vibrate">"কস্টম রিংতোনশীং হৌজিক্কি মোদ অসিদা সপোর্ট তৌদে"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"SIM 1 ফোন রিংতোন ওইনা সেট তৌই."</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"SIM2 ফোন রিংতোন ওইনা সেট তৌই."</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ফোন রিংতোন ওইনা সেট তৌ."</string>
+<string name="ring_set_fail">"লানখ্রে, ঈশৈ অদু প্লে তৌবা ঙমদ্রে. অতোপ্পা ঈশৈ রিংতোন ওইনা খনবিয়ু"</string>
+<string name="tag_limit">"টেগশীংগী মশীং অদু খ্বাইদগী য়াম্বা য়ৌখ্রে"</string>
+<string name="no_allow_play_calling">"কোল অমা তৌরিঙৈদা ম্যুজিক প্লে তৌবা য়াদে (রেদিও/ভিদিও)."</string>
+<string name="playback_failed">"লানখ্রে, ফাইল অদু প্লে তৌবা ঙমদ্রে."</string>
+<string name="tag">"টেগ"</string>
+<string name="previous_tag">"ইকোন কোনবা টেগ"</string>
+<string name="next_tag">"মথংগী টেগ"</string>
+<string name="recording_play">"প্লে রেকোর্দ তৌরি"</string>
+<string name="clip_duration_tip">"অশাংবা এদিত তৌরি"</string>
+<string name="record_setting">"সেটিং রেকোর্দ তৌ"</string>
+<string name="file_type">"ফাইল মখল"</string>
+<string name="type_amr">"amr মখল"</string>
+<string name="type_3gpp">"3gpp মখল"</string>
+<string name="save_path">"লম্বী সেব"</string>
+<string name="set_timer_recording">"টাইমর রেকোর্দিং সেট তৌ"</string>
+<string name="timer_recording_detail">"রেকোর্দ তৌবা হৌ দা <xliff:g id="hours">%s</xliff:g>:<xliff:g id="minutes">%s</xliff:g> গী <xliff:g id="COUNTS">%s</xliff:g>"</string>
+<string name="view_file_details">"অকুপ্পা ৱারোল য়েংঙু"</string>
+<string name="file_size">"ফাইলগী চাওবা পিকপা:"</string>
+<string name="file_date">"ফাইলগী তাং："</string>
+<string name="recording_start_time">"রেকোর্দিং হৌবা মতম"</string>
+<string name="recording_duration">"রেকোর্দিং তৌবা চংবা মতম"</string>
+<string name="tuned_timer_recording">"টাইমর রেকোর্দিং ত্যুন ওন"</string>
+<string name="miss_timer_recording">"টাইমর রেকোর্দিং তৌহৌদ্রে"</string>
+<string name="miss_timer_time">"মতম: <xliff:g id="TIME">%s</xliff:g>"</string>
+<string-array name="duration_hours">
+<item>"পুং"</item>
+<item>"পুং"</item>
+</string-array>
+<string-array name="timer_recording_time">
+<item>"টাইমর রেকোর্দিং হৌজিক্তগী মিনট 1 হন্থনা লৈরগা সেট তৌই."</item>
+<item>"টাইমর রেকোর্দিং সেট তৌই গী <xliff:g id="HOURS">%1$s</xliff:g> হৌজিক্তগী."</item>
+<item>"টাইমর রেকোর্দিং সেট তৌই গী <xliff:g id="MINUTES">%2$s</xliff:g> হৌজিক্তগী."</item>
+<item>"টাইমর রেকোর্দিং সেট তৌই গী <xliff:g id="HOURS">%1$s</xliff:g> অমসুং <xliff:g id="MINUTES">%2$s</xliff:g> হৌজিক্তগী."</item>
+</string-array>
+<plurals name="hours">
+<item quantity="one">"পুং 1"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> পুংশীং"</item>
+</plurals>
+<plurals name="minutes">
+<item quantity="one">"মিনট 1"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> মিনটশীং"</item>
+</plurals>
+<string name="start_record">"রেকোর্দর স্টার্ট তৌ"</string>
+<string name="resume_record">"রেকোর্দ তৌবা হন্না হৌ"</string>
+<string name="start_play">"প্লে তৌবা হৌ"</string>
+<string name="resume_play">"প্লে তৌবা হন্না হৌ"</string>
+<string name="reset_timer_recording">"রেকোর্দিং দিভাইস অদু অতোপ্পা প্রোগ্রাম অমনা শীজিন্নরি, টাইমর রেকোর্দিং হন্না সেট তৌবিয়ু!"</string>
+<string name="storage_not_enough">"স্টোরেজ মতিক চানা ওক্তে, টাইমর রেকোর্দিং হৌবা মায় পাক্তে!"</string>
+<string name="phone_storage_not_enough">"ফোন স্টোরেজ মতিক চানা ওক্তে!"</string>
+</resources>

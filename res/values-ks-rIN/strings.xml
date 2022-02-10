@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">آواز ریکارڈر</string>
+<string name="record_your_message">پانین میسیج کرییو ریکارڈ</string>
+<string name="message_recorded">میسیج کاءم ریکارڈ كرنه</string>
+<string name="review_message">میسیج لركس</string>
+<string name="recording">ریکارڈنگ</string>
+<string name="recording_stopped">ریکارڈنگ گئی بند</string>
+<string name="recording_save">ریکارڈنگ کاءم بچاونه</string>
+<string name="recording_nosave">ریکارڈنگ اينه محفوظ كرنه</string>
+<string name="storage_is_full">اسٹوریج چھ برتھ</string>
+<string name="max_length_reached">ذیادء كھوت ذیادء زیچھرس ووت</string>
+<string name="phone_message">كالنگ دوران ہیکءنه ییل كریتھ آواز ریکارڈر.</string>
+<string name="min_available">متالک <xliff:g id="minutes">%d</xliff:g> منٹ دستياب"</string>
+<string name="min_and_time_available">متالک <xliff:g id="minutes">%d</xliff:g> منٹ تہ <xliff:g id="seconds">%d</xliff:g> سیکنڈ دستياب"</string>
+<string name="sec_available">متالک <xliff:g id="seconds">%d</xliff:g> ایس دستياب"</string>
+<string name="accept">"محفوظ تھايو"</string>
+<string name="discard">واپس كر</string>
+<string name="button_ok">"ٹھیک"</string>
+<string name="press_record">دبايو ریکارڈ</string>
+<string name="audio_db_artist_name">تہنز ریکارڈنگ</string>
+<string name="audio_db_album_name">آواز ركرڈگس</string>
+<string name="audio_db_playlist_name">ميان ریکارڈنگ</string>
+<string name="error_app_internal">اندریم اپلیکیشن نكس</string>
+<string name="error_mediadb_new_record">ریکارڈ گمژ آواز بچاونس منز ناکاءم</string>
+<string name="save">"محفوظ تھايو"</string>
+<string name="select_file_type">چنو ریکارڈ فائل کہ SIM</string>
+<string name="record_amr">amr کہ SIM (کم ميار)</string>
+<string name="record_3gpp">3gpp کہ SIM (بہتر-ميار)</string>
+<string name="button_cancel">"خائریج"</string>
+<string name="path_save">ڈیفالٹ پاتھ چھو محفوظ كریتھ</string>
+<string name="path_nosave">ڈیفالٹ پاتھ چھونه محفوظ كریتھ</string>
+<string name="path_default">موجود پاتھ چھونه لیکھنءوول یا گیردرستت، یء چھ پاتھ اندریم اسٹوریج پاتھ کھتر</string>
+<string name="menu_set_save_path">تھايو بچوان وتھ</string>
+<string name="back">واپس ..</string>
+<string name="path_label">مهرباني كريتھ چنو محفوظ پاتھ</string>
+<string name="pause">"ركو"</string>
+<string name="storage_is_not_enough">اسٹوریج چھنءه کافی</string>
+<string name="menu_recording_file_list">ریکارڈنگ فائل لسٹ</string>
+<string name="recording_list_empty">خالی فہرست</string>
+<string name="menu_recording_list_select_all">"چنو ساری"</string>
+<string name="menu_recording_list_delete">"رد"</string>
+<string name="menu_recording_list_deselect_all">ماں چنو</string>
+<string name="recording_file_delete_success">ریکارڈنگ کاءم هٹاون</string>
+<string name="recording_file_database_failed">ناکاءم گو ڈیٹا بیس فایلء خائریج كرنس منز</string>
+<string name="recording_file_delete_failed">ناکاءم گو ریکارڈنگ فایلء خائریج كرنس منز</string>
+<string name="confirm_del">توہی چھو یقین ي فائل هٹاونس منز؟</string>
+<string name="button_delete">"رد"</string>
+<string name="recording_file_delete_alert_title">"رد"</string>
+<string name="recording_file_delete_alert_message">یقینا کرییو خائریج%1$s؟</string>
+<string name="recording_file_list">ریکارڈنگ فائل لسٹ</string>
+<string name="less_than_one_second">"1 سیکنڈ"</string>
+<string name="is_scanning">میڈیا سکینر چھو ونكین اسکین کران تھی، مهرباني كريتھ کرییو انتظار ...</string>
+<string name="emptylist">فہرست چھ خالی</string>
+<string name="choose_file">مهرباني كريتھ چنو ریکارڈنگ توہی چھو ياسا خائریج فایلء كرن!</string>
+<string name="error_path">يس پاتھ توہی چنوه چھوناه لبناه يوان، مهرباني كریتھ کرییو بی مقرر کریو!</string>
+<string name="path_miss">سٹورڈ پاتھ چنوه چھوناه لبناه يوان یا چھیس نه چلاییو سپدان!</string>
+<string name="file_is_corrupt">" فایل چھء خراب"</string>
+<string name="low_memory">میموری چھنءه کافی، ریکارڈنگ گاس بند!</string>
+<string name="record_error">ریکارڈنگ منز کاءم رعایت لبناه!</string>
+<string name="play_error">موسیقی پلیئر آو كھٹتھ تھاون، یلء گسنه باپتھ ناكار!</string>
+<string name="dialog_title">مہربانی كریتھ چنو</string>
+<string name="dialog_message">ریکارڈنگ کرییو محفوظ؟</string>
+<string name="same_application_running">ریکارڈنگ آلء چھ استعمال كرن يون بیی پرییوگرام دیس، مہربانی كریتھ کرییو بند ي پرییوگرام!</string>
+<string name="recording_time_short">ریکارڈنگ وقت 1 منٹ سیکنڈ كھوت کم، ہکنء بچتھ</string>
+<string name="file_path_button">فائل وتھ</string>
+<string name="file_name">فائل ناو:</string>
+<string name="file_path">فائل وتھ؛</string>
+<string name="rename">ناو بدلاون</string>
+<string name="rename_save">ناو بدلوو كاميابي سان</string>
+<string name="rename_nosave">ناو بدلاون ناکاءم</string>
+<string name="filename_is_not_modified">فائل ناو چھنء درست كریتھ</string>
+<string name="duplicate_name">فائل ناو جعلی</string>
+<string name="soundpicker_label">مهرباني كريتھ چنو ریکارڈنگ فائل</string>
+<string name="error_sdcard_path">SD کارڈ چھنه لبناه يوان ڈیفالٹ محفوظ پاتھ آو لبناه اندریم اسٹوریج منز.</string>
+<string name="input_length_overstep">ان پٹ ووت ذياده زیچھرسس تام</string>
+<string name="filename_empty_error">فائل ناو گس نہ خالی اسون، بچايو حقیقی ناو</string>
+<string name="please_choose_files">مهرباني كريتھ چنو فایلء</string>
+<string name="selected_files_count">آو چننه <xliff:g id="COUNTS">%d</xliff:g>"</string>
+<string name="use_default_path">سٹورڈ پاتھ چنوه چھوناه لبناه يوان استعمال کرییو ڈیفالٹ پاتھ "</string>
+<string name="stroage_not_mounted">اسٹوریج چھنءه ماؤنٹڈ</string>
+<string name="special_char_exist">خاص حرف <xliff:g id="COUNTS">%s</xliff:g>" چھنء مددگار"</string>
+<string name="menu_select_more">چنو زیاد:</string>
+<string name="menu_select_type">تھايو فائل قسم</string>
+<string name="path_miss_nosave">سٹورڈ پاتھ چنوه چھوناه لبناه يوان، ریکارڈنگ اينه محفوظ كرنه!</string>
+<string name="dialog_dismiss">هٹاون</string>
+<string name="error_permissions">"اپلیکیشن چھنء ناذكھ اجازت ضرورت پكن کھترمہربانی كرت وچھو پنن اجازت کی ترتیبات."</string>
+<string name="internal_sdcard">اندریم ایسڈيكارڈ</string>
+<string name="external_sdcard">نیبریم ایسڈيكارڈ</string>
+<string name="internal_storage">"اندریم اسٹوریج"</string>
+<string name="external_storage">"نیبرم اسٹوریج"</string>
+<string name="set_as_ring">" تھایو رنگ ٹونک بدلء"</string>
+<string name="read_file_path">" وچھیو فایلء ہنز واتھ"</string>
+<string name="operate_share">"پھلاییو"</string>
+<string name="ringtone_title_sim1">"SIM1 فون رنگ ٹون"</string>
+<string name="ringtone_title_sim2">" SIM2 فون رنگ ٹون""</string>
+<string name="ringtone_menu_short">کرییو استعمال بوتر رنگ ٹونز</string>
+<string name="please_insert_sim_card">"مهرباني كریتھ کرییو كم ازكم اكھ SIM کارڈ داخل"</string>
+<string name="ring_set_silent_vibrate">"موجود موڈس منز چھن پننء مرضی رنگٹونن سپورٹ حاصل"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" تھایو SIM1 فون رنگ ٹون۔"</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" SIM2 بتور فون رگٹن مقرر."</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"کرییو سیٹ بتور فون رنگ ٹون."</string>
+<string name="ring_set_fail">"معافی ديو، باءتھ هیك نء چلاونء ۔ مهباني كریتھ کرییو بياكھ باءتھ بتور رنگ ٹونز منتخب"</string>
+<string name="tag_limit">" یء ٹیگن ہند نمبر چھء وتمت ذیادس پیٹھ"</string>
+<string name="no_allow_play_calling">كال دوران چھن موسیقی چلاءویتھ كرنك اجازت (ریڈیو / ویڈیو).</string>
+<string name="playback_failed">معافی ديو، فائل چلاونس منز ناکاءم.</string>
+<string name="tag">ٹیگ</string>
+<string name="previous_tag">" پتیم ٹیگ"</string>
+<string name="next_tag">" بروہم ٹیگ"</string>
+<string name="recording_play">" رکارڈنگ چلان"</string>
+<string name="clip_duration_tip">" ترمیم کریو زیچھر"</string>
+<string name="record_setting">" رکارڈ ترتیب"</string>
+<string name="file_type">فائل قسم</string>
+<string name="type_amr">" amr قسم"</string>
+<string name="type_3gpp">" 3gpp قسم"</string>
+<string name="save_path">وتھ بچاون</string>
+<string name="set_timer_recording">" تھایو ٹایمر رکارڈنگ"</string>
+<string name="timer_recording_detail">"رکارڈ کریو شروع یمہ <xliff:g id="hours">%s</xliff:g>:<xliff:g id="minutes">%s</xliff:g> یمء کھتر <xliff:g id="COUNTS">%s</xliff:g>"</string>
+<string name="view_file_details">وچھیو تفصیل</string>
+<string name="file_size">فائل مقدار "</string>
+<string name="file_date">" فایلء ہند تاریخ:"</string>
+<string name="recording_start_time">" رکارڈنگ شروعاتک واقت"</string>
+<string name="recording_duration">" رکارڈنگ وقفک گنٹء"</string>
+<string name="tuned_timer_recording">" ٹایمر رکارڈنگ ہند چھء یالء"</string>
+<string name="miss_timer_recording">" راوان چھء ٹایمر رکارڈنگ"</string>
+<string name="miss_timer_time">"واقھ: <xliff:g id="TIME">%s</xliff:g>"</string>
+<string-array name="duration_hours">
+<item>"گنٹء"</item>
+<item>"گنٹء"</item>
+</string-array>
+<string-array name="timer_recording_time">
+<item>" ٹایمر آو رکارڈنگ کھتر تھاونء 1 منٹ کھوتء کم وکین پیٹھ۔"</item>
+<item>"ٹایمر رکارڈنگ آۓ تھاونء <xliff:g id="HOURS">%1$s</xliff:g> وکین پیٹھ."</item>
+<item>"ٹایمر رکارڈنگ آۓ تھاونء <xliff:g id="MINUTES">%2$s</xliff:g> وکین پیٹھ."</item>
+<item>"ٹایمر رکارڈنگ آۓ تھاونء <xliff:g id="HOURS">%1$s</xliff:g> تء <xliff:g id="MINUTES">%2$s</xliff:g> وکین پیٹھ."</item>
+</string-array>
+<plurals name="hours">
+<item quantity="one">"1 گنٹء"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> گنٹء"</item>
+</plurals>
+<plurals name="minutes">
+<item quantity="one">"1 منٹ"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> منٹء"</item>
+</plurals>
+<string name="start_record">شروع کرییو ریکارڈنگ</string>
+<string name="resume_record">" دبارء کریو چالو رکارڈ"</string>
+<string name="start_play">" شروع کریو چلاون"</string>
+<string name="resume_play">بی چالون</string>
+<string name="reset_timer_recording">" یء رکارڈنگ آلء چھء استعمال ایوان کرنء باقیو پروگرامو کن، مہربانی کریتھ کریو رسیٹ ٹایمر رکارڈنگ!"</string>
+<string name="storage_not_enough">" جمع جاۓ چھنء کافی، رکارڈنگ واقھ شروع کرن گو ناکام!"</string>
+<string name="phone_storage_not_enough">" فون جمع جاۓ چھنء کافی!"</string>
+</resources>

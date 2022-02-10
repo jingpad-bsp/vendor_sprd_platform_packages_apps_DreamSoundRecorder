@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"आवाज रेकॉर्डर"</string>
+<string name="record_your_message">"तुमच संदेश रेकॉर्ड करचो"</string>
+<string name="message_recorded">"संदेश रेकॉर्डेड"</string>
+<string name="review_message">"संदेश लिरिक्स"</string>
+<string name="recording">"रेकॉर्डिंग"</string>
+<string name="recording_stopped">"रेकॉर्डिंग थांबयली"</string>
+<string name="recording_save">"रेकॉर्डिंग जतन केल्ले"</string>
+<string name="recording_nosave">"रेकॉर्डिंग जतन करुंक ना"</string>
+<string name="storage_is_full">"सांठो पुराय भरला"</string>
+<string name="max_length_reached">"चडांत चड लांबीमेरेन पावले"</string>
+<string name="phone_message">"कॉलिंग चालू आसतना रेकॉर्डिंग शक्य ना."</string>
+<string name="min_available">"बद्दल <xliff:g id="minutes">%d</xliff:g> उपलब्ध मिनीट"</string>
+<string name="min_and_time_available">"बद्दल <xliff:g id="minutes">%d</xliff:g> मिनिट आनी <xliff:g id="seconds">%d</xliff:g> उपलब्ध सेकंद"</string>
+<string name="sec_available">"बद्दल <xliff:g id="seconds">%d</xliff:g>उपलब्ध"</string>
+<string name="accept">"सेव करात"</string>
+<string name="discard">"काडून वडयात"</string>
+<string name="button_ok">"बरे"</string>
+<string name="press_record">"रेकॉर्ड दाबात"</string>
+<string name="audio_db_artist_name">"तुमचे रेकोर्डींग्स"</string>
+<string name="audio_db_album_name">"ऑडियो रेकॉर्डिंग्स"</string>
+<string name="audio_db_playlist_name">"म्हजे रेकोर्डींग्स"</string>
+<string name="error_app_internal">"अंतर्गत ॲप्लिकेशन चूक"</string>
+<string name="error_mediadb_new_record">"रेकोर्डेड ओडीयो सेव करुंक अक्षम"</string>
+<string name="save">"सेव करात"</string>
+<string name="select_file_type">"रेकोर्ड फायल प्रकार वेंचात"</string>
+<string name="record_amr">"amr प्रकार(उणो-दर्जो)"</string>
+<string name="record_3gpp">"3gpp प्रकार(उच्च-दर्जो)"</string>
+<string name="button_cancel">"रद्द"</string>
+<string name="path_save">"मुलभूत मार्ग सेव केला"</string>
+<string name="path_nosave">"मुलघूत मार्ग सेव करुंक ना"</string>
+<string name="path_default">"सद्याचो मार्ग बरोवपा सारखो ना वा अवैध आसा, तो अंतर्गत सांठो मार्गाचो मार्गाचो"</string>
+<string name="menu_set_save_path">"मार्ग सेव सेट करात"</string>
+<string name="back">"फाटी.."</string>
+<string name="path_label">"उपकार करून जतन मार्ग वेंचचो"</string>
+<string name="pause">"पॉज"</string>
+<string name="storage_is_not_enough">"सांठवण पर्याप्त ना"</string>
+<string name="menu_recording_file_list">"फायल वळेरी रेकोर्ड करता"</string>
+<string name="recording_list_empty">"रिती वळेरी"</string>
+<string name="menu_recording_list_select_all">"सगळे वेंचात"</string>
+<string name="menu_recording_list_delete">"वगळायात"</string>
+<string name="menu_recording_list_deselect_all">"डीसीलेक्ट"</string>
+<string name="recording_file_delete_success">"रेकोर्डींग वगळायले"</string>
+<string name="recording_file_database_failed">"डेटाबेस फायली वगळप अपेशी"</string>
+<string name="recording_file_delete_failed">"रेकोर्डींग फायल वगळगुंक अपेशी"</string>
+<string name="confirm_del">"फायली वगळावपाची तुमकां खात्री आसा?"</string>
+<string name="button_delete">"वगळायात"</string>
+<string name="recording_file_delete_alert_title">"वगळायात"</string>
+<string name="recording_file_delete_alert_message">"वगळावपाची खात्री आसा %1$s ?"</string>
+<string name="recording_file_list">"फायल वळेरी रेकोर्ड करता"</string>
+<string name="less_than_one_second">"1 सेकंद"</string>
+<string name="is_scanning">"मिडियास्कॅनर स्कॅनिंग करता, उपकार करून रावात..."</string>
+<string name="emptylist">"वळेरी रीती आसा"</string>
+<string name="choose_file">"तुमकां वगळावपाक जाय त्या फायलींचे रेकोर्डींग वेंचात!"</string>
+<string name="error_path">"तुमी वेंचिल्लो मार्ग अस्तित्वात ना, कृपया रि-सेट करात!"</string>
+<string name="path_miss">"सांठवण केल्लो मार्ग अस्तित्वात ना वा तो पळोवप शक्य ना!"</string>
+<string name="file_is_corrupt">"फायल पिड्ड्यार जाला"</string>
+<string name="low_memory">"मेमरी जाय तितली ना, रेकॉर्डिंग बंद जातली!"</string>
+<string name="record_error">"रेकॉर्डिंग चलतना अपवाद आयलो!"</string>
+<string name="play_error">"म्युजीक प्लेयर अक्षम केला, उक्ते करुंक सक्षम ना！"</string>
+<string name="dialog_title">"उपकार करुन वेंचात"</string>
+<string name="dialog_message">"रेकॉर्डिंग जतन करप?"</string>
+<string name="same_application_running">"रेकॉर्डिंग यंत्राचो उपेग हेर कार्यक्रम करता, कृपया कार्यक्रम बंद करचो!"</string>
+<string name="recording_time_short">"रेकॉर्डिंग वेळ 1 परस कमी, जन करुंक ना"</string>
+<string name="file_path_button">"फायलीचो मार्ग"</string>
+<string name="file_name">"फायलीचे नांव："</string>
+<string name="file_path">"फायलीचो मार्ग："</string>
+<string name="rename">"परतून नांव दियात"</string>
+<string name="rename_save">"परतून नांव दिवप यशस्वी"</string>
+<string name="rename_nosave">"रीनेम अपेशी"</string>
+<string name="filename_is_not_modified">"फायलनेमीत बदल करुंक ना"</string>
+<string name="duplicate_name">"फालयीचे नांव डुप्लीकेट"</string>
+<string name="soundpicker_label">"कृपया रेकॉर्डिंग फायल वेंचची"</string>
+<string name="error_sdcard_path">"sdकार्ड अस्तित्वांत ना. मुलभूत सेव मार्ग अंतर्गत सांठ्यात बदलला ."</string>
+<string name="input_length_overstep">"इन्पुट कमाल लांबीचेर पावले"</string>
+<string name="filename_empty_error">"फायलनेम रीते आसूंक शकना, मुळावे नांव सेव करात"</string>
+<string name="please_choose_files">"कृपया फायल वेंचची"</string>
+<string name="selected_files_count">"वेंचलो <xliff:g id="COUNTS">%d</xliff:g>"</string>
+<string name="use_default_path">"सांठवण केल्लो मार्ग अस्तित्वात ना, डिफॉल्ट मार्ग उपेग करचो"</string>
+<string name="stroage_not_mounted">"सांठो मावंट केल्लो ना"</string>
+<string name="special_char_exist">"खाशेले वर्ण <xliff:g id="COUNTS">%s</xliff:g> तेंको ना"</string>
+<string name="menu_select_more">"अदीक वेंचात"</string>
+<string name="menu_select_type">"फायलीचो प्रकार सेट करात"</string>
+<string name="path_miss_nosave">"सांठवण केल्लो मार्ग अस्तित्वात ना, रेकॉर्डिंग जतन करुंक ना！"</string>
+<string name="dialog_dismiss">"रद्द"</string>
+<string name="error_permissions">"ॲपाक सुरू करूंक आवश्यक आशिल्ली निर्णायक मान्यताय ना. उपकार करून तुमची मान्यताय सेटिंग्स तपासात."</string>
+<string name="internal_sdcard">"अंतर्गत SD कार्ड"</string>
+<string name="external_sdcard">"बाह्य sdकार्ड"</string>
+<string name="internal_storage">"अंतर्गत स्टोरेज"</string>
+<string name="external_storage">"अंतर्गत सांठो"</string>
+<string name="set_as_ring">"रिंगटोन म्हूण सेट कर"</string>
+<string name="read_file_path">"फायलीचो मार्ग तपास "</string>
+<string name="operate_share">"शॅयर"</string>
+<string name="ringtone_title_sim1">"SIM1 फोनाचो रींगटोन"</string>
+<string name="ringtone_title_sim2">"SIM2 फोन रिंगटोन""</string>
+<string name="ringtone_menu_short">"रींगटोन म्हणून वापरात"</string>
+<string name="please_insert_sim_card">"उणेच SIM कार्ड घालात"</string>
+<string name="ring_set_silent_vibrate">"सद्याच्या मोडात कस्टम रींगटोनाक तेंको ना"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" SIM1 फोन रींगटोन म्हणून सेट करात."</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" SIM2 फोन रींगटोन म्हणून सेट करात."</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" फोनाचो रींगटोन म्हणून सेट करात."</string>
+<string name="ring_set_fail">"माफ करात, हे गीत प्ले करुंक जाले ना. उपकार करुन दुसरे गीत रींगटोन म्हणून वेंचात"</string>
+<string name="tag_limit">"टॅगाचो आंकडो कमाल संख्ये मेरेन पावला"</string>
+<string name="no_allow_play_calling">"कॉलावेळार संगीत वाजोवंक मान्यताय ना (रेडियो/व्हिडियो)."</string>
+<string name="playback_failed">"माफ करात, फायल प्ले करुंक अपेशी."</string>
+<string name="tag">"टॅग"</string>
+<string name="previous_tag">"निमाणो टॅग"</string>
+<string name="next_tag">"फुडलो टॅग"</string>
+<string name="recording_play">"वाजोवप रेकॉर्डींग"</string>
+<string name="clip_duration_tip">"लांबाय संपादीत कर"</string>
+<string name="record_setting">"रेकॉर्ड सेटिंग"</string>
+<string name="file_type">"फायलीचो प्रकार"</string>
+<string name="type_amr">"amr प्रकार"</string>
+<string name="type_3gpp">"3gpp प्रकार"</string>
+<string name="save_path">"मार्ग सेव करात"</string>
+<string name="set_timer_recording">"टायमर रेकॉर्डींग सेट कर"</string>
+<string name="timer_recording_detail">"<xliff:g id="hours">%s</xliff:g>:<xliff:g id="minutes">%s</xliff:g> खातीर <xliff:g id="COUNTS">%s</xliff:g> रेकॉर्डींग सुरू कर"</string>
+<string name="view_file_details">"तपशील दाखयात"</string>
+<string name="file_size">"फायलीचो आकार:"</string>
+<string name="file_date">"फायलीची तारीख："</string>
+<string name="recording_start_time">"रेकॉर्डींग सुरू जावपाचो वेळ"</string>
+<string name="recording_duration">"रेकॉर्डींग कालावधी वर"</string>
+<string name="tuned_timer_recording">"टायमर रेकॉर्डींग चालू केला"</string>
+<string name="miss_timer_recording">"टायमर रेकॉर्डींग चुकलो"</string>
+<string name="miss_timer_time">"वेळ: <xliff:g id="TIME">%s</xliff:g>"</string>
+<string-array name="duration_hours">
+<item>"वर"</item>
+<item>"वर"</item>
+</string-array>
+<string-array name="timer_recording_time">
+<item>"टायमर रेकॉर्डींग आता सावन 1 मिणटां परस उण्या वेळा खातीर सेट केला."</item>
+<item>"टायमर रेकॉर्डींग आता सावन <xliff:g id="HOURS">%1$s</xliff:g> वरां खातीर सेट केला."</item>
+<item>"टायमर रेकॉर्डींग आता सावन <xliff:g id="MINUTES">%2$s</xliff:g> मिणटां खातीर सेट केला."</item>
+<item>"टायमर रेकॉर्डींग आता सावन <xliff:g id="HOURS">%1$s</xliff:g> वरां आनी <xliff:g id="MINUTES">%2$s</xliff:g> मिणटां खातीर सेट केला."</item>
+</string-array>
+<plurals name="hours">
+<item quantity="one">"1 वर"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> वरां"</item>
+</plurals>
+<plurals name="minutes">
+<item quantity="one">"1 मिनिट"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> मिणटां"</item>
+</plurals>
+<string name="start_record">"रेकोर्डर सुरु करात"</string>
+<string name="resume_record">"रेकॉर्ड परत सुरू कर"</string>
+<string name="start_play">"वाजोवंक सुरू कर"</string>
+<string name="resume_play">"परतून प्ले करात"</string>
+<string name="reset_timer_recording">"रेकॉर्डींग यंत्र दुसरो प्रोग्राम वापरता, उपकार करून टायमर रेकॉर्डींग रिसेट कर!"</string>
+<string name="storage_not_enough">"सांठवण पुरोशी ना, टायमर रेकॉर्डींग चालू करूंक अपेशी!"</string>
+<string name="phone_storage_not_enough">"फोन सांठवण पुरोशी ना!"</string>
+</resources>

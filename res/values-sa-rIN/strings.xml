@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"ध्वनिसंग्राहकः"</string>
+<string name="record_your_message">"स्वसन्देशस्य संग्राहकः"</string>
+<string name="message_recorded">"सन्देशः संग्रहितः"</string>
+<string name="review_message">"सन्देशस्य शब्दाः"</string>
+<string name="recording">"संरक्षणम्"</string>
+<string name="recording_stopped">"संरक्षणं स्थगयतु"</string>
+<string name="recording_save">"संरक्षणं रक्षितम्"</string>
+<string name="recording_nosave">"संरक्षणं न रक्षितम्"</string>
+<string name="storage_is_full">"सङ्ग्रहः पूर्णः अस्ति"</string>
+<string name="max_length_reached">"अधितमसीमा प्राप्ता"</string>
+<string name="phone_message">"दूरभाषस्य आह्वाहनकाले ध्वनिसंरक्षणं चालयितुं न शक्यते।"</string>
+<string name="min_available">"विषये <xliff:g id="minutes">%d</xliff:g> निमेषः उपलब्धः"</string>
+<string name="min_and_time_available">"विषये <xliff:g id="minutes">%d</xliff:g> निमेषः <xliff:g id="seconds">%d</xliff:g> पलञ्च उपलब्धः"</string>
+<string name="sec_available">"विषये <xliff:g id="seconds">%d</xliff:g> इति उपलब्धाः"</string>
+<string name="accept">"सक्ष्यताम्"</string>
+<string name="discard">"त्यजतु"</string>
+<string name="button_ok">"बाढम्।"</string>
+<string name="press_record">"संरक्षणं नुदतु"</string>
+<string name="audio_db_artist_name">"भवतः/भवत्याः संरक्षणानि"</string>
+<string name="audio_db_album_name">"ध्वनेः संरक्षणम्"</string>
+<string name="audio_db_playlist_name">"मम संरक्षणानि"</string>
+<string name="error_app_internal">"आन्तरिकानुप्रयोगस्य दोषः"</string>
+<string name="error_mediadb_new_record">"संरक्षणध्वनेः रक्षणे असमर्थः"</string>
+<string name="save">"सक्ष्यताम्"</string>
+<string name="select_file_type">"संरक्षितसञ्चिकायाः प्रकारं चिनोतु"</string>
+<string name="record_amr">amr प्रकारः (निम्नगुणवत्ता)</string>
+<string name="record_3gpp">3gpp प्रकारः (उच्चगुणवत्ता)</string>
+<string name="button_cancel">"निरस्यताम्"</string>
+<string name="path_save">"उत्सर्गपन्थाः रक्षितः"</string>
+<string name="path_nosave">"उत्सर्गपन्थाः न रक्षितः"</string>
+<string name="path_default">"वर्तमानः पन्थाः लेखनयोग्यः उत ग्राह्यः नास्ति, एषः पन्थाः आन्तरिकसङ्ग्रहस्य पन्थानः कृते अस्ति।"</string>
+<string name="menu_set_save_path">"रक्षितपन्थानं स्थापयतु"</string>
+<string name="back">"पृष्ठे.।"</string>
+<string name="path_label">"पथरक्षणं चिनोतु कृपया"</string>
+<string name="pause">"स्थगयतु"</string>
+<string name="storage_is_not_enough">"सङ्ग्रहः न पर्याप्तः"</string>
+<string name="menu_recording_file_list">"संरक्षितसञ्चिकायाः सूचिः"</string>
+<string name="recording_list_empty">"रिक्ता सूचिः"</string>
+<string name="menu_recording_list_select_all">"सर्वं चिनोतु"</string>
+<string name="menu_recording_list_delete">"अपाक्रियताम्"</string>
+<string name="menu_recording_list_deselect_all">"न चिता"</string>
+<string name="recording_file_delete_success">"संरक्षितानि अपाकृतानि"</string>
+<string name="recording_file_database_failed">"दत्तांशसञ्चकायाः अपाकरणे असफलः"</string>
+<string name="recording_file_delete_failed">"संरक्षितसञ्चकायाः अपाकरणे असफलः"</string>
+<string name="confirm_del">"एतासां सञ्चिकानाम् अपाकरणे दृढमानाः किम्?"</string>
+<string name="button_delete">"अपाक्रियताम्"</string>
+<string name="recording_file_delete_alert_title">"अपाक्रियताम्"</string>
+<string name="recording_file_delete_alert_message">"%1$s  एतत् अपाकर्तुं दृढमनाः?"</string>
+<string name="recording_file_list">"संरक्षितसञ्चिकायाः सूचिः"</string>
+<string name="less_than_one_second">"1 पलम्"</string>
+<string name="is_scanning">"बिम्बकारमाध्यमम् इति बिम्बाकरणं करोति, कृपया प्रतीक्षताम्..."</string>
+<string name="emptylist">"सूचिः रिक्ता अस्ति"</string>
+<string name="choose_file">"यासां संरक्षितसञ्चिकानाम् अपाकरणम् इच्छति, ताः चिनोतु!"</string>
+<string name="error_path">"यः पन्थाः चितः सः न विद्यते पुनः स्थापयतु!"</string>
+<string name="path_miss">"रक्षितः पन्थाः न विद्यते उत प्राप्तुं न शक्यते!"</string>
+<string name="file_is_corrupt">"सञ्चिका भ्रष्टा अस्ति"</string>
+<string name="low_memory">"स्मृतिः न पर्याप्ता, अभिलेखनं स्थगितं भविष्यति!"</string>
+<string name="record_error">"संरक्षणम्, अपवादाः प्राप्ताः!"</string>
+<string name="play_error">"सङ्गीतवादकं निष्क्रियम् अस्ति, अतः आरब्धुं न शक्नोति!"</string>
+<string name="dialog_title">"कृपया चयनमः"</string>
+<string name="dialog_message">"संरक्षणं रक्षितुम् इच्छति?"</string>
+<string name="same_application_running">"संरक्षणनोपकरणं अन्यविधिना उपयुज्यते, कृपया एनं विधिं पिदधातु!"</string>
+<string name="recording_time_short">"संरक्षणस्य समयः 1 पलात् न्यूनः अतः न रक्षितः"</string>
+<string name="file_path_button">"सञ्चिकापन्थाः"</string>
+<string name="file_name">"सञ्चिकानाम :"</string>
+<string name="file_path">"सञ्चिकापन्थाः :"</string>
+<string name="rename">"नाम परिवर्ततु"</string>
+<string name="rename_save">"नामपरिवर्तनं सफलम्"</string>
+<string name="rename_nosave">"नामपरिर्तने निष्फलः"</string>
+<string name="filename_is_not_modified">"सञ्चिकानाम न परिवर्तितम्"</string>
+<string name="duplicate_name">"सञ्चिकानाम्नः प्रतिकृतिः"</string>
+<string name="soundpicker_label">"कृपया संरक्षणसञ्चिकां चिनोतु"</string>
+<string name="error_sdcard_path">"SD-पत्रं नोपलब्धम्. आन्तरिकसङ्ग्रहे उत्सर्गपन्थानं रक्षतु।"</string>
+<string name="input_length_overstep">"निवेशस्य महत्तमलम्बता प्राप्ता"</string>
+<string name="filename_empty_error">"सञ्चिकानाम रिक्तं न भवेत्, अतः वास्तविकं नाम रक्षतु"</string>
+<string name="please_choose_files">"सञ्चिकां चिनोतु कृपया"</string>
+<string name="selected_files_count">"<xliff:g id="COUNTS">%d</xliff:g> इति चितम्"</string>
+<string name="use_default_path">"रक्षितः पन्थाः न विद्यते, उत्सर्गपन्थानः उपयोगं करोतु"</string>
+<string name="stroage_not_mounted">"सङ्ग्रहः न योजितः"</string>
+<string name="special_char_exist">"विशेषाक्षराणि <xliff:g id="COUNTS">%s</xliff:g> न समर्थितानि"</string>
+<string name="menu_select_more">"अधिकं चिनोतु"</string>
+<string name="menu_select_type">"सञ्चिकाप्रकारं स्थापयतु"</string>
+<string name="path_miss_nosave">"रक्षितः पन्थाः न विद्यते, अभिलेखनं न रक्षितम्!"</string>
+<string name="dialog_dismiss">"निरस्तम्"</string>
+<string name="error_permissions">"चालयितुं महत्त्वपूर्णाः अनुमतयः अनुप्रयोगस्य पार्श्वे न सन्ति। कृपया स्वानुमतीनाम् अभिविन्यासान् परीक्षतु।"</string>
+<string name="internal_sdcard">"आन्तरिकं SD-पत्रम्"</string>
+<string name="external_sdcard">"बाह्यं SD पत्रम्"</string>
+<string name="internal_storage">"आन्तरिकसङ्ग्रहः"</string>
+<string name="external_storage">"आन्तरिकसङ्ग्रहः"</string>
+<string name="set_as_ring">"रवत्वेन निर्धारयतु"</string>
+<string name="read_file_path">"सञ्चिकापन्थानः परीक्षतु"</string>
+<string name="operate_share">"वितरतु"</string>
+<string name="ringtone_title_sim1">"SIM1 दूरभाषस्य रवः"</string>
+<string name="ringtone_title_sim2">"SIM2 दूरभाषस्य रवः"</string>
+<string name="ringtone_menu_short">"रवत्वेन चिनोतु"</string>
+<string name="please_insert_sim_card">"न्यूनातिन्यूनं SIM पत्रं योजयतु कृपया"</string>
+<string name="ring_set_silent_vibrate">"वर्तमानावस्थायां स्वानुकूलरवाः न समर्थ्यन्ते"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"SIM1 दूरभाषस्य रवत्वेन स्थापयतु।"</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"SIM2 दूरभाषस्य रवत्वेन स्थापयतु।"</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"दूरभाषस्य रवत्वेन चिनोतु।"</string>
+<string name="ring_set_fail">"क्षम्यताम्, गीतं वादयितुं न शक्यते। कृपया अन्यत् गीतं रवत्वेन चिनोतु"</string>
+<string name="tag_limit">"अङ्कनानां क्रमाङ्कः महत्सीमां प्राप्तवान्"</string>
+<string name="no_allow_play_calling">"आह्वाहनकाले सङ्गीतवादनं न समर्थ्यते (आकाशवाणी/दृश्यचलितम्)।"</string>
+<string name="playback_failed">"क्ष्यमताम्, एषा सञ्चिका वादयितुं न शक्यते।"</string>
+<string name="tag">"अङ्कनम्"</string>
+<string name="previous_tag">"अन्तिमाङ्कनम्"</string>
+<string name="next_tag">"अग्रिमाङ्कनम्"</string>
+<string name="recording_play">"सङ्ग्रहणं वादयतु"</string>
+<string name="clip_duration_tip">"लम्बतां सम्पादयतु"</string>
+<string name="record_setting">"सङ्ग्रहणस्य अभिविन्यासः"</string>
+<string name="file_type">"सञ्चिकायाः प्रकारः"</string>
+<string name="type_amr">"amr प्रकारः"</string>
+<string name="type_3gpp">"3gpp प्रकारः"</string>
+<string name="save_path">"पन्था संरक्षणम्।"</string>
+<string name="set_timer_recording">"सङ्ग्रहणस्य समयसूचकं निर्धारयतु"</string>
+<string name="timer_recording_detail">"<xliff:g id="COUNTS">%s</xliff:g> कृते <xliff:g id="hours">%s</xliff:g>:<xliff:g id="minutes">%s</xliff:g> इत्यत्र सङ्ग्रहणम् आरभतु। "</string>
+<string name="view_file_details">"विवरणानि दृश्यन्ताम्"</string>
+<string name="file_size">"सञ्चिकाकारः :"</string>
+<string name="file_date">"सञ्चिकादिनाङ्कः :"</string>
+<string name="recording_start_time">"सङ्ग्रहणस्य आरम्भसमयः"</string>
+<string name="recording_duration">"सङ्ग्रहणस्य प्रचलनहोरा"</string>
+<string name="tuned_timer_recording">"सङ्ग्रहणस्य समयसूचकः सक्रियः कृतः"</string>
+<string name="miss_timer_recording">"सङ्ग्रहणस्य समयसूचकः न प्राप्यते"</string>
+<string name="miss_timer_time">"समयः : <xliff:g id="TIME">%s</xliff:g>"</string>
+<string-array name="duration_hours">
+<item>"होरा"</item>
+<item>"होरा"</item>
+</string-array>
+<string-array name="timer_recording_time">
+<item>"वर्तमानकालात् 1 निमेषाभ्यान्तरे सङ्ग्रहणस्य समयसूचकः निर्धारितः।"</item>
+<item>"वर्तमानकालात् <xliff:g id="HOURS">%1$s</xliff:g> कृते सङ्ग्रहणस्य समयसूचकः निर्धारितः"</item>
+<item>"वर्तमानकालात् <xliff:g id="MINUTES">%2$s</xliff:g> कृते सङ्ग्रहणस्य समयसूचकः निर्धारितः।"</item>
+<item>"वर्तमानकालात् <xliff:g id="HOURS">%1$s</xliff:g>, <xliff:g id="MINUTES">%2$s</xliff:g> च  कृते सङ्ग्रहणस्य समयसूचकः निर्धारितः।"</item>
+</string-array>
+<plurals name="hours">
+<item quantity="one">"1 होरा"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> होराः"</item>
+</plurals>
+<plurals name="minutes">
+<item quantity="one">"1 निमेषः"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> निमेषाः"</item>
+</plurals>
+<string name="start_record">"संरक्षणम् आरभतु"</string>
+<string name="resume_record">"सङ्ग्रहं पुनरारभतु"</string>
+<string name="start_play">"वादनम् आरभतु"</string>
+<string name="resume_play">"पुनः चालनम्"</string>
+<string name="reset_timer_recording">"सङ्ग्रहणोपकरणं अन्यविधिना उपयुज्यमानम् अस्ति। कृपया सङ्ग्रहसमयसूचकं पुनस्स्थापयतु!"</string>
+<string name="storage_not_enough">"सङ्ग्रहे पर्याप्तस्थानाभावत् सङ्ग्रहणसमसूचकः विफलः!"</string>
+<string name="phone_storage_not_enough">"दूरभाषसङ्ग्रहः अपर्याप्तः!"</string>
+</resources>

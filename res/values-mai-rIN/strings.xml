@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"आवाज कय जमा करय बला"</string>
+<string name="record_your_message">"अहां अपन बजलाहा संदेश क जमा करू"</string>
+<string name="message_recorded">"संदेश जमा भय गेल"</string>
+<string name="review_message">"संदेशक गीत"</string>
+<string name="recording">"जमा भय रहल"</string>
+<string name="recording_stopped">"जमा करय बला काज रोकि देल गेल"</string>
+<string name="recording_save">"जमा केलहा जोगाय गेल"</string>
+<string name="recording_nosave">"जमा केलहा नहिं जोगायल जा सकल"</string>
+<string name="storage_is_full">"गोदाम भरल अछि"</string>
+<string name="max_length_reached">"बेसी बला लंबाई तक पहुंचि गेल"</string>
+<string name="phone_message">"काॅल करय काल मं आवाज क जमा करय बला क नहिं खोलल जा सकैय"</string>
+<string name="min_available">"लगभग <xliff:g id="minutes">%d</xliff:g> मिनट"</string>
+<string name="min_and_time_available">"लगभग <xliff:g id="minutes">%d</xliff:g> मिनट आ  <xliff:g id="seconds">%d</xliff:g> उपलब्ध सेकेंड"</string>
+<string name="sec_available">"लगभग <xliff:g id="seconds">%d</xliff:g> सेकेंड्स उपलब्ध"</string>
+<string name="accept">"जोगैल"</string>
+<string name="discard">"खोलि दिऔ"</string>
+<string name="button_ok">"ठीक छई"</string>
+<string name="press_record">"जमा करय बला क दबाऊ"</string>
+<string name="audio_db_artist_name">"अहां क जमा कयल"</string>
+<string name="audio_db_album_name">"आवाज जमा भय रहल अछि"</string>
+<string name="audio_db_playlist_name">"हमर जमा कैल"</string>
+<string name="error_app_internal">"भीतुरका आवेदन मं गलती"</string>
+<string name="error_mediadb_new_record">"जमा कयल आवाज कय जोगैल नहिं जा सकैय"</string>
+<string name="save">"जोगैल"</string>
+<string name="select_file_type">"जमा कयल पोथीक प्रकार कय चुनू"</string>
+<string name="record_amr">"amr प्रकार (निम्न-मात्रा)"</string>
+<string name="record_3gpp">"3gpp प्रकार(उच्च-मात्रा)"</string>
+<string name="button_cancel">"हंटाऊ।"</string>
+<string name="path_save">"डिफाल्ट बला रस्ता जोगैय गेल"</string>
+<string name="path_nosave">"डिफाल्ट बला रस्ता नहिं जोगैल जा सकल"</string>
+<string name="path_default">"एखुनका रस्ता या पढ़ल नहिं जा सकैय या अवैध अछि। ई रस्ता असल मं भीतुरका गोदामक अछि"</string>
+<string name="menu_set_save_path">"सुरक्षित रस्ता बनाऊ"</string>
+<string name="back">"पाछां"</string>
+<string name="path_label">"कृपा कय क सुरक्षित रस्ता क चुनू"</string>
+<string name="pause">"आराम"</string>
+<string name="storage_is_not_enough">"गोदाम मं पूरा जगह नहिं अछि"</string>
+<string name="menu_recording_file_list">"पोथी क सूची क जमा कयल जा रहल"</string>
+<string name="recording_list_empty">"खाली सूची"</string>
+<string name="menu_recording_list_select_all">"सबटा क चुनू"</string>
+<string name="menu_recording_list_delete">"मेंटाऊ"</string>
+<string name="menu_recording_list_deselect_all">"नहिं चुनू"</string>
+<string name="recording_file_delete_success">"जमा कयल चीज क मेंटैय देल गेल"</string>
+<string name="recording_file_database_failed">"आंकड़ा पर आधारित पोथी क मेंटायल नहिं जा सकल"</string>
+<string name="recording_file_delete_failed">"जमा कयल पोथी क मेंटायल नहिं जा सकल"</string>
+<string name="confirm_del">"निश्चिंत छी कि अहां पोथी क मेंटबय चाहैत छी"</string>
+<string name="button_delete">"मेंटाऊ"</string>
+<string name="recording_file_delete_alert_title">"मेंटाऊ"</string>
+<string name="recording_file_delete_alert_message">"निश्चिंत छी कि अहां एकरा मेंटबय चाहैत छी%1$s ?"</string>
+<string name="recording_file_list">"पोथी क सूची क जमा कयल जा रहल"</string>
+<string name="less_than_one_second">"एक सेकेंड"</string>
+<string name="is_scanning">"माध्यमक जांच बला आब जांचि रहल अछि, कृपा कय क रूकू..."</string>
+<string name="emptylist">"सूची खाली अछि"</string>
+<string name="choose_file">"कृपा कय क जमा कयल चीज क पोथी सं चुनू जकरा अहां मेंटबय चाहैत छी!"</string>
+<string name="error_path">"जाहि रस्ता क अहां चुनलौं अछि ओ उपलब्ध नहिं अछि, कृपा कय क फेर सं एकरा बनाऊ!"</string>
+<string name="path_miss">"जमा केलहा रस्ता उपलब्ध नहिं अछि या फेर ओतय तक पहुंचल नहिं जा सकैय!"</string>
+<string name="file_is_corrupt">"फाइल दुषित अछि"</string>
+<string name="low_memory">"गोदाम मं पूरा जगह नहिं अछि, जमा करय बला काज रूकि जायत!"</string>
+<string name="record_error">"रिकाॅर्डे जमा भय रहल अछि!"</string>
+<string name="play_error">"गीत बला प्लेयर क बंद कय देल गेल अछि, खोलल नहिं जा सकैय!"</string>
+<string name="dialog_title">"कृपा कय क चुनू"</string>
+<string name="dialog_message">"जमा केलहा क जोगाऊ?"</string>
+<string name="same_application_running">"जमा करय बला उपकरण दोसर प्रोग्राम द्वारा इस्तेमाल कयल जा रहल, कृपा कय क एहि प्रोग्राम क बंद करू!"</string>
+<string name="recording_time_short">"जमा करय क काज मं 1 सेकेंड सं कम समय लागत, जोगैल नहिं जा सकल"</string>
+<string name="file_path_button">"पोथी क रस्ता"</string>
+<string name="file_name">"पोथी क नाम："</string>
+<string name="file_path">"पोथी क रस्ता:"</string>
+<string name="rename">"दोसर नाम"</string>
+<string name="rename_save">"दोसर नाम पड़ि गेल हं"</string>
+<string name="rename_nosave">"दोसर नाम नहिं लिखल जा सकल"</string>
+<string name="filename_is_not_modified">"पोथीक नाम कय सुधारल नहिं जा सकल"</string>
+<string name="duplicate_name">"पोथी क नकली नाम"</string>
+<string name="soundpicker_label">"कृपा कय क जमा करय बला पोथी क चुनू"</string>
+<string name="error_sdcard_path">"एसडी कार्ड उपलब्ध नहिं अछि। डिफाल्ट जोगैल रस्ता भीतुरका गोदाम क रस्ता क बदलि देलक अछि"</string>
+<string name="input_length_overstep">"भीतुरका चीज सीमा सं बेसी भय गेल अछि"</string>
+<string name="filename_empty_error">"पोथी क नाम खाली नहिं छोड़ल जा सकैय, पुरनके नाम सं जोगाऊ"</string>
+<string name="please_choose_files">"कृपा कय क पोथी क चुनू"</string>
+<string name="selected_files_count">"चुनल गेल <xliff:g id="count">%d</xliff:g>""</string>
+<string name="use_default_path">"जमा कैल रस्ता उपलब्ध नहिं अछि, डिफाॅल्ट बला रस्ता क इस्तेमाल करू"</string>
+<string name="stroage_not_mounted">"गोदाम नहिं खुजल अछि"</string>
+<string name="special_char_exist">"खास चरितर <xliff:g id="COUNTS">%s</xliff:g>  मदद नहिं भेटल"</string>
+<string name="menu_select_more">"बेसी क चुनू"</string>
+<string name="menu_select_type">"पोथी क प्रकार कय बनाऊ"</string>
+<string name="path_miss_nosave">"जमा कयल रस्ता नहिं भेटल, जमा कलहा क जोगैल नहिं जा सकल!"</string>
+<string name="dialog_dismiss">"हंटाऊ"</string>
+<string name="error_permissions">"एप केर चलबाक लेल आलोचनात्मक अनुमति नहि चाही। कृपाकय अहाँ अनुमतिक स्थापना सभक जाँच करू."</string>
+<string name="internal_sdcard">"आंतरिक SD कार्ड"</string>
+<string name="external_sdcard">"बाहरी sd कार्ड"</string>
+<string name="internal_storage">"भीतुरका गोदाम"</string>
+<string name="external_storage">"बहिरका गोदाम"</string>
+<string name="set_as_ring">"रिंग टोन जका लगाऊ"</string>
+<string name="read_file_path">"फाइलक रस्ताक जाँच करू"</string>
+<string name="operate_share">"बांटू"</string>
+<string name="ringtone_title_sim1">"सिम 1 फोनक घंटी"</string>
+<string name="ringtone_title_sim2">"SIM2 फोनक रिंगटोन"</string>
+<string name="ringtone_menu_short">"फोनक घंटी क तरह इस्तेमाल"</string>
+<string name="please_insert_sim_card">"कृपा कय क कम सं कम सिम कॉर्ड क डालू"</string>
+<string name="ring_set_silent_vibrate">"कस्टम घंटी बलाक एखुनका तरीका मदद नहिं कय पाबि रहल छै"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"फोन सिम फोन 1 क घंटी जेकां सजाऊ."</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"फोन सिम फोन 2 क घंटी जेकां सजाऊ"</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"फोन क घंटी जेकां सजाऊ."</string>
+<string name="ring_set_fail">"माफ करू, गीत क नहिं चलैल जा सकय। कृपा कय क घंटी कय लेल दोसर गीत चुनू"</string>
+<string name="tag_limit">"बटमक संख्या अधिकत्तम पहुचि गेल अछि"</string>
+<string name="no_allow_play_calling">"काँलक दौराण संगीत चलेबाक अनुमति नहि अछि(रेडियो/विडियो)."</string>
+<string name="playback_failed">"माफ करू, पोथी क चलैनय मुश्किल अछि"</string>
+<string name="tag">"चिप्पी"</string>
+<string name="previous_tag">"अंतिम बटम"</string>
+<string name="next_tag">"अगला बटम"</string>
+<string name="recording_play">"रेकार्डिंग चलाऊ"</string>
+<string name="clip_duration_tip">"लम्बाई लिखू"</string>
+<string name="record_setting">"रेकार्डक स्थापना"</string>
+<string name="file_type">"पोथी क प्रकार"</string>
+<string name="type_amr">"एएमआर प्रकार"</string>
+<string name="type_3gpp">"3gpp प्रकार"</string>
+<string name="save_path">"रास्ता ठीक अछि"</string>
+<string name="set_timer_recording">"हुनका सभक रेकार्डिग लगाऊ"</string>
+<string name="timer_recording_detail">"<xliff:g id="hours">%s</xliff:g>:<xliff:g id="minutes">%s</xliff:g> केर लेल <xliff:g id="COUNTS">%s</xliff:g> पर रेकार्ड शुरु करू"</string>
+<string name="view_file_details">"सबटा चीज कय देखू"</string>
+<string name="file_size">"पोथी क आकार"</string>
+<string name="file_date">"फाइलक तिथि:"</string>
+<string name="recording_start_time">"रेकार्डिंग शुरु होवाक समय"</string>
+<string name="recording_duration">"रेकार्डिंग घंटाक अवधि"</string>
+<string name="tuned_timer_recording">"समयपालक रेकार्डिंग चलाओल अछि"</string>
+<string name="miss_timer_recording">"समयपालक छुटल रेकार्डिंग"</string>
+<string name="miss_timer_time">"समय : <xliff:g id="TIME">%s</xliff:g>"</string>
+<string-array name="duration_hours">
+<item>"घंटा"</item>
+<item>"घंटा"</item>
+</string-array>
+<string-array name="timer_recording_time">
+<item>"एखनसँ 1 मिनटसँ कम समयक लेल समयपालक रेकार्डिंग लगाओल जायत।"</item>
+<item>"<xliff:g id="HOURS">%1$s</xliff:g> एखनसँ समयपालक रेकार्डिंग लगाओल जायत।"</item>
+<item>"<xliff:g id="MINUTES">%2$s</xliff:g> एखनसँ समयपालक रेकार्डिंग लगाओल जायत।"</item>
+<item>"<xliff:g id="HOURS">%1$s</xliff:g> आ <xliff:g id="MINUTES">%2$s</xliff:g> एखनसँ समयपालक रेकार्डिंग लगाओल जायत।"</item>
+</string-array>
+<plurals name="hours">
+<item quantity="one">"एक घंटा"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> घंटा"</item>
+</plurals>
+<plurals name="minutes">
+<item quantity="one">"एक मिनट"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> मिनट"</item>
+</plurals>
+<string name="start_record">"जमा करय बला काज क शुरू करू"</string>
+<string name="resume_record">"रेकार्ड शुरु करू"</string>
+<string name="start_play">"खेलब शुरु करू"</string>
+<string name="resume_play">"देखनैय पर वापस लौटू"</string>
+<string name="reset_timer_recording">"रेकार्डिंग उपकरणक उपयोग आन कार्यक्रम द्वारा उपयोग कयल जा रहल अछि, कृपाकय समयपालक रेकार्डिंग फेरसँ लगाऊ!"</string>
+<string name="storage_not_enough">"रेकार्डिंग उपकरणक उपयोग आन कार्यक्रम द्वारा उपयोग कयल जा रहल अछि,   समयपालक रेकार्डिंग करबामे असफल भेल!"</string>
+<string name="phone_storage_not_enough">"फोनक भंडार पर्याप्त नहि अछि!"</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:key="pref_recorder_setting_key"
+                  android:title="@string/record_setting">
+
+    <ListPreference
+        android:key="pref_file_type_key"
+        android:title="@string/file_type"/>
+    <ListPreference
+        android:key="pref_store_path_key"
+        android:title="@string/save_path"/>
+
+    <SwitchPreference
+        android:key="pref_auto_save_key"
+        android:title="@string/autosaverecord"/>
+
+    <com.sprd.soundrecorder.ui.SmartSwitchPreference
+        android:key="pref_set_timer_key"
+        android:title="@string/set_timer_recording"/>
+
+    <SwitchPreference
+        android:key="pref_save_power_key"
+        android:summary="@string/save_power_summary"
+        android:title="@string/save_power"/>
+
+
+</PreferenceScreen>

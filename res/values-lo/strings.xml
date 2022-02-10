@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"ຕົວບັນທຶກສຽງ"</string>
+<string name="record_your_message">"ບັນ​ທຶກ​ຂໍ້​ຄວາມ​ຂອງ​ທ່ານ"</string>
+<string name="message_recorded">"ຂໍ້​ຄວາມ​ໄດ້​ບັນ​ທຶກ​ແລ້ວ"</string>
+<string name="review_message">"ກວດ​ເບິ່ງ​ຂໍ້​ຄວາມ"</string>
+<string name="recording">"​ບັນ​ທຶກ​ສຽງ"</string>
+<string name="recording_stopped">"ຢຸດ​ການ​ບັນ​ທຶກ"</string>
+<string name="recording_save">"ການ​ບັນ​ທຶກ​ສຽງ​ໄດ້​ບັນ​ທຶກ​ແລ້ວ"</string>
+<string name="recording_nosave">"ການ​ບັນ​ທຶກ​ສຽງ​ບໍໍ່ໄດ້​ບັນ​ທຶກ​"</string>
+<string name="storage_is_full">"ເນື້ອທີ່ການຈັດເກັບໄດ້ເຕັມ"</string>
+<string name="max_length_reached">"ຄວາມ​ຍາວ​ສູງ​ສຸດ​ໄດ້​ບັນ​ລຸ"</string>
+<string name="phone_message">"ກຳ​ລັງ​ຢູ່​ໃນ​ການ​ໂທ ບໍ່​ສາ​ມາດ​ຊົມ​ໃຊ້ເຄື່ອງ​ບັນ​ທຶກ​ສຽງ."</string>
+<string name="min_available">"ຍັງ​ເຫລືອ <xliff:g id="minutes">%d</xliff:g> ​ນາ​ທີ"</string>
+<string name="min_and_time_available">"ຍັງ​ເຫລືອ<xliff:g id="minutes">%d</xliff:g> ວິ​ນາ​ທີ​ແລະ<xliff:g id="seconds">%d</xliff:g> ​ວິ​ນາ​ທີ"</string>
+<string name="sec_available">"ຍັງ​ເຫລືອ <xliff:g id="seconds">%d</xliff:g>​ວິ​ນາ​ທີ"</string>
+<string name="accept">"ບັນທຶກ"</string>
+<string name="discard">"ປິດໄວ້"</string>
+<string name="button_ok">"ຕົກລົງ"</string>
+<string name="press_record">"ກົດ​ປຸ່ມ​ບັນ​ທຶກ"</string>
+<string name="audio_db_artist_name">"ອັດສຽງຂອງທ່ານ"</string>
+<string name="audio_db_album_name">"​ການ​ບັນ​ທຶກ​ສຽງ"</string>
+<string name="audio_db_playlist_name">"ການອັດສຽງຂອງຂ້ອຍ"</string>
+<string name="error_app_internal">"ໂປຣແກມປະຍຸກພາຍໃນຜິດພາດ"</string>
+<string name="error_mediadb_new_record">"ບໍ່ສາມາດບັນທຶກອັດສຽງ"</string>
+<string name="save">"ບັນທຶກ"</string>
+<string name="select_file_type">"ເ​ລືອກ​ປະ​ເພດ​ໄຟ​ລ໌​ບັນ​ທຶກ"</string>
+<string name="record_amr">"ປະ​ເພດ amr"</string>
+<string name="record_3gpp">"ປະ​ເພດ 3gpp"</string>
+<string name="button_cancel">"ຍົກເລີກ"</string>
+<string name="path_save">"ເສັ້ນ​ທາງ​ໄດ້​ບັນ​ທຶກ​ໄວ້​ແລ້ວ"</string>
+<string name="path_nosave">"ເສັ້ນ​ທາງ​ບໍ່ໄດ້​ບັນ​ທຶກ​ໄວ້​"</string>
+<string name="path_default">"ເສັ້ນ​ທາງ​ປະ​ຈຸ​ບັນ​ຈະ​ບໍໍ່​ເກັບ​ຮັກ​ສາ​ຂໍ້​ມູນ​ພາຍ​ໃນ​ຫຼື​​ຂໍ້​ມູນ​ພາຍນອກ,​ຕອນ​ນີ້​ປ່ຽນ​ເປັນ​ການ​ເກັບ​ຮັກ​ສາ​ຂໍ້​ມູນ​ພາຍ​ໃນ"</string>
+<string name="menu_set_save_path">"ຕັ້ງ​ຄ່າ​ການ​ບັນ​ທຶກ​ເສັ້ນ​ທາງ"</string>
+<string name="back">"ກັບ"</string>
+<string name="path_label">"ກະ​ລຸ​ນາ​ເລືອກ​ເສັ້ນ​ທາງ"</string>
+<string name="pause">"​ຢຸດ"</string>
+<string name="storage_is_not_enough">"ພື້ນ​ທີ່​ໜ່ວຍ​ຄວາມ​ຈຳ​ບໍ່​ພຽງ​ພໍ"</string>
+<string name="menu_recording_file_list">"ລາຍ​ຊື່​ໄຟ​ລ໌​ບັນ​ທຶກ"</string>
+<string name="recording_list_empty">"ລາຍ​ຊື່​ວ່າງ"</string>
+<string name="menu_recording_list_select_all">"ເລືອກທັງຫມົດ"</string>
+<string name="menu_recording_list_delete">"ລຶບ"</string>
+<string name="menu_recording_list_deselect_all">"ຍົກ​ເລີກ​ການ​ເລືອກ"</string>
+<string name="recording_file_delete_success">"ໄຟ​ລ໌​ບັນ​ທຶກ ລຶບ​ສຳ​ເລັດ"</string>
+<string name="recording_file_database_failed">"​ການ​ລຶບຖານ​ຂໍ້​ມູນ​ລົ້ມ​ເຫລວ"​</string>
+<string name="recording_file_delete_failed">"​​ການ​ລຶບໄຟ​ລ໌​ບັນ​ທຶກ​ລົ້ມ​ເຫລວ"</string>
+<string name="confirm_del">"ຕ້ອງ​ການ​ລຶບ​ໄຟ​ລ໌ບໍ່?"</string>
+<string name="button_delete">"ລຶບ"</string>
+<string name="recording_file_delete_alert_title">"ລຶບ"</string>
+<string name="recording_file_delete_alert_message">"ແນ່​ໃຈ​ວ່າ​ຕ້ອງ​ການ​ລຶບ%1$s ?"</string>
+<string name="recording_file_list">"ລາຍ​ຊື່​ໄຟ​ລ໌​ບັນ​ທຶກ"</string>
+<string name="less_than_one_second">"1 ວິນາທີ"</string>
+<string name="is_scanning">"ລະ​ບົບ​ກຳ​ລັງ​ສະ​ແກນ​ໄຟ​ລ໌​ມິ​ເດຍ,ກະ​ລຸ​ນາ​ລໍ​ຖ້າ..."</string>
+<string name="emptylist">"ລາຍ​ການ​ວ່າງ​ເປົ່າ"</string>
+<string name="choose_file">"ກະ​ລຸ​ນາ​ເລືອກ​ໄຟ​ລ໌​ບັນ​ທຶກ​ທີ່​ຕ້ອງ​ການ​ລຶບ!"</string>
+<string name="error_path">"ເສັ້ນ​ທາງ​ເກັບ​ຂໍ້​ມູນບໍ່​ມີ​ຢູ່,ກະ​ລຸ​ນາ​ຕັ້ງ​ຄ່າ​ໃໝ່!"</string>
+<string name="path_miss">"ເສັ້ນ​ທາງ​ເກັບ​ຂໍ້​ມູນບໍ່​ມີ​ຢູ່ຫຼືບໍ່​ສາ​ມາດ​ເຂົ້າ​ເຖິງ!"</string>
+<string name="low_memory">"ຄວາມ​ຈຳ​ເຄື່ອງບໍ່​ພຽງ​ພໍ,ໂປ​ຣ​ແກ​ຣມ​ຈະ​ຢຸດ!"</string>
+<string name="record_error">"ການບັນທຶກເກີດ​ຜິດ​ປົກ​ກະ​ຕິ!"</string>
+<string name="dialog_title">"ກະ​ລຸ​ນາ​ເລືອກ"</string>
+<string name="dialog_message">"ບັນ​ທຶກ​ການ​ບັນ​ທຶກ​ສຽງ​ຫຼືບໍ່!"</string>
+<string name="same_application_running">"ອຸ​ປະ​ກອນ​ການ​ບັນ​ທຶກ​ກຳ​ລັງ​ຖືກ​ໂປ​ຣ​ແກ​ຣມ​ອື່ນ​ໃຊ້​ຢູ່,ກະ​ລຸ​ນາ​ປິດ​ໂປ​ຣ​ແກ​ຣມ​ປະ​ເພດ​ນີ້​ກ່ອນ!"</string>
+<string name="recording_time_short">"​ເວ​ລາການ​ບັນ​ທຶກ​ນ້ອຍ​ກ່​ວາ1ວິ​ນາ​ທີ,ບໍ່​ບັນ​ທຶກ"</string>
+<string name="rename">"ປ່ຽນຊື່"</string>
+<string name="rename_save">"ປ່ຽນຊື່ສຳເລັດ"</string>
+<string name="rename_nosave">"ການ​ປ່ຽນ​ຊື່​ລົ້ມ​ເຫລວ"</string>
+<string name="filename_is_not_modified">"ຊື່​ໄຟ​ລ໌ບໍ່​ໄດ້​ປ່ຽນ​ແປງ"</string>
+<string name="duplicate_name">"ຊື່​ໄຟ​ລ໌​ຊ້ຳ​ກັນ"</string>
+<string name="soundpicker_label">"ກະ​ລຸ​ນາ​ເລືອກ​ໄຟ​ລ໌​ບັນ​ທຶກ"</string>
+<string name="error_sdcard_path">"ບັດSD​ບໍ່​ມີ​ຢູ່,​ຕອນ​ນີ້​ປ່ຽນ​ເປັນ​ການ​ເກັບ​ຮັກ​ສາ​ຂໍ້​ມູນ​ພາຍ​ໃນ"</string>
+<string name="input_length_overstep">"ການ​ຕີ​ຂໍ້​ມູນບັນລຸຄວາມຍາວສູງສຸດ"</string>
+<string name="filename_empty_error">"ຊື່​ໄຟ​ລ໌ບໍ່​ສາ​ມາດ​ວ່າງ​ເປົ່າ,ບັນ​ທຶກ​ຊື່​ເກົ່າ"</string>
+<string name="please_choose_files">"ກະ​ລຸ​ນາ​ເລື​ອກ​ໄຟ​ລ໌"</string>
+<string name="selected_files_count">"ໄດ້​ເລືອກ<xliff:g id="COUNTS">%d</xliff:g>​ລາຍ​ການ"</string>
+<string name="view_file_details">"ເບິ່ງລາຍລະອຽດ"</string>
+<string name="use_default_path">"ເສັ້ນ​ທາງ​ການ​ຈັດ​ເກັບ​ບໍ່​ມີ ໃຊ້​ເສັ້ນ​ທາງ​ຄ່າ​ເລີ່ມ​ຕົ້ນ"</string>
+<string name="type_mp3">"MP3"</string>
+<string name="type_amr">"AMR"</string>
+<string name="type_3gpp">"3GPP"</string>
+<string name="tuned_timer_recording">"ເປີດເວລາໃນການບັນທຶກແລ້ວ"</string>
+<string name="timeset">"ຕັ້ງຕົວນັບເວລາ"</string>
+<string-array name="timer_recording_time">
+<item>"ກຳໜົດເວລາບັນທຶກໄດ້ກຳໜົດຄ່າເປັນຫລັງຈາກບໍ່ຮອດ 1 ນາທີ"</item>
+<item>"ກຳໜົດເວລາບັນທຶກເປັນ <xliff:g id="HOURS">%1$s</xliff:g> ຈາກນີ້ໄປ."</item>
+<item>"ກຳໜົດເວລາບັນທຶກເປັນ <xliff:g id="MINUTES">%2$s</xliff:g> ຈາກນີ້ໄປ."</item>
+<item>"ກຳໜົດເວລາບັນທຶກເປັນ <xliff:g id="HOURS">%1$s</xliff:g> ແລະ <xliff:g id="MINUTES">%2$s</xliff:g> ຈາກນີ້ໄປ."</item>
+</string-array>
+<string name="timer_recording_detail">"ເລີ່ມບັນທຶກໃນ <xliff:g id="hours">%s</xliff:g>:<xliff:g id="minutes">%s</xliff:g> ສຳຫລັບ <xliff:g id="COUNTS">%s</xliff:g>"</string>
+<string name="tag_limit">"ຈຳນວນເຄື່ອງໝາຍເຖິງຂີດຈຳກັດແລ້ວ"</string>
+<string name="tag">"ຕິດປ້າຍໃສ່"</string>
+<string name="stroage_not_mounted">"ພື້ນທີ່ຈັດເກັບບໍ່ໄດ້ຖືກເຊື່ອມຕໍ່"</string>
+<string name="storage_not_enough">"ພື້ນທີ່ຈັດເກັບບໍ່ພຽງພໍ,ການເລີ່ມຕົ້ນບັນທຶກບໍ່ສໍາເລັດ!"</string>
+<string name="starttimeandduration">"ເວລາເລີ່ມຕົ້ນ \u0026 ໄລຍະເວລາ"</string>
+<string name="start_record">"ເລີ່ມບັນທືກ"</string>
+<string name="start_play">"ເລີ່ມຫລີ້ນ"</string>
+<string name="start">"ເລີ່ມຕົ້ນ"</string>
+<string name="special_char_exist">"ບໍ່ຮອງຮັບຕົວອັກສອນພິເສດ <xliff:g id="COUNTS">%s</xliff:g> "</string>
+<string name="speak_open">"ເປີດໂໝດຕົວຮັບ"</string>
+<string name="speak_close">"ປິດໂໝດໂຕຮັບ"</string>
+<string name="soundrecording">"ບັນທຶກສຽງ"</string>
+<string name="set_timer_recording">"ກໍານົດເວລາໃນການບັນທຶກແລ້ວ"</string>
+<string name="set_as_ring">"ຕັ້ງເປັນສຽງໂທເຂົ້າ"</string>
+<string name="save_successful">"ບັນທຶກສໍາເລັດແລ້ວ!ບັນທຶກເສັ້ນທາງ:<xliff:g id="FILEPATH">%1$s</xliff:g>"</string>
+<string name="save_path">"ສະຖານທີ່ການບັນທືກ"</string>
+<string name="save_failed">"ຈັດເກັບບໍ່ໄດ້!"</string>
+<string name="save_dialog_title">"ການບັນທຶກໃໝ່"</string>
+<string name="ringtone_title_sim2">"ສຽງເອີ້ນເຂົ້າSIM2"</string>
+<string name="ringtone_title_sim1">"ສຽງ​ເອີ້ນ​ເຂົ້າ SIM1"</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ຕັ້ງ​ເປັນສຽງ​ເອີ້ນ​ເຂົ້າ SIM2."</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ຕັ້ງ​ເປັນສຽງ​ເອີ້ນ​ເຂົ້າ SIM1."</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ຕັ້ງ​ເປັນ​ສຽງ​ເອີ້ນ​ເຂົ້າ​ໂທ​ລະ​ສັບ."</string>
+<string name="ringtone_menu_short">"​ໃຊ້​ເປັນ​ສຽງ​ເອີ້ນ​ເຂົ້າ"​</string>
+<string name="ring_set_silent_vibrate">"ສຽງ​ເອີ້ນ​ເຂົ້າ​ກຳ​ໜົດ​ເອງບໍ່​ສະ​ໜັບ​ສະ​ໜູນ​ໂໝດ​ຂະ​ນະ​ນີ້"</string>
+<string name="ring_set_fail">"ຂໍ​ອະ​ໄພ ບໍ່​ສາ​ມາດ​ຫລີ້ນ​ເພງ​ນີ້ ກະ​ລຸນ​ນາ​ເລືອກ​ເພງ​ອື່ນ​ຕັ້ງ​ເປັນ​ສຽງ​ເອີ​້ນ​ເຂົ້າ"</string>
+<string name="resume_record">"ສື່ບຕໍ່ບັນທືກ"</string>
+<string name="resume_play">"ສື່ບຕໍຫລີ້ນ"</string>
+<string name="reset_timer_recording">"ອຸປະກອນບັນທຶກກຳລັງຖືກໂປຼແກຼມອື່ນໃຊ້ຢູ່ ກະລຸນາຕັ້ງເວລາບັນທຶກໃໝ！"</string>
+<string name="rename_button">"ປະຖິ້ມ"</string>
+<string name="recording_start_time">"ເວລາເລີ່ມບັນທຶກ"</string>
+<string name="recording_play">"ຫລີ້ນວິທະຍຸ"</string>
+<string name="recording_pause">"ພັກການບັນທຶກ..."</string>
+<string name="recording_now">"ກຳລັງບັນທຶກ..."</string>
+<string name="recording_duration">"ບັນທຶກຮອດ 1 ຊົ້ວໂມງ"</string>
+<string name="record_timer">"ການບັນທຶກຂອງຕົວນັບເວລາ"</string>
+<string name="record_stop_and_save">"ຢຸດ ແລະ ບັນທຶກ"</string>
+<string name="record_stop">"ຢຸດ"</string>
+<string name="record_setting">"ການ​ຕັ້ງ​ຄ່າ"</string>
+<string name="record_pause">"ຢຸດຊົ່ວຄາວ"</string>
+<string name="record_mp3">"MP3 (ຄຸນນະພາບສູງ)"</string>
+<string name="record_miss">"ການບັນທຶກຂອງຕົວນັບເວລາບໍ່ຖືກຕ້ອງ"</string>
+<string name="record">"rec"</string>
+<string name="read_file_path">"ເບິ້ງເສັ້ນທາງບັນທຶກ"</string>
+<string name="previous_tag">"ເຄື່ອງໝາຍທີ່ແລ້ວ"</string>
+<plurals name="minutes">
+<item quantity="one">"1 ນາ​ທີ"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> ນາທີ"</item>
+</plurals>
+<plurals name="hours">
+<item quantity="one">"1 ຊົ່ວ​ໂມງ"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> ຊົ່ວໂມງ"</item>
+</plurals>
+<plurals name="confirm_delfile">
+<item quantity="one">"ທ່ານແນ່ໃຈບໍວ່າຈະລຶບໄຟລ໌ນີ້?"</item>
+<item quantity="other">"ຕົກ​ລົງ​ລຶບ​ໄຟ​ລ໌​ຫລືບໍ່?"</item>
+</plurals>
+<string name="please_insert_sim_card">"ກະ​ລຸ​ນາ​ໃສ່​ຢ່າງ​ໜ້ອຍໜຶ່ງ SIM"</string>
+<string name="playback_failed">"ຂໍ​ອະ​ໄພ ໄຟ​ລ໌​ນີ້ບໍ່​ສະ​ໜັບ​ໜຸນ"</string>
+<string name="play_error">"ເຄື່ອງຫຼິ້ນເພງໄດ້ຖືກປິດໃຊ້ງານ,ບໍ່ສາມາດເປີດ！"</string>
+<string name="phone_storage_not_enough">"ໜ່ວຍຄວາມຈຳມືຖືບໍ່ພຽງພໍ"</string>
+<string name="pauserecording">"ຢຸດການບັນທຶກ"</string>
+<string name="path_miss_nosave">"ເສັ້ນ​ທາງ​ໜ່ວຍ​ຄວາມ​ຈຳ​ບໍ່​ມີ ​ການ​ບັນ​ທຶກບໍ່​ໄດ້​ບັນ​ທຶກ"</string>
+<string name="operate_share">"ແບ່ງປັນ"</string>
+<string name="no_sd_write_permission">"ເຄື່ອງບັນທຶກສຽງບໍ່ສາມາດເຂົ້າເຖິງແຜ່ນ SD ຂອງທ່ານ, ກະລຸນາອະນຸຍາດ ຫຼື ລຶບພື້ນທີ່ຈັດເກັບແອັບພລິເຄຊັນ ແລະ ດໍາເນີນການອີກຄັ້ງ."</string>
+<string name="no_allow_play_calling">"ບໍ່ສາມາດຫຼິ້ນໄຟສຽງໃດໆກໍຕາມໃນລະຫວ່າງການໂທໄດ້."</string>
+<string name="next_tag">"ເຄື່ອງໝາຍຖັດໄປ"</string>
+<string name="new_record">"ບັນທຶກໃໝ່"</string>
+<string name="mode_change">"ການປ່ຽນໂໝດສຽງແມ່ນຕ້ອງໃຊ້ເວລາກະລຸນາລໍຖ້າ..."</string>
+<string name="miss_timer_time">"ເວລາ: <xliff:g id="TIME">%s</xliff:g>"</string>
+<string name="miss_timer_recording">"ບັນທຶກທີ່ບໍ່ໄດ້ຕັ້ງເວລາ"</string>
+<string name="min">"M"</string>
+<string name="menu_select_type">"ກຳ​ໜົດ​ຄ່າ​ຊະ​ນິດ​ໄຟ​ລ໌"</string>
+<string name="menu_select_more">"ເລືອກເພີ່ມເຕີມ"</string>
+<string name="local_record">"ບັນທຶກໃນເຄື່ອງ"</string>
+<string name="keep_original_file">"ຮັກສາໄຟລ໌ຕົ້ນສະບັບໄວ້"</string>
+<string name="internal_storage">"ໂທລະສັບ"</string>
+<string name="internal_sdcard">"ແຜ່ນ SD ພາຍໃນເຄື່ອງ"</string>
+<string name="illegal_chars_of_filename">"ຊື່ໄຟລ໌ບໍ່ສາມາດມີຕົວອັກສອນທີ່ຜິດກົດໝາຍ\\:*?\"\u003C\u003E|/"</string>
+<string name="hour_duration">"<xliff:g id="hour">%s</xliff:g>H"</string>
+<string name="hour">"H"</string>
+<string name="file_type">"ຮູບແບບ"</string>
+<string name="file_size">"ຂະໜາດໄຟລ໌"</string>
+<string name="file_rename">"ຊື່ໄຟລ໌ຊ້ຳກັນ, ມັນຈະບໍ່ບັນທຶກ"</string>
+<string name="file_path_button">"ເສັ້ນ​ທາງ​ຟ​ລ໌"</string>
+<string name="file_path">"ເສັ້ນ​ທາງ​ໄຟ​ລ໌"</string>
+<string name="file_name">"ຊື່​ໄຟ​ລ໌"</string>
+<string name="file_is_corrupt">"ໄຟລ໌ບໍ່ສົມບູນ"</string>
+<string name="file_date">"ວັນທີ່ໄຟລ໌"</string>
+<string name="file_choose">"ການເລືອກໄຟລ໌"</string>
+<string name="external_storage">"ແຜ່ນ SD"</string>
+<string name="external_sdcard">"ແຜ່ນ SD ພາຍນອກເຄື່ອງ"</string>
+<string name="error_permissions">"ແອັບດັ່ງກ່າວບໍ່ໄດ້ຮັບການອະນຸຍາດທີ່ຈໍາເປັນໃນການດໍາເນີນການ. ກະລຸນາກວດສອບການຕັ້ງຄ່າການອະນຸຍາດຂອງທ່ານ."</string>
+<string-array name="duration_hours">
+<item>"ຊົ່ວໂມງ"</item>
+<item>"ຊົ່ວໂມງ"</item>
+</string-array>
+<string name="dialog_dismiss">"ຍົກເລີກ"</string>
+<string name="confirm">"ຕົກລົງ"</string>
+<string name="close_timer">"ປິດການບັນທຶກຂອງຕົວນັບເວລາ"</string>
+<string name="clip_time">"ໄລຍະເວລາຂອງຄລິບ"</string>
+<string name="clip_name_suffix">"ຄລິບ"</string>
+<string name="clip_file_exit">"ຊື່ໄຟລ໌ຊ້ຳກັນ. ກະລຸນາປ້ອນໃສ່ໃໝ່"</string>
+<string name="clip_duration_tip">"ຕັດຄວາມຍາວ"</string>
+<string name="call_record">"ບັນທຶກການໂທ"</string>
+<string name="button_tag">"ຕິດປ້າຍໃສ່"</string>
+<string name="button_set">"ຕັ້ງຄ່າ"</string>
+<string name="button_list">"ລາຍ​ການ"</string>
+<string name="background_speak_close">"ການຫຼິ້ນບັນທຶກບໍ່ສາມາດທໍາງານໄດ້ໃນພື້ນຫຼັງ ແລະ ຖືກປິດຢູ່"</string>
+<string name="autosaverecord">"ບັນທຶກອັດຕະໂນມັດ"</string>
+<string name="auto_save">"ບັນທຶກການບັນທຶກໂດຍອັດຕະໂນມັດ"</string>
+<string name="superuser_request_confirm">"ໂປຣແກຣມບັນທຶກສຽງບໍ່ສາມາດເຂົ້າໃຊ້ແຜ່ນ SD ຂອງທ່ານໄດ້, ກະລຸນາເລືອກໄດເຣັກໂທຣີຂອງຣູດພາຍນອກເປັນແຜ່ນ SANDISK SD ແລະ ອະນຸຍາດໃຫ້ໂປຣແກຣມບັນທຶກສຽງດຳເນີນງານ."</string>
+<string name="share_max_warning">"ເລືອກ ໄວ້ຫຼາຍກວ່າ 100 ໄຟ ລ໌ ແລ້ວ, ແລະ ຟັງ ຊັນ ການ ແບ່ງ ປັນ ບໍ່ ພ້ອມ ໃຊ້ ງານ"</string>
+<string name="exit_multiwindow_tips">"ເຄື່ອງ ບັນ ທຶກ ສຽງ ບໍ່ ຮອງ ຮັບ ໂໝດຫຼາຍ ໜ້າ ຕ່າງ, ກະ ລຸ ນາ ໃຊ້ ເຄື່ອງ ບັນ ທຶກ ສຽງ ໃນ ໂໝດໜ້າ ຈໍ ເຕັມ."</string>
+</resources>

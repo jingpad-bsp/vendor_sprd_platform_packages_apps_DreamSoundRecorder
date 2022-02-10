@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="custom_bar_background_start">#252729</color>
+    <color name="custom_bar_background_end">#2A2C2E</color>
+
+    <!-- jingos theme color -->
+    <color name="record_time_show_bg">#202124</color>
+    <color name="opt_button_bg">#202124</color>
+    <color name="timer_view_bg">#ffffff</color>
+    <color name="filename_bg">#b0b0b0</color>
+    <color name="status_bar_color">#202124</color>
+    <color name="menu_color_blue">#386BFD</color>
+    <color name="driver_line">#33D8D8D8</color>
+    <color name="jingos_text">#ffffff</color>
+    <color name="record_displayname_color">#ffffff</color>
+    <color name="record_time_color">#BDBFC0</color>
+    <color name="time_picker_dialog_hms">#BDBFC0</color>
+
+    <color name="previous_next_button_enable">#d3d3d3</color>
+    <color name="previous_next_button_disable">#4b4c57</color>
+
+</resources>

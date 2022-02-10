@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"ናይ ድምጺ መቕረጺ"</string>
+    <string name="record_your_message">"መልእኽትኻ ቅረጽ"</string>
+    <string name="message_recorded">"ዝተቐድሐ ድምጺ"</string>
+    <string name="review_message">"ናይ መልእኽቲ ሊየርክስ"</string>
+    <string name="recording">"ቐድሕ ኣሎ"</string>
+    <string name="recording_stopped">"ምቅዳሕ ጠጠው ኢሉ"</string>
+    <string name="recording_save">"ቕዳሕ ተመዝጊቡ"</string>
+    <string name="recording_nosave">"ምቅዳሕ ኣይተመዝገበን"</string>
+    <string name="storage_is_full">"ቦታ መሊኡ"</string>
+    <string name="max_length_reached">"ዝለዓለ ቁመት በጺሑ"</string>
+    <string name="phone_message">"ኣብ እዋን ጻውዒት እቲ መቅረጺ ድምጺ ኣይበርሀን"</string>
+    <string name="min_available">"ኣስታት <xliff:g id="minutes">%d</xliff:g> ደቃይቕ ኣሎ"</string>
+    <string name="min_and_time_available">"ብዛዕባ <xliff:g id="minutes">%d</xliff:g> ደቓይቕን <xliff:g id="seconds">%d</xliff:g> ሴኮንድታት ትርጉም ኣሎ"</string>
+    <string name="sec_available">"ስለ<xliff:g id="seconds">%d</xliff:g>ኣሎ"</string>
+    <string name="accept">"ኣቀምጥ"</string>
+    <string name="discard">"ደምስስ"</string>
+    <string name="button_ok">"ሕራይ"</string>
+    <string name="press_record">"ቅዳሕ ተንክፍ"</string>
+    <string name="audio_db_artist_name">"ዝተቀድሑ"</string>
+    <string name="audio_db_album_name">"ናይ ድምጺ ቅዳሓት"</string>
+    <string name="audio_db_playlist_name">"ናየይ ቅደሓት"</string>
+    <string name="error_app_internal">"ውሽጣዊ መተግበሪ ስሕተት"</string>
+    <string name="error_mediadb_new_record">"ዝተቀድሐ ድምጼ ንምኽፋት ኣይተኻለን"</string>
+    <string name="save">"ኣቀምጥ"</string>
+    <string name="select_file_type">"እቲ ዝተቀድሕ ፋይል ምረጽ"</string>
+    <string name="record_amr">"amr ዓይነት(ዝተሓተ-ጽርየት)"</string>
+    <string name="record_3gpp">"3gpp ዓይነት (ዝለዓለ-quality)"</string>
+    <string name="button_cancel">"ኣሰናኽል"</string>
+    <string name="path_save">"ዲፋልት መንገዲተመዝጊቡ"</string>
+    <string name="path_nosave">"ዲፋልት መንገዲ ኣይተመዝገበን"</string>
+    <string name="path_default">"እቲ ናይ ሕጂ ፓዝ ዘጽሕፍ ወይ ዘይቅብሉን እዩ፡፡ ናብ ኢንተርኔት መደብር ዝወስድ መንገዲ እዩ"</string>
+    <string name="menu_set_save_path">"ሴቭ ናይ ምግባር መስመር ኣዳሉ።"</string>
+    <string name="back">"ድሕሪት..."</string>
+    <string name="path_label">"ብኽብረትካ ናይ መመዝገቢ መንገዲ ምረጽ"</string>
+    <string name="pause">"ጠጠው"</string>
+    <string name="storage_is_not_enough">"መደብር እኹል ኣይኮነን"</string>
+    <string name="menu_recording_file_list">"እቲ ናይ ፋይል ዝርዝር ቅዳሕ"</string>
+    <string name="recording_list_empty">"ባዶ ዝርዝር"</string>
+    <string name="menu_recording_list_select_all">"ኩሉ ኣድምቆ"</string>
+    <string name="menu_recording_list_delete">"ደምስስ"</string>
+    <string name="menu_recording_list_deselect_all">"ዘይምምራጽ"</string>
+    <string name="recording_file_delete_success">"ዝተቀድሐ ተደምሲሱ"</string>
+    <string name="recording_file_database_failed">"ናይ ዳታ ቤዝ ፋይል ምድምሳስ አይተዓወተን"</string>
+    <string name="recording_file_delete_failed">"ዝተቀድሐ ፋይ ምድምሳስ ኣይተዓወተን"</string>
+    <string name="confirm_del">"እዞም ፋይላት ንምድምሳስ ርግጸኛ ዲኻ?"</string>
+    <string name="button_delete">"ደምስስ"</string>
+    <string name="recording_file_delete_alert_title">"ደምስስ"</string>
+    <string name="recording_file_delete_alert_message">"%1$s ንምጥፋእ ርግጸኛ ዲኻ?"</string>
+    <string name="recording_file_list">"እቲ ናይ ፋይል ዝርዝር ቅዳሕ"</string>
+    <string name="less_than_one_second">"1 ሰኮንድ"</string>
+    <string name="is_scanning">"ሚድያ ስካነር ሕጂ ስካኝ ይገብር ኣሎ፣ ብኽብረትካ ተጸበ"</string>
+    <string name="emptylist">"ዝርዝር ባዶ እዩ"</string>
+    <string name="choose_file">"ብኽብረትካ ክተጥፍኦም እትደሊ ቅዳሓት ምረጽ"</string>
+    <string name="error_path">"እቲ ዝመረጽካዮ መንገዲ የለን፤ ብኽብረትካ መሊስ ኣዋድድ!"</string>
+    <string name="path_miss">"እቲ ኣብ መደብር ዝተቐመጠ መንገዲ የለን ወይ ተበጻሒ ኣይኮነን!"</string>
+    <string name="file_is_corrupt">"እዚ ሰነድ ብልሹው እዩ"</string>
+    <string name="low_memory">"ሚሞሪ እኹል ኣይኮነን፣ ምቅዳሕ ጠጠው ክብል እዩ!"</string>
+    <string name="record_error">"ኣብ ምቅዳሕ ነገር ኣጋጢሙ!"</string>
+    <string name="play_error">"ኣጻዋቲ ሙዚቃ ኣብ ዘይንጡፍ ገጽታ እዩ ዘሎ፤ ክኽፈት ኣይተኽእለን！"</string>
+    <string name="dialog_title">"ይምሬፁ"</string>
+    <string name="dialog_message">"እቶም ቅዳሓት መዝግብ?"</string>
+    <string name="same_application_running">"እዚ መቕድሒ ብኻሊእ ፕሮግራም ተከፊቱ ኣሎ፣በይዛካ ዕፀዎ!"</string>
+    <string name="recording_time_short">"ቕዳሕ ትሕቲ 1 ሰከንድ እዩ, ስለዚ ኣይተመዝገበን"</string>
+    <string name="file_path_button">"ናይ ፋይል መንገዲ"</string>
+    <string name="file_name">"ስም ፋይልቨ:"</string>
+    <string name="file_path">"ናይ ፋይል መንገዲ፡"</string>
+    <string name="rename">"ካብደገና ስም ኣውጽእ"</string>
+    <string name="rename_save">"ሽም ምቕያር ተሳኺዑ"</string>
+    <string name="rename_nosave">"ሽም ምቕያር ኣይተሳኸዐን"</string>
+    <string name="filename_is_not_modified">"ናይ ፋይል ስም ኣይተመሓሸን"</string>
+    <string name="duplicate_name">"ናይ ፋይል ስም ተባዚሑ ኣሎ"</string>
+    <string name="soundpicker_label">"ብኽብረትካ መቅድሒ ፋይል መዝግብ"</string>
+    <string name="error_sdcard_path">"ካርድ ኤስ.ዲ. ብኣካል የለን። ኣውቶማቲካዊ ኣማራጺ ናይ መስመር ኣተዓቓቕባ ናብ ውሽጣዊ ማዕከን ተቐዪሩ ኣሎ።"</string>
+    <string name="input_length_overstep">"እቲ እታዎት ኣብ ዝለዓለ ንውሓት በጺሑ"</string>
+    <string name="filename_empty_error">"ናይ ፋይል ስም ባዶ ክኸውን ኣይኽእልን፣ እቲ ኦሪጂናል ስም መዝግብ"</string>
+    <string name="please_choose_files">"ብኽብረትካ ነቶም ፋይላት ምረጽ"</string>
+    <string name="selected_files_count">"ተመሪጹ ኣሎ፦<xliff:g id="COUNTS">%d</xliff:g>"</string>
+    <string name="use_default_path">"እቲ ዝተኣከበ መንገዲ የለን፤ ዲፎልት ፓዝ ተጠቐም"</string>
+    <string name="stroage_not_mounted">"ማዕከን ኣይተጻዕነን ኣሎ"</string>
+    <string name="special_char_exist">"ፍሉያት ካራክተራት <xliff:g id="COUNTS">%s</xliff:g> ኣይሕዝን"</string>
+    <string name="menu_select_more">"ተወሳኺ ምረፅ"</string>
+    <string name="menu_select_type">"ናይቲ ፋይል ዓይነት ኣዋድድ"</string>
+    <string name="path_miss_nosave">"እቲ ዝተኣከበ መንገዲ የለን፤ ዝተቀድሐ ኣይተመዝገብን"</string>
+    <string name="dialog_dismiss">"ሕለፍ"</string>
+    <string name="error_permissions">"እቲ ኣፕ ኣድላይይ ዝኮነ መእተዊ ፍቃድ የብሉን በይዘኦም ናይ ፍቃድ ኣቀማምጣ የዐርዩ"</string>
+    <string name="internal_sdcard">"ውሽጣዊ ካርድ ኤስ.ዲ።"</string>
+    <string name="external_sdcard">"ደጋዊ ካርድ ኤስ.ዲ።"</string>
+    <string name="internal_storage">"መራከቢ ስልኪ"</string>
+    <string name="external_storage">"ሚሞርይ ካርድ"</string>
+    <string name="set_as_ring">"ከም ድምጽታት ደወል መድብዎም"</string>
+    <string name="read_file_path">"ንመስመር ኣድራሻ ናይ ሰነድ ፈትሽዎ"</string>
+    <string name="operate_share">"ኣካፍል"</string>
+    <string name="ringtone_title_sim1">"ናይ SIM1መፀውዒ ድምፂ"</string>
+    <string name="ringtone_title_sim2">"ናይ ሲም-ካርድ ቍ2 ናይ ተሌፎን ድምጺ ደወል""</string>
+    <string name="ringtone_menu_short">"ከም መፀዋዕታ ተጠቐም"</string>
+    <string name="please_insert_sim_card">"እንተወሓደ በጃካ SIM ካርድ የእትው"</string>
+    <string name="ring_set_silent_vibrate">"ኣብዚ ሕጂ ዘሎ ልሙድ መጸውዒ ድምጺ ኣይድገፍን እዩ"</string>
+    <string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ከም SIM1 መፀውዒ ድምፂ።"</string>
+    <string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ከም SIM2 መፀውዒ ድምፂ።"</string>
+    <string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ከምናይ ስልኪ መፀዋዕታ ግብሮም።"</string>
+    <string name="ring_set_fail">"ይቕሬታ፣ እዚ ሙዚቃ ክፃወት አይኽእልን። በጃካ ካልእ ናይ መፃወቲ ሙዚቃምረጽ"</string>
+    <string name="tag_limit">"ቍጽሪ ሕላገታት ሓበሬታ ኣብ ጥርዚ በጺሑ ኣሎ"</string>
+    <string name="no_allow_play_calling">"አብ ምድዋል ሙዚቃ(ራድዮ/ቪድዮ)ምፅዋት አይፍቀድን።"</string>
+    <string name="playback_failed">"ኣጻዋቲ ድምጺ ነዚ ዓይነት ናይ ድምጺ ሰነድ እዚ ዘአንግድ ኣይኰነን።"</string>
+    <string name="tag">"ታግ"</string>
+    <string name="previous_tag">"ናይ መወዳእታ ሕላገት ሓበሬታ"</string>
+    <string name="next_tag">"ዝቕጽል ሕላገት ሓበሬታ"</string>
+    <string name="recording_play">"ጸወታ ዝተሰነደ ድምጺ"</string>
+    <string name="clip_duration_tip">"ንውሓት ኣርትዖት"</string>
+    <string name="record_setting">"መቓነ-ቍጽጽር ኣቀራርጻ ድምጺ"</string>
+    <string name="file_type">"ዓይነት ፋይል"</string>
+    <string name="type_amr">"ኤ.ኤም.ኣር ዝዓይነቱ"</string>
+    <string name="type_3gpp">"3gpp ዝዓይነቱ"</string>
+    <string name="save_path">"እተኸዘነ መስመር ኣድራሻ ናይ እተዓቀበ ሓበሬታ"</string>
+    <string name="set_timer_recording">"ብተሓዚ ግዜ ተቐሊሱ ዝጅምር መደብ ኣቀራርጻ ስእሊ ኣዋድዱ"</string>
+    <string name="timer_recording_detail">"ኣቀራርጻ ጀምሩ፡- ኣብ <xliff:g id="hours">%s</xliff:g>:<xliff:g id="minutes">%s</xliff:g> ን <xliff:g id="COUNTS">%s</xliff:g>"</string>
+    <string name="view_file_details">"ዝርዝራ ርአ"</string>
+    <string name="file_size">"ዓቐን ጽዕነት ሰነድ፦"</string>
+    <string name="file_date">"ናይ ሰነድ ዕለት፦"</string>
+    <string name="recording_start_time">"መስርሕ ምቕራጽ ዝጅምረሉ ግዜ/ሰዓት"</string>
+    <string name="recording_duration">"ንውሓት ግዜ ናይ እተቐርጸ ትሕዝቶ - ብሰዓት"</string>
+    <string name="tuned_timer_recording">"ብተሓዚ ግዜ ተቐሊሱ ዝጅምር መደብ ኣቀራርጻ ስእሊ ተወሊዑ ኣሎ"</string>
+    <string name="miss_timer_recording">"ብተሓዚ ግዜ ተቐሊሱ ዝጅምር መደብ ኣቀራርጻ ስእሊ ፈሺሉ"</string>
+    <string name="miss_timer_time">"ግዜ፦ <xliff:g id="TIME">%s</xliff:g>"</string>
+    <string-array name="duration_hours">
+        <item>" ሰዓት"</item>
+        <item>" ሰዓታት"</item>
+    </string-array>
+    <string-array name="timer_recording_time">
+        <item>"ብተሓዚ ግዜ ተቐሊሱ ዝጅምር መደብ ኣቀራርጻ ስእሊ፡ ካብ ሕጂ ድሕሪ 1 ደቒቕ ክጅምር እዩ።"</item>
+        <item>"ብተሓዚ ግዜ ተቐሊሱ ዝጅምር መደብ ኣቀራርጻ ስእሊ፡ ካብ ሕጂ ድሕሪ <xliff:g id="HOURS">%1$s</xliff:g> ክጅምር እዩ።"</item>
+        <item>"ብተሓዚ ግዜ ተቐሊሱ ዝጅምር መደብ ኣቀራርጻ ስእሊ፡ ካብ ሕጂ ድሕሪ <xliff:g id="MINUTES">%2$s</xliff:g> ክጅምር እዩ።"</item>
+        <item>"ብተሓዚ ግዜ ተቐሊሱ ዝጅምር መደብ ኣቀራርጻ ስእሊ፡ ካብ ሕጂ ድሕሪ <xliff:g id="HOURS">%1$s</xliff:g> ከምኡ\'ውን <xliff:g id="MINUTES">%2$s</xliff:g> ክጅምር እዩ።"</item>
+    </string-array>
+    <plurals name="hours">
+        <item quantity="one">"1 ሰዓት"</item>
+        <item quantity="other">"<xliff:g id="number">%s</xliff:g> ሰዓታት"</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">"1 ደቒቕ"</item>
+        <item quantity="other">"<xliff:g id="number">%s</xliff:g> ደቓይቕ"</item>
+    </plurals>
+    <string name="start_record">"መስርሕ ምቕራጽ ጀምሪ"</string>
+    <string name="resume_record">"ደው ንዝበለ መስርሕ ምቕራጽ ዳግማይ ኣነጣጥፊ"</string>
+    <string name="start_play">"ድምጺ ምጽዋት ጀምሪ"</string>
+    <string name="resume_play">"ደው ንዝበለ መስርሕ ጸወታ ድምጺ ዳግማይ ኣነጣጥፊ"</string>
+    <string name="reset_timer_recording">"መቕረጺት ድምጺ ብኻልኣ ኣፕሊኬሽን ተታሒዛ ኣላ፤ ብኽብረትኩም ነዚ ብተሓዚ ግዜ ተቐሊሱ ዝጅምር መደብ ኣቀራርጻ ስእሊ ናብ ናይ ቀደም ገጽታኡ ምለስዎ!"</string>
+    <string name="storage_not_enough">"ኣብ ማዕከን እኹል ቦታ የልቦን፤ መስርሕ ናይ\'ቲ ብተሓዚ ግዜ ተቐሊሱ ዝጅምር መደብ ኣቀራርጻ ስእሊ ፈሺሉ!"</string>
+    <string name="phone_storage_not_enough">"ማዕከን ናይ ተሌፎን እኹል ኣይኰነን!"</string>
+    <string name="illegal_chars_of_filename">"ንሰነድ ዝወሃብ ስም ዘይሕጋውያን ፊደለ-ኣሃዛት ዝሓዘ ክኸውን ዝከኣል ኣይኰነን \\:*?\"\u003C\u003E|/"</string>
+    <string name="hour">"H"</string>
+    <string name="min">"M"</string>
+    <string name="start">"ጀምር"</string>
+    <string name="record">"ቅረጹ"</string>
+    <string name="timeset">"ተሓዚ ግዜ ተዋዲዱ ኣሎ"</string>
+    <string name="starttimeandduration">"ሰዓት ምጅማር/ንውሓዝ ግዜ ናይ መስርሕ ምቕራጽ"</string>
+    <string name="local_record">"ውሽጣዊ መስርሕ ምቕራጽ"</string>
+    <string name="call_record">"እተቐርጸ ዝርርብ ጻውዒት ተሌፎን"</string>
+    <string name="clip_time">"ንውሓት ግዜ ናይ ክሊፕ"</string>
+    <string name="clip_name_suffix">"ክሊፕ"</string>
+    <string name="file_choose">"ምርጫ ሰነድ"</string>
+    <string name="save_dialog_title">"ነዚ ሓድሽ ቅሩጽ ሰነድ ስም ሃብዎ"</string>
+    <string name="keep_original_file">"ንመበቆላዊ ሰነድ ዓቅብዮ"</string>
+    <string name="save_successful">"መስርሕ ዕቀባ ዕዉት ነይሩ!እተዓቀበሉ መስመር፦<xliff:g id="FILEPATH">%1$s</xliff:g>"</string>
+    <string name="save_failed">"መስርሕ ዕቀባ ፈሺሉ!"</string>
+    <string name="recording_now">"መስርሕ ምቕራጽ ይቕጽል..።"</string>
+    <string name="recording_pause">"መስርሕ ምቕራጽ ደው ኢሉ ኣሎ..።"</string>
+    <string name="record_pause">"ጠጠው"</string>
+    <string name="record_stop">"ኣቑም"</string>
+    <string name="record_timer">"ብተሓዚ ግዜ ተቐሊሱ ዝጅምር መደብ ኣቀራርጻ ስእሊ ጀምሩ"</string>
+    <string name="record_miss">"ብተሓዚ ግዜ ተቐሊሱ ዝጅምር መደብ ኣቀራርጻ ስእሊ - ዝፈሸለ ፈተነ"</string>
+    <string name="close_timer">"ብተሓዚ ግዜ ተቐሊሱ ንዝጅምር መደብ ኣቀራርጻ ስእሊ ዕጸዉ"</string>
+    <string name="soundrecording">"ቐድሕ ኣሎ"</string>
+    <string name="pauserecording">"ንመስርሕ ምቕራጽ ኣቋርጽዎ"</string>
+    <string name="clip_file_exit">"ስም ናይ ሰነድ ተደጊሙ ኣሎ። ብኽብረትኩም ከም እንደገና ኣእትውዎ"</string>
+    <string name="autosaverecord">"ንዝተቐርጸ ትሕዝቶ ብኣውቶማቲካዊ መገዲ ዓቅብዎ"</string>
+    <string name="auto_save">"ኣውቶማቲካዊ መስርሕ ዕቀባ - ድሕሪ መስርሕ ምቕራጽ ብዕዉት መገዲ ምዝዛሙ"</string>
+    <string name="new_record">"ሓድሽ እተቐርጸ ትሕዝቶ"</string>
+    <string name="speak_open">"ናይ ረሲቨር ገጽታ ተወሊዑ ኣሎ"</string>
+    <string name="speak_close">"ናይ ረሲቨር ገጽታ ጠፊኡ ኣሎ"</string>
+    <string name="hour_duration">"<xliff:g id="hour">%s</xliff:g>ኤች"</string>
+    <string name="button_set">"ኣቀምጥ"</string>
+    <string name="button_tag">"ታግ"</string>
+    <string name="button_list">"ዝርዝር"</string>
+    <string name="type_mp3">"mp3 ዝዓይነቱ"</string>
+    <string name="record_mp3">"mp3 ዝዓይነቱ (ልዑል ዝጽርየቱ)"</string>
+    <string name="file_rename">"ስም ናይ ሰነድ ተደጊሙ ኣሎ፤ ኣይተዓቀበን"</string>
+    <string name="background_speak_close">"ረሲቨር ኣብ ድሕረ-ባይታኣዊ ገጽታ ክሰርሕ ስለዘይክእል፡ ተዓጽዩ ኣሎ"</string>
+    <plurals name="confirm_delfile">
+        <item quantity="one">"ነዚ ሰነድ እዚ ክትድምስስዎ ከምዝደለኹም ርግጸኛታት ዲኹም?"</item>
+        <item quantity="other">"እዞም ፋይላት ንምድምሳስ ርግጸኛ ዲኻ?"</item>
+    </plurals>
+</resources>

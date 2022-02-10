@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Cod duube"</string>
+<string name="record_your_message">"Duub fariintaada"</string>
+<string name="message_recorded">"Fariinta waa laduubay"</string>
+<string name="review_message">"Miraha fariinta"</string>
+<string name="recording">"Duubis"</string>
+<string name="recording_stopped">"Duubista waa lajoojiyay"</string>
+<string name="recording_save">"Duubista wala keydiyay"</string>
+<string name="recording_nosave">"Duubista lama seefgarayn"</string>
+<string name="storage_is_full">"Kaydiyaha waa buuxaa"</string>
+<string name="max_length_reached">"Xadka ugu badan waa lagaaray"</string>
+<string name="phone_message">"Lama furi karo cod duubaha ayadoo wax lawacaayo."</string>
+<string name="min_available">"Quseeya <xliff:g id="minutes">%d</xliff:g> daqiiqada lahelikaro"</string>
+<string name="min_and_time_available">"Quseeysa <xliff:g id="minutes">%d</xliff:g> daqiiqada iyo <xliff:g id="seconds">%d</xliff:g> sikinka lahelikaro"</string>
+<string name="sec_available">"Quseeya <xliff:g id="seconds">%d</xliff:g> lahelikaro"</string>
+<string name="accept">"Keydi"</string>
+<string name="discard">"Tuur"</string>
+<string name="button_ok">"OK"</string>
+<string name="press_record">"Riix duub"</string>
+<string name="audio_db_artist_name">"Waxyaala aad dubtay"</string>
+<string name="audio_db_album_name">"Duubista codka"</string>
+<string name="audio_db_playlist_name">"Duubisyadayda"</string>
+<string name="error_app_internal">"Cilad application-ka oo gudaha ah"</string>
+<string name="error_mediadb_new_record">"Ogoloow in laseefgareeyo maqalka laduubay"</string>
+<string name="save">"Keydi"</string>
+<string name="select_file_type">"Dooro nooca faylka duubista"</string>
+<string name="record_amr">"nooca amr (tayo hoose)"</string>
+<string name="record_3gpp">"Nooca 3gpp-ga (tayo sare)"</string>
+<string name="button_cancel">"Jooji"</string>
+<string name="path_save">"Jidka rasmiga ah waa laseefgareeyay"</string>
+<string name="path_nosave">"Jidka rasmiga ah lamaseefgarayn"</string>
+<string name="path_default">"Jidka hada lama qorikaro ama waa qalad, waa jidka kaydiyaha kudaha jidkiisa"</string>
+<string name="menu_set_save_path">"Kuxir marrinka keydka"</string>
+<string name="back">"Noqo.."</string>
+<string name="path_label">"Fadlan dooro jidka seefgaraynta"</string>
+<string name="pause">"Jooji"</string>
+<string name="storage_is_not_enough">"Keydka kuma filna"</string>
+<string name="menu_recording_file_list">"Liiska faylka duubista"</string>
+<string name="recording_list_empty">"Liis faaruq ah"</string>
+<string name="menu_recording_list_select_all">"Dooro dhamaan"</string>
+<string name="menu_recording_list_delete">"tirtir"</string>
+<string name="menu_recording_list_deselect_all">"Kanoqo"</string>
+<string name="recording_file_delete_success">"Duubista waa Latiray"</string>
+<string name="recording_file_database_failed">"Lagu guuldaraystay in la tirtiro faylka kaydka"</string>
+<string name="recording_file_delete_failed">"Lagu guuldaraystay in la tirtiro faylka duubista"</string>
+<string name="confirm_del">"Ma doonaysaa inaad tirtirtid faylalkaan?"</string>
+<string name="button_delete">"tirtir"</string>
+<string name="recording_file_delete_alert_title">"tirtir"</string>
+<string name="recording_file_delete_alert_message">"Mahubtaa inaad tirtirto %1$s ?"</string>
+<string name="recording_file_list">"Liiska faylka duubista"</string>
+<string name="less_than_one_second">"1 sikin"</string>
+<string name="is_scanning">"Sifeeyaha media-ha ayaa sifaynaaya hada, fadlan sug..."</string>
+<string name="emptylist">"Liiska waa faaruq"</string>
+<string name="choose_file">"Fadlan dooro duubista aad raabto in aad tirtirtid faylalkiisa!"</string>
+<string name="error_path">"Jidka aad dooratay majiro, fadlan sax!"</string>
+<string name="path_miss">"Jidka lakaydiyay maba jiro ama lamagalikaro!"</string>
+<string name="file_is_corrupt">"Faylka mashaqaynaayo"</string>
+<string name="low_memory">"Kaydku kuma filna, duubista way joogsanaysaa!"</string>
+<string name="record_error">"Duubista reeban ayaa dhacaysa!"</string>
+<string name="play_error">"Musig shidaha waa ladamiyay, lama furi karo!"</string>
+<string name="dialog_title">"Fadlan dooro"</string>
+<string name="dialog_message">"Keydi duubista?"</string>
+<string name="same_application_running">"Aaladda duubista waxaa isticmaalaya barnamiij kale fadlan dooro barnamiijkan!"</string>
+<string name="recording_time_short">"Wakhti duubista ka yar 1 sikiin, lama keydin"</string>
+<string name="file_path_button">"Marrinka faylka"</string>
+<string name="file_name">"Magaca faylka："</string>
+<string name="file_path">"Marrinka faylka："</string>
+<string name="rename">"Magaca kabadal"</string>
+<string name="rename_save">"Dib u magacaabin waa lagu guuleeystay"</string>
+<string name="rename_nosave">"Dib u magacaabin waa lagu guuldaraystay"</string>
+<string name="filename_is_not_modified">"Magaca faylka lama casriyayn"</string>
+<string name="duplicate_name">"Laba jibaarida magaca faylka"</string>
+<string name="soundpicker_label">"Fadlan dooro fayl duubista."</string>
+<string name="error_sdcard_path">"Kaarka SD ga majiro. Jidka seefgaraynta rasmiga ah waxaa loo badalay kaydiyaha gudaha."</string>
+<string name="input_length_overstep">"Galinta waxay gaartay xadkii ugu sareeyay ee balaca"</string>
+<string name="filename_empty_error">"Magaca faylka faaruq ma ahaan karo, seefgaree magacii hore"</string>
+<string name="please_choose_files">"Fadlan dooro faylalka"</string>
+<string name="selected_files_count">"Wuxuu doortay<xliff:g id="COUNTS">%d</xliff:g>"</string>
+<string name="use_default_path">"Jidka ladoortay maba jiro, isticmaal jidka rasmiga ah"</string>
+<string name="stroage_not_mounted">"Kaydka lama banayn."</string>
+<string name="special_char_exist">"Xarfo gaar ah <xliff:g id="COUNTS">%s</xliff:g> mashaqaynaayaan"</string>
+<string name="menu_select_more">"Dooro in badan"</string>
+<string name="menu_select_type">"Daji nooca faylka"</string>
+<string name="path_miss_nosave">"Jidka lakaydiyay maba jiro, duubista lama seefgarayn!"</string>
+<string name="dialog_dismiss">"Ka bixid"</string>
+<string name="error_permissions">"Barnamiijkan malahan ogolaanshaha aasaasiga ah uu ku kaco. Fadlan hubi qaabaynadaada ogolaanshaha"</string>
+<string name="internal_sdcard">"Kaarka SD ga gudaha"</string>
+<string name="external_sdcard">"Kaarka SD ga banaanka"</string>
+<string name="internal_storage">"Teleefoon"</string>
+<string name="external_storage">"Kaadhka SD"</string>
+<string name="set_as_ring">"Kuxir codka soodhcista"</string>
+<string name="read_file_path">"Hubi wadada faylka"</string>
+<string name="operate_share">"Wadaag"</string>
+<string name="ringtone_title_sim1">"Codka soodhicista Teleefoonka ee SIM1"</string>
+<string name="ringtone_title_sim2">"Codka teleefanku kusoodhaco" ee SIM2"</string>
+<string name="ringtone_menu_short">"U adeegso codka ahaan"</string>
+<string name="please_insert_sim_card">"Fadlan ugu yaraan gali SIMkaar"</string>
+<string name="ring_set_silent_vibrate">"Codadka caadiga laguma isticmaali karo noocaan"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" Kadhigo Codka soodhicista Teleefoonka ee SIM1."</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" Kadhigo Codka soodhicista Teleefoonka ee SIM2."</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" kadhigo codka soodhicista teleefoonka."</string>
+<string name="ring_set_fail">"Waanu kaxunahay, heesta lama dhagaysan karo. Fadlan udoor hees kale cod ahaan"</string>
+<string name="tag_limit">"Tirada lifaaqyadu waxay gaartay meeshii ugu saraysay"</string>
+<string name="no_allow_play_calling">"Muusig lama dhagaysan karo inta wacniinka socdo (radio/fiidyoow)."</string>
+<string name="playback_failed">"Muusig shiduhu kuma shaqaynaayo faylkaan maqalka ah ee noocaan ah."</string>
+<string name="tag">"Xiriir"</string>
+<string name="previous_tag">"Lifaaqa ugu danbeeya"</string>
+<string name="next_tag">"Lifaaqa xigga"</string>
+<string name="recording_play">"Shidida codka duuban"</string>
+<string name="clip_duration_tip">"Wax kabadal balaca"</string>
+<string name="record_setting">"Setting-ka duubista"</string>
+<string name="file_type">"Nooca Faylka"</string>
+<string name="type_amr">"Nooca amr"</string>
+<string name="type_3gpp">"Nooca 3gpp"</string>
+<string name="save_path">"Wadada kaydka"</string>
+<string name="set_timer_recording">"Daji tiriyaha waqtiga duubista"</string>
+<string name="timer_recording_detail">"Biloow duubista markay tahay <xliff:g id="hours">%s</xliff:g>:<xliff:g id="minutes">%s</xliff:g> si <xliff:g id="COUNTS">%s</xliff:g>"</string>
+<string name="view_file_details">"Fiiri faahfaahinta"</string>
+<string name="file_size">"Xajmiga faylka："</string>
+<string name="file_date">"Taariikhda faylka："</string>
+<string name="recording_start_time">"Waqtiga bilaabista dubista"</string>
+<string name="recording_duration">"Saacada uu soconaayo duubistu"</string>
+<string name="tuned_timer_recording">"Waqtiga duubista waa lashiday"</string>
+<string name="miss_timer_recording">"Waqtiga duubista ww lagafay"</string>
+<string name="miss_timer_time">"Waqtiga: <xliff:g id="TIME">%s</xliff:g>"</string>
+<string-array name="duration_hours">
+<item>" saacad"</item>
+<item>" saacado"</item>
+</string-array>
+<string-array name="timer_recording_time">
+<item>"Waqtiga duubista ee loogu talagalay wax kayar 1 daqiiqo hada kadib."</item>
+<item>"Waqtiga duubista ee loogu talagalay <xliff:g id="HOURS">%1$s</xliff:g> hada kadib."</item>
+<item>"Waqtiga duubista ee loogu talagalay <xliff:g id="MINUTES">%2$s</xliff:g> hada kadib."</item>
+<item>"Waqtiga duubista ee loogu talagalay <xliff:g id="HOURS">%1$s</xliff:g> iyo <xliff:g id="MINUTES">%2$s</xliff:g> hada kadib."</item>
+</string-array>
+<plurals name="hours">
+<item quantity="one">"1 saac"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> saacadood"</item>
+</plurals>
+<plurals name="minutes">
+<item quantity="one">"1 daqiiqo"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> daqiiqadood"</item>
+</plurals>
+<string name="start_record">"Biloow duubista"</string>
+<string name="resume_record">"Dib ubilow duubista"</string>
+<string name="start_play">"Shid"</string>
+<string name="resume_play">"Dib ushid"</string>
+<string name="reset_timer_recording">"Aalada duubista waxaa adeegsanaaya barnaamij kale, fadlan dib udaji waqtiga duubista!"</string>
+<string name="storage_not_enough">"Kaydka banaan kuma filna, laguma guulaysan bilaabista duubista!"</string>
+<string name="phone_storage_not_enough">"Kaydka ubanaan taleefanka kuma filna!"</string>
+<string name="illegal_chars_of_filename">"Magaca faylka kuma jiri karaan xarfaha lamamnuucay \\:*?\"\u003C\u003E|/"</string>
+<string name="hour">"h"</string>
+<string name="min">"m"</string>
+<string name="start">"Bilaaw"</string>
+<string name="record">"duub"</string>
+<string name="timeset">"Waqtiga Ladajiyay"</string>
+<string name="starttimeandduration">"Waqtiga bilaabida/mudada duubista"</string>
+<string name="local_record">"Duubista gudaha"</string>
+<string name="call_record">"Duubista wicitaanka"</string>
+<string name="clip_time">"Mudada uu muuqaalku socdo"</string>
+<string name="clip_name_suffix">"Muuqaal yar"</string>
+<string name="file_choose">"Doorashada Faylka"</string>
+<string name="save_dialog_title">"Magacaaw faylka cusub ee duubista"</string>
+<string name="keep_original_file">"Hayso faylka hore"</string>
+<string name="save_successful">"Kaydinta Waa lagu guulaystay!marinka Kaydka:<xliff:g id="FILEPATH">%1$s</xliff:g>"</string>
+<string name="save_failed">"Kaydinta laguma Guulaysan!"</string>
+<string name="recording_now">"Duubis..."</string>
+<string name="recording_pause">"Duubista waa lajoojiyay..."</string>
+<string name="record_pause">"Jooji"</string>
+<string name="record_stop">"Jooji"</string>
+<string name="record_timer">"Duubaha Waqtiga"</string>
+<string name="record_miss">"Waqtiga duubista ee lagafay"</string>
+<string name="close_timer">"Waqtiga duubista ee laxiray"</string>
+<string name="soundrecording">"Duubis"</string>
+<string name="pauserecording">"Jooji Duubista"</string>
+<string name="clip_file_exit">"Magaca faylka waa lagusoo celiyay Fadlan gali markale"</string>
+<string name="autosaverecord">"Si ootomatig ah ukaydi duubista"</string>
+<string name="auto_save">"Kaydin ootomatig ah marka kaydintu guulaysato"</string>
+<string name="new_record">"Duubis cusub"</string>
+<string name="speak_open">"Nooca loodiraha waa shidanyahay"</string>
+<string name="speak_close">"Nooca loodiraha waa dansanyahay"</string>
+<string name="hour_duration">"<xliff:g id="hour">%s</xliff:g>H"</string>
+<string name="button_set">"Sax"</string>
+<string name="button_tag">"Xiriir"</string>
+<string name="button_list">"Liiska"</string>
+<string name="type_mp3">"Nooca mp3"</string>
+<string name="record_mp3">"Nooca mp3-ga (tayo sare)"</string>
+<string name="file_rename">"Magaca faylka waa lagusoo celiyay, lama kaydin"</string>
+<string name="background_speak_close">"Loodiruhu kuma shaqaynaayo gudaha waana laxiray"</string>
+<plurals name="confirm_delfile">
+<item quantity="one">"Madoonaysaa inaad tirtirto faylka?"</item>
+<item quantity="other">"Ma doonaysaa inaad tirtirtid faylalkaan?"</item>
+</plurals>
+<string name="mode_change">"Badalida nooca maqalka waqqti ayuu qaadanayaa fadlan sug..."</string>
+<string name="rename_button">"Tuur"</string>
+</resources>

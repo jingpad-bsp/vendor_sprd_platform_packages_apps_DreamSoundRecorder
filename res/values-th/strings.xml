@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2007 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+           xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+   <string name="insert_sd_card" product="default" msgid="1007630222084726808">"ใส่การ์ด SD"</string>
+   <!-- no translation found for audio_db_title_format (7912182366970749312) -->
+   <skip />
+   <string name="error_sdcard_access" product="default" msgid="5750308258096153274">"ไม่สามารถเข้าถึงการ์ด SD"</string>
+   <string name="recording_save">"บันทึกการบันทึกแล้ว"</string>
+   <string name="recording_nosave">"ไม่ได้บันทึกการบันทึก"</string>
+   <string name="phone_message">"ไม่สามารถเปิดเครื่องบันทึกเสียงในขณะที่ใช้สาย"</string>
+   <string name="min_and_time_available">"บันทึกได้อีกประมาณ <xliff:g id="minutes">%d</xliff:g> นาที <xliff:g id="seconds">%d</xliff:g> วินาที"</string>
+   <string name="press_record">"กดบันทึก"</string>
+   <string name="save">"บันทึก"</string>
+   <string name="select_file_type">"เลือกประเภทของไฟล์บันทึก"</string>
+   <string name="record_amr">"ประเภท AMR (คุณภาพต่ำ)"</string>
+   <string name="record_3gpp">"ประเภท 3GPP (คุณภาพสูง)"</string>
+   <string name="button_cancel">"ยกเลิก"</string>
+   <string name="path_save">"บันทึกพาธเริ่มต้นแล้ว"</string>
+   <string name="path_nosave">"ไม่ได้บันทึกพาธเริ่มต้น"</string>
+   <string name="path_default">"พาธปัจจุบันไม่สามารถเขียนได้หรือไม่ถูกต้อง เนื่องจากเป็นพาธไปยังพาธที่จัดเก็บข้อมูลภายใน"</string>
+   <string name="menu_set_save_path">"ตั้งค่าพาธการบันทึก"</string>
+   <string name="back">"ย้อนกลับ"</string>
+   <string name="path_label">"โปรดเลือกพาธการบันทึก"</string>
+   <string name="pause">"หยุดชั่วคราว"</string>
+   <string name="storage_is_not_enough">"ที่จัดเก็บข้อมูลไม่เพียงพอ"</string>
+   <string name="menu_recording_file_list">"รายการไฟล์การบันทึก"</string>
+   <string name="recording_list_empty">"รายการว่างเปล่า"</string>
+   <string name="menu_recording_list_select_all">"เลือกทั้งหมด"</string>
+   <string name="menu_recording_list_delete">"ลบ"</string>
+   <string name="menu_recording_list_deselect_all">"ยกเลิกการเลือก"</string>
+   <string name="recording_file_delete_success">"ลบการบันทึกแล้ว"</string>
+   <string name="recording_file_database_failed">"ไม่สามารถลบไฟล์ฐานข้อมูล"</string>
+   <string name="recording_file_delete_failed">"ไม่สามารถลบไฟล์การบันทึก"</string>
+   <string name="confirm_del">"คุณแน่ใจว่าต้องการลบไฟล์หรือไม่?"</string>
+   <string name="button_delete">"ลบ"</string>
+   <string name="recording_file_delete_alert_title">"ลบ"</string>
+   <string name="recording_file_delete_alert_message">"แน่ใจว่าจะลบ %1$s?"</string>
+   <string name="recording_file_list">"รายการไฟล์การบันทึก"</string>
+   <string name="less_than_one_second">"1 วินาที"</string>
+   <string name="is_scanning">"MediaScanner กำลังสแกนอยู่ โปรดรอ..."</string>
+   <string name="emptylist">"รายการว่างเปล่า"</string>
+   <string name="choose_file">"โปรดเลือกการบันทึกที่คุณต้องการลบไฟล์!"</string>
+   <string name="error_path">"พาธที่คุณเลือกไม่มีอยู่ โปรดตั้งค่าอีกครั้ง!"</string>
+   <string name="path_miss">"พาธที่จัดเก็บไว้ไม่มีอยู่หรือไม่สามารถเข้าถึงได้!"</string>
+   <string name="low_memory">"หน่วยความจำไม่พอ การบันทึกจะหยุดลง!"</string>
+   <string name="record_error">"มีข้อยกเว้นของการบันทึกเกิดขึ้น!"</string>
+   <string name="play_error">"โปรแกรมเล่นเพลงปิดใช้งานอยู่ ไม่สามารถเปิด!"</string>
+   <string name="dialog_title">"โปรดเลือก"</string>
+   <string name="dialog_message">"บันทึกการบันทึกหรือไม่?"</string>
+   <string name="same_application_running">"โปรแกรมอื่นกำลังใช้อุปกรณ์บันทึกข้อมูลอยู่ โปรดปิดโปรแกรมนี้!"</string>
+   <string name="recording_time_short">"เวลาที่บันทึกน้อยกว่า 1 วินาที ไม่ได้บันทึก"</string>
+   <string name="file_path_button">"พาธของไฟล์"</string>
+   <string name="file_name">"ชื่อไฟล์："</string>
+   <string name="file_path">"พาธของไฟล์ ："</string>
+   <string name="rename">"เปลี่ยนชื่อ"</string>
+   <string name="rename_save">"การเปลี่ยนชื่อสำเร็จ"</string>
+   <string name="rename_nosave">"เปลี่ยนชื่อไม่สำเร็จ"</string>
+   <string name="filename_is_not_modified">"ไม่ได้ปรับเปลี่ยนชื่อไฟล์"</string>
+   <string name="duplicate_name">"ชื่อไฟล์ซ้ำกัน"</string>
+   <string name="soundpicker_label">"โปรดเลือกไฟล์การบันทึก"</string>
+   <string name="error_sdcard_path">"การ์ด SD ไม่มีอยู่ เส้นทางการบันทึกเริ่มต้นจะถูกเปลี่ยนไปยังที่เก็บข้อมูลภายใน"</string>
+   <string name="input_length_overstep">"ข้อมูลที่ป้อนถึงขีดจำกัดความยาวสูงสุดแล้ว"</string>
+   <string name="filename_empty_error">"ชื่อไฟล์ไม่สามารถเว้นว่างได้ บันทึกเป็นชื่อเดิม"</string>
+   <string name="please_choose_files">"โปรดเลือกไฟล์"</string>
+   <string name="selected_files_count">"ได้เลือกไว้ <xliff:g id="COUNTS">%d</xliff:g> รายการ"</string>
+   <string name="use_default_path">"พาธที่จัดเก็บไว้ไม่มีอยู่ ใช้พาธเริ่มต้น"</string>
+   <string name="stroage_not_mounted">"ไม่ได้ติดตั้งที่จัดเก็บข้อมูล"</string>
+   <string name="special_char_exist">"ไม่รองรับอักขระพิเศษ <xliff:g id="COUNTS">%s</xliff:g>"</string>
+   <string name="menu_select_more">"เลือกเพิ่ม"</string>
+   <string name="menu_select_type">"ตั้งค่าประเภทของไฟล์"</string>
+   <string name="path_miss_nosave">"พาธที่จัดเก็บไว้ไม่มีอยู่ ไม่ได้บันทึกการบันทึก!"</string>
+   <string name="dialog_dismiss">"ปิด"</string>
+   <string name="error_permissions">"แอพไม่ได้รับอนุญาตที่จำเป็นต้องใช้เพื่อเรียกใช้ โปรดตรวจสอบการตั้งค่าการอนุญาตของคุณ"</string>
+   <string name="internal_sdcard">"การ์ด SD ภายใน"</string>
+   <string name="external_sdcard">"การ์ด SD ภายนอก"</string>
+   <string name="internal_storage">"โทรศัพท์"</string>
+   <string name="external_storage">"การ์ด SD"</string>
+   <string name="set_as_ring">"ตั้งเป็นเสียงเรียกเข้า"</string>
+   <string name="read_file_path">"ตรวจสอบเส้นทางของไฟล์"</string>
+   <string name="operate_share">"แบ่งปัน"</string>
+   <string name="ringtone_title_sim1">"เสียงเรียกเข้าของโทรศัพท์ของ SIM1"</string>
+   <string name="ringtone_title_sim2">"เสียงเรียกเข้าโทรศัพท์ซิม 2"</string>
+   <string name="ringtone_menu_short">"ใช้เป็นเสียงเรียกเข้า"</string>
+   <string name="please_insert_sim_card">"อย่างน้อย โปรดใส่ซิมการ์ด"</string>
+   <string name="ring_set_silent_vibrate">"โหมดปัจจุบันไม่สนับสนุนเสียงเรียกเข้าแบบกำหนดเอง"</string>
+   <string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"ตั้งเป็นเสียงเรียกเข้าโทรศัพท์SIM1"</string>
+   <string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"ตั้งเป็นเสียงเรียกเข้าโทรศัพท์SIM2"</string>
+   <string name="ringtone_set">"\"<xliff:g id="NAME">%s</xliff:g>\" ถูกตั้งค่าเป็นเสียงเรียกเข้าของโทรศัพท์"</string>
+   <string name="ring_set_fail">"ขอโทษไม่สามารถเล่นเพลง. กรุณาเลือกเพลงเป็นเสียงเรียกเข้าอีก"</string>
+   <string name="tag_limit">"ถึงจำนวนของป้ายที่ตั้งไว้สูงสุดแล้ว"</string>
+   <string name="no_allow_play_calling">"ไม่อนุญาตให้เล่นเพลงในระหว่างการโทร (วิทยุ/วิดีโอ)"</string>
+   <string name="playback_failed">"แอปเล่นเพลงไม่สนับสนุนชนิดของไฟล์เสียงนี้"</string>
+   <string name="tag">"แท็ก"</string>
+   <string name="previous_tag">"แท็กสุดท้าย"</string>
+   <string name="next_tag">"แท็กถัดไป"</string>
+   <string name="recording_play">"เล่นการบันทึก"</string>
+   <string name="clip_duration_tip">"แก้ไขความยาว"</string>
+   <string name="record_setting">"ตั้งค่าการบันทึก"</string>
+   <string name="file_type">"ประเภทของไฟล์"</string>
+   <string name="type_amr">"ประเภท AMR"</string>
+   <string name="type_3gpp">"ประเภท 3GPP"</string>
+   <string name="save_path">"เส้นทางที่จัดเก็บไว้"</string>
+   <string name="set_timer_recording">"ตั้งค่าการบันทึกแบบตั้งเวลา"</string>
+   <string name="timer_recording_detail">"เริ่มบันทึก <xliff:g id="hours">%s</xliff:g>:<xliff:g id="minutes">%s</xliff:g> สำหรับ <xliff:g id="COUNTS">%s</xliff:g>"</string>
+   <string name="view_file_details">"ดูรายละเอียด"</string>
+   <string name="file_size">"ขนาดไฟล์:"</string>
+   <string name="file_date">"วันที่ไฟล์:"</string>
+   <string name="recording_start_time">"เวลาที่เริ่มบันทึก"</string>
+   <string name="recording_duration">"ชั่วโมงระยะเวลาของบันทึก"</string>
+   <string name="tuned_timer_recording">"การบันทึกแบบตั้งเวลาเปิดอยู่"</string>
+   <string name="miss_timer_recording">"การบันทึกแบบตั้งเวลาพลาดไป"</string>
+   <string name="miss_timer_time">"เวลา: <xliff:g id="TIME">%s</xliff:g>"</string>
+   <string name="start_record">"เริ่มบันทึก"</string>
+   <string name="resume_record">"บันทึกต่อ"</string>
+   <string name="start_play">"เริ่มเล่น"</string>
+   <string name="resume_play">"เล่นต่อ"</string>
+   <string name="reset_timer_recording">"อุปกรณ์บันทึกภาพถูกใช้โดยโปรแกรมอื่น โปรดรีเซ็ตการบันทึกแบบตั้งเวลา!"</string>
+   <string name="storage_not_enough">"พื้นที่เก็บข้อมูลไม่เพียงพอ ล้มเหลวในการเริ่มการบันทึกแบบตั้งเวลา!"</string>
+   <string name="phone_storage_not_enough">"พื้นที่เก็บข้อมูลของโทรศัพท์ไม่เพียงพอ!"</string>
+   <string name="file_is_corrupt">"ไฟล์เสียหาย"</string>
+   <string name="illegal_chars_of_filename">"ชื่อไฟล์ไม่สามารถมีอักขระที่ไม่สามารถใช้งานได้ \\:*?\"\u003C\u003E|/"</string>
+   <string name="hour">"ชม."</string>
+   <string name="min">"น."</string>
+   <string name="start">เริ่ม</string>
+   <string name="record">"บันทึกเสียง"</string>
+   <string name="timeset">"ตั้งค่าตัวตั้งเวลา"</string>
+   <string name="starttimeandduration">"เวลาเริ่มต้น/ระยะเวลาของการบันทึกเสียง"</string>
+   <string name="local_record">"บันทึกเสียงภายในเครื่อง"</string>
+   <string name="call_record">"บันทึกเสียงการโทร"</string>
+   <string name="clip_time">"ระยะเวลาของคลิป"</string>
+   <string name="clip_name_suffix">"คลิป"</string>
+   <string name="file_choose">"การเลือกไฟล์"</string>
+   <string name="save_dialog_title">"ตั้งชื่อไฟล์การบันทึกเสียงไฟล์ใหม่"</string>
+   <string name="keep_original_file">"เก็บไฟล์ต้นฉบับไว้"</string>
+   <string name="save_successful">"บันทึกสำเร็จแล้ว!เส้นทางการบันทึก:<xliff:g id="FILEPATH">%1$s</xliff:g>"</string>
+   <string name="save_failed">"การบันทึกล้มเหลว!"</string>
+   <string name="recording_now">"กำลังบันทึก..."</string>
+   <string name="recording_pause">"หยุดการบันทึกชั่วคราว..."</string>
+   <string name="record_pause">หยุด</string>
+   <string name="record_stop">หยุด</string>
+   <string name="record_timer">"การบันทึกเสียงตามตัวตั้งเวลา"</string>
+   <string name="record_miss">"การบันทึกเสียงตามตัวตั้งเวลาที่พลาดไป"</string>
+   <string name="close_timer">"ปิดการบันทึกเสียงตามตัวตั้งเวลา"</string>
+   <string name="soundrecording">กำลังบันทึก</string>
+   <string name="pauserecording">"หยุดการบันทึกเสียงชั่วคราว"</string>
+   <string name="clip_file_exit">"ชื่อไฟล์ซ้ำ โปรดป้อนอีกครั้ง"</string>
+   <string name="autosaverecord">"บันทึกเสียงโดยอัตโนมัติ"</string>
+   <string name="auto_save">"บันทึกโดยอัตโนมัติเมื่อการบันทึกเสียงสำเร็จแล้ว"</string>
+   <string name="new_record">"การบันทึกเสียงใหม่"</string>
+   <string name="speak_open">"โหมดตัวรับเปิดอยู่"</string>
+   <string name="speak_close">"โหมดตัวรับปิดอยู่"</string>
+   <string name="hour_duration">"<xliff:g id="hour">%s</xliff:g>H"</string>
+   <string name="button_set">"ตั้งค่า"</string>
+   <string name="button_tag">"แท็ก"</string>
+   <string name="button_list">"รายการ"</string>
+   <string name="type_mp3">"ชนิด mp3"</string>
+   <string name="record_mp3">"ชนิด MP3 (คุณภาพสูง)"</string>
+   <string name="file_rename">"ชื่อไฟล์ซ้ำ จะไม่มีการบันทึก"</string>
+   <string name="background_speak_close">"ตัวรับไม่สามารถทำงานได้ในเบื้องหลัง และจะปิดทำงาน"</string>
+   <string name="storage_is_full">"ที่จัดเก็บข้อมูลเต็ม"</string>
+   <string name="sec_available">"บันทึกได้อีกประมาณ <xliff:g id="seconds">%d</xliff:g> วินาที"</string>
+   <string name="review_message">"ตรวจสอบข้อความ"</string>
+   <string name="recording_stopped">"หยุดบันทึกแล้ว"</string>
+   <string name="recording">"การบันทึก"</string>
+   <string name="record_your_message">"บันทึกข้อความของคุณ"</string>
+   <string name="min_available">"บันทึกได้อีกประมาณ <xliff:g id="minutes">%d</xliff:g> นาที"</string>
+   <string name="message_recorded">"บันทึกข้อความแล้ว"</string>
+   <string name="max_length_reached">"ถึงความยาวสูงสุดแล้ว"</string>
+   <string name="error_mediadb_new_record">"ไม่สามารถบันทึกเสียงที่บันทึกไว้"</string>
+   <string name="error_app_internal">"แอพพลิเคชั่นภายในมีข้อผิดพลาด"</string>
+   <string name="discard">"ยกเลิก"</string>
+   <string name="button_ok">"ตกลง"</string>
+   <string name="audio_db_playlist_name">"การบันทึกของฉัน"</string>
+   <string name="audio_db_artist_name">"การบันทึกของคุณ"</string>
+   <string name="audio_db_album_name">"การบันทึกเสียง"</string>
+   <string name="app_name">"เครื่องบันทึกเสียง"</string>
+   <string name="accept">"บันทึก"</string>
+   <string-array name="timer_recording_time">
+    <item>"การบันทึกแบบตั้งเวลาที่ตั้งค่าไว้น้อยกว่า 1 นาทีจากตอนนี้"</item>
+    <item>"การบันทึกแบบตั้งเวลาที่ตั้งค่าไว้อีก <xliff:g id="HOURS">%1$s</xliff:g> ชั่วโมงจากตอนนี้"</item>
+    <item>"การบันทึกแบบตั้งเวลาที่ตั้งค่าไว้อีก <xliff:g id="MINUTES">%2$s</xliff:g> นาทีจากตอนนี้"</item>
+    <item>"การบันทึกแบบตั้งเวลาที่ตั้งค่าไว้อีก <xliff:g id="HOURS">%1$s</xliff:g> ชั่วโมง <xliff:g id="MINUTES">%2$s</xliff:g> นาทีจากตอนนี้"</item>
+   </string-array>
+   <string-array name="duration_hours">
+    <item>"ชั่วโมง"</item>
+    <item>"ชั่วโมง"</item>
+   </string-array>
+   <plurals name="minutes">
+    <item quantity="one">"1 นาที"</item>
+    <item quantity="other">"<xliff:g id="number">%s</xliff:g> นาที"</item>
+   </plurals>
+   <plurals name="hours">
+    <item quantity="one">"1 ชั่วโมง"</item>
+    <item quantity="other">"<xliff:g id="number">%s</xliff:g> ชั่วโมง"</item>
+   </plurals>
+   <plurals name="confirm_delfile">
+    <item quantity="one">"คุณแน่ใจว่าต้องการลบไฟล์หรือไม่?"</item>
+    <item quantity="other">"คุณแน่ใจว่าต้องการลบไฟล์หรือไม่?"</item>
+   </plurals>
+<string name="rename_button">"ละทิ้ง"</string>
+<string name="record_stop_and_save">"หยุดและบันทึก"</string>
+<string name="no_sd_write_permission">"เครื่องบันทึกเสียงไม่สามารถเข้าถึงการ์ด SD ได้ โปรดให้สิทธิ์หรือล้างเนื้อที่เก็บข้อมูลของแอปพลิเคชันแล้วลองอีกครั้ง"</string>
+<string name="mode_change">"การเปลี่ยนโหมดเสียงต้องใช้เวลา โปรดรอสักครู่..."</string>
+<string name="confirm">"ตกลง"</string>
+<string name="superuser_request_confirm">"เครื่องบันทึกเสียงไม่มีสิทธิ์เข้าถึงการ์ด SD โปรดเลือกไดเรกทอรีรากภายนอก SANDISK SD card แล้วให้สิทธิ์เครื่องบันทึกเสียงใช้งาน"</string>
+<string name="share_max_warning">"เลือกไฟล์ไว้มากกว่า 100 ไฟล์ และฟังก์ชันแชร์ไม่สามารถใช้งานได้"</string>
+<string name="exit_multiwindow_tips">"เครื่องบันทึกเสียงไม่รองรับโหมดหลายหน้าต่าง โปรดใช้เครื่องบันทึกเสียงในโหมดเต็มหน้าจอ"</string>
+</resources>

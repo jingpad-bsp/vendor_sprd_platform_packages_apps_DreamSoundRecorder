@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">Gravador de son</string>
+<string name="record_your_message">Rexistra a súa mensaxe</string>
+<string name="message_recorded">Mensaxe rexistrado</string>
+<string name="review_message">Letra de mensaxe</string>
+<string name="recording">Rexistrando</string>
+<string name="recording_stopped">"Gravación detida"</string>
+<string name="recording_save">"Gravación gardada"</string>
+<string name="recording_nosave">Non se gardou o rexistro</string>
+<string name="storage_is_full">O almacenamento está cheo</string>
+<string name="max_length_reached">Lonxitude máxima alcanzada</string>
+<string name="phone_message">Non pode acender o gravador de son mentres chama.</string>
+<string name="min_available">Sobre <xliff:g id="minutes">%d</xliff:g> min. dispoñible</string>
+<string name="min_and_time_available">Aprox. <xliff:g id="minutes">%d</xliff:g> min e <xliff:g id="seconds">%d</xliff:g> s dispoñibles</string>
+<string name="sec_available">Aprox. <xliff:g id="seconds">%d</xliff:g>s dispoñibles</string>
+<string name="accept">Gardar</string>
+<string name="discard">Eliminar</string>
+<string name="button_ok">OK</string>
+<string name="press_record">Prensar informe</string>
+<string name="audio_db_artist_name">O seus rexistros</string>
+<string name="audio_db_album_name">Rexistros de audio</string>
+<string name="audio_db_playlist_name">Os meus rexistros</string>
+<string name="error_app_internal">Erro de aplicación interna</string>
+<string name="error_mediadb_new_record">Deshabilitar o gardado das gravacións de audio</string>
+<string name="save">Gardar</string>
+<string name="select_file_type">Seleccionar o tipo de arquivos de rexistro</string>
+<string name="record_amr">"tipo amr(calidade baixa)"</string>
+<string name="record_3gpp">"tipo 3gpp(alta calidade)"</string>
+<string name="button_cancel">cancelar</string>
+<string name="path_save">Ruta por defecto gardada</string>
+<string name="path_nosave">Ruta por defecto non gardada</string>
+<string name="path_default">A ruta actual no é sobrescribible ou inválida, a súa ruta á ruta de almacenamento interno</string>
+<string name="menu_set_save_path">Axustar ruta de memorización</string>
+<string name="back">Volver...</string>
+<string name="path_label">Seleccione a ruta para gardar</string>
+<string name="pause">Pausa</string>
+<string name="storage_is_not_enough">O almacenamento no é suficiente</string>
+<string name="menu_recording_file_list">Rexistrando lista de arquivos</string>
+<string name="recording_list_empty">Lista baleira</string>
+<string name="menu_recording_list_select_all">Seleccionar todo</string>
+<string name="menu_recording_list_delete">"Borrar"</string>
+<string name="menu_recording_list_deselect_all">Deseleccionar</string>
+<string name="recording_file_delete_success">"Gravación eliminada"</string>
+<string name="recording_file_database_failed">Erro ó borrar o arquivo da base de datos</string>
+<string name="recording_file_delete_failed">Erro ó borrar o arquivo o arquivo de rexistro</string>
+<string name="confirm_del">¿Está seguro que desexa borrar os arquivos?</string>
+<string name="button_delete">"Borrar"</string>
+<string name="recording_file_delete_alert_title">"Borrar"</string>
+<string name="recording_file_delete_alert_message">¿Seguro de borrar %1$s?</string>
+<string name="recording_file_list">Rexistrando lista de arquivos</string>
+<string name="less_than_one_second">1 segundo</string>
+<string name="is_scanning">" O escáner de medios está escaneado, espere..."</string>
+<string name="emptylist">A lista está baleiro.</string>
+<string name="choose_file">"¡Primeiro elixa o rexistro do que desexa eliminar arquivos!"</string>
+<string name="error_path">"¡O recorrido que seleccionou non existe, volva a reiniciar!"</string>
+<string name="path_miss">"¡A ruta gardada no existe e non pode accederse a mesma!"</string>
+<string name="file_is_corrupt">"O ficheiro está corrompido"</string>
+<string name="low_memory">"Non hai memoria suficiente, a gravación deterase."</string>
+<string name="record_error">"¡Rexistrando porque ocorreu unha excepción!"</string>
+<string name="play_error">"O reprodutor de música está desactivado, non se pode abrir."</string>
+<string name="dialog_title">Seleccionar</string>
+<string name="dialog_message">"¿Desexa gardar o rexistro?"</string>
+<string name="same_application_running">"O dispositivo de gravación está a ser usado por outro programa, peche este programa"</string>
+<string name="recording_time_short">"O tempo restante é de menos de 1 segundo, non gardado"</string>
+<string name="file_path_button">Ruta do arquivo</string>
+<string name="file_name">"Nome do arquivo":</string>
+<string name="file_path">"Ruta do arquivo:"</string>
+<string name="rename">Renomear</string>
+<string name="rename_save">Renomeado con éxito</string>
+<string name="rename_nosave">Erro no cambio de nome</string>
+<string name="filename_is_not_modified">Nome do arquivo non está modificado</string>
+<string name="duplicate_name">Duplicar o nome de arquivo</string>
+<string name="soundpicker_label">Seleccione un arquivo de rexistro</string>
+<string name="error_sdcard_path">"A tarxeta SD non existe. O camiño de gardado predefinida cambiouse a almacenamento interno."</string>
+<string name="input_length_overstep">A entrada alcanzou a lonxitude máxima</string>
+<string name="filename_empty_error">O nome de arquivo no está baleiro, garde o nome orixinal</string>
+<string name="please_choose_files">Elixa os arquivos</string>
+<string name="selected_files_count">"seleccionou <xliff:g id="COUNTS">%d</xliff:g>"</string>
+<string name="use_default_path">A ruta da memoria non existe, use a ruta por defecto</string>
+<string name="stroage_not_mounted">"O almacenamento non está instalado"</string>
+<string name="special_char_exist">"Caracteres especiais <xliff:g id="COUNTS">%s</xliff:g> no se soportan"</string>
+<string name="menu_select_more">Seleccionar máis</string>
+<string name="menu_select_type">Axustar tipo de arquivo</string>
+<string name="path_miss_nosave">"¡A ruta gardada non existe, non se gardou o rexistro！"</string>
+<string name="dialog_dismiss">Descartar</string>
+<string name="error_permissions">"A aplicación non ten permisos críticos que necesiten executarse. Comprobe a súa configuración de permisos."</string>
+<string name="internal_sdcard">"Tarxeta SD interna"</string>
+<string name="external_sdcard">"Tarxeta SD externa"</string>
+<string name="internal_storage">Teléfono</string>
+<string name="external_storage">Tarxeta SD</string>
+<string name="set_as_ring">"Fixar como ton de chamada"</string>
+<string name="read_file_path">"Comprobar o camiño do ficheiro"</string>
+<string name="operate_share">Compartir</string>
+<string name="ringtone_title_sim1">Ton do teléfono SIM1</string>
+<string name="ringtone_title_sim2">"Ton do teléfono SIM2"</string>
+<string name="ringtone_menu_short">Usar o ton</string>
+<string name="please_insert_sim_card">"Introduza polo menos unha tarxeta SIM"</string>
+<string name="ring_set_silent_vibrate">"Os tons de chamada personalizados no están soportados no modo actual"</string>
+<string name="ringtone_set_sim1">\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" axuste como ton de chamada SIM1 do telefono.</string>
+<string name="ringtone_set_sim2">\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" axuste como tono de chamada SIM2 Phone.</string>
+<string name="ringtone_set">\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" axuste como ton de chamada.</string>
+<string name="ring_set_fail">"Sentímolo, o ton non se reproduciu. Selecciona outra canción como ton"</string>
+<string name="tag_limit">"Atinxiuse o número máximo de etiquetas"</string>
+<string name="no_allow_play_calling">"Non se pode reproducir música durante unha chamada (radio/vídeo)."</string>
+<string name="playback_failed">"O reprodutor non admite este tipo de ficheiro de audio."</string>
+<string name="tag">Etiqueta</string>
+<string name="previous_tag">"Última etiqueta"</string>
+<string name="next_tag">"Próxima etiqueta"</string>
+<string name="recording_play">"Reproducir a gravación"</string>
+<string name="clip_duration_tip">"Editar duración"</string>
+<string name="record_setting">"Configuración da gravación"</string>
+<string name="file_type">Tipo de arquivo</string>
+<string name="type_amr">Tipo AMR</string>
+<string name="type_3gpp">Tipo 3gpp</string>
+<string name="save_path">"Camiño almacenado"</string>
+<string name="set_timer_recording">"Definir a temporización da gravación"</string>
+<string name="timer_recording_detail">"Comezar a gravación en <xliff:g id="hours">%s</xliff:g>:<xliff:g id="minutes">%s</xliff:g> para <xliff:g id="COUNTS">%s</xliff:g>"</string>
+<string name="view_file_details">Ver detalles</string>
+<string name="file_size">"Tamaño do ficheiro:"</string>
+<string name="file_date">"Data do ficheiro:"</string>
+<string name="recording_start_time">"Hora de inicio da gravación"</string>
+<string name="recording_duration">"Tempo de duración da gravación"</string>
+<string name="tuned_timer_recording">"Temporización da gravación desactivada"</string>
+<string name="miss_timer_recording">"Falta a temporización da gravación"</string>
+<string name="miss_timer_time">"Hora: <xliff:g id="TIME">%s</xliff:g>"</string>
+<string-array name="duration_hours">
+<item>"hora"</item>
+<item>"Horas"</item>
+</string-array>
+<string-array name="timer_recording_time">
+<item>"A temporización da gravación está configurada para antes de 1 minuto desde agora."</item>
+<item>"A temporización da gravación está configurada para <xliff:g id="HOURS">%1$s</xliff:g> desde agora."</item>
+<item>"A temporización da gravación está configurada para <xliff:g id="MINUTES">%2$s</xliff:g> desde agora."</item>
+<item>"A temporización da gravación está configurada para <xliff:g id="HOURS">%1$s</xliff:g> e <xliff:g id="MINUTES">%2$s</xliff:g> desde agora."</item>
+</string-array>
+<plurals name="hours">
+<item quantity="one">1 hora</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> horas"</item>
+</plurals>
+<plurals name="minutes">
+<item quantity="one">1 minuto</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> minutos"</item>
+</plurals>
+<string name="start_record">"comezar gravación"</string>
+<string name="resume_record">"retomar gravación"</string>
+<string name="start_play">"iniciar reprodución"</string>
+<string name="resume_play">"retomar reprodución"</string>
+<string name="reset_timer_recording">"Outro programa está a usar o dispositivo de gravación, restableza a temporización da gravación."</string>
+<string name="storage_not_enough">"Non hai almacenamento suficiente, non se puido iniciar a gravación."</string>
+<string name="phone_storage_not_enough">"Non hai almacenamento suficiente no teléfono."</string>
+<string name="illegal_chars_of_filename">"O nome do ficheiro non pode conter caracteres ilegais \\:*?\"\u003C\u003E|/"</string>
+<string name="hour">h</string>
+<string name="min">m</string>
+<string name="start">Iniciar</string>
+<string name="record">"REC"</string>
+<string name="timeset">"Temporizador configurado"</string>
+<string name="starttimeandduration">"Hora de inicio/duración da gravación"</string>
+<string name="local_record">"Gravación local"</string>
+<string name="call_record">"Gravación de chamada"</string>
+<string name="clip_time">"Duración do clip"</string>
+<string name="clip_name_suffix">"Clip"</string>
+<string name="file_choose">"Elección de ficheiro"</string>
+<string name="save_dialog_title">"Póñalle nome ao novo ficheiro de gravación"</string>
+<string name="keep_original_file">"Conservar o ficheiro orixinal"</string>
+<string name="save_successful">"Gardouse correctamente. Camiño de gardado:<xliff:g id="FILEPATH">%1$s</xliff:g>"</string>
+<string name="save_failed">"Erro ao gardar"</string>
+<string name="recording_now">"Gravando"</string>
+<string name="recording_pause">"Gravación en pausa..."</string>
+<string name="record_pause">Pausa</string>
+<string name="record_stop">Parada</string>
+<string name="record_timer">"Temporización da gravación"</string>
+<string name="record_miss">"Falta a temporización da gravación"</string>
+<string name="close_timer">"Pechar a temporización da gravación"</string>
+<string name="soundrecording">Rexistrando</string>
+<string name="pauserecording">"Poñer en pausa a gravación"</string>
+<string name="clip_file_exit">"O nome de ficheiro está repetido. Insírao de novo"</string>
+<string name="autosaverecord">"Gardar automaticamente a gravación"</string>
+<string name="auto_save">"O gardado automático cando a gravación se realiza correctamente"</string>
+<string name="new_record">"Novo rexistro"</string>
+<string name="speak_open">"Modo receptor activado"</string>
+<string name="speak_close">"Modo receptor desactivado"</string>
+<string name="hour_duration">"<xliff:g id="hour">%s</xliff:g>H"</string>
+<string name="button_set">Axuste</string>
+<string name="button_tag">Etiqueta</string>
+<string name="button_list">Lista</string>
+<string name="type_mp3">"tipo mp3"</string>
+<string name="record_mp3">"tipo mp3(alta calidade)"</string>
+<string name="file_rename">"O nome de ficheiro está repetido, non se pode gardar"</string>
+<string name="background_speak_close">"O receptor non pode funcionar en segundo plano e está pechado"</string>
+<plurals name="confirm_delfile">
+<item quantity="one">"Está seguro de que quere eliminar o ficheiro?"</item>
+<item quantity="other">¿Está seguro que desexa borrar os arquivos?</item>
+</plurals>
+<string name="mode_change">"O cambio ao modo de audio precisa tempo; agarde..."</string>
+<string name="rename_button">"Deixar"</string>
+<string name="record_stop_and_save">"DETER E GARDAR"</string>
+<string name="no_sd_write_permission">"A aplicación Gravadora de audio non ten acceso á tarxeta SD, autorícea ou baleire o almacenamento da aplicación e repita a operación."</string>
+<string name="confirm">"ok"</string>
+<string name="superuser_request_confirm">"A Gravadora de audio non ten acceso á súa tarxeta SD, seleccione a tarxeta externa SANDISK SD do directorio raíz e autorice a Gravadora de audio para operar."</string>
+<string name="share_max_warning">"Seleccionáronse máis de 100 ficheiros, e a función de compartir non está dispoñible"</string>
+<string name="exit_multiwindow_tips">"A gravadora de son non admite o modo de xanela múltiple, use a gravadora de son en modo de pantalla completa."</string>
+</resources>

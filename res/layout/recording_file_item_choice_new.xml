@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by Spreadst -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/record_item_container"
+                android:layout_width="match_parent"
+                android:layout_height="60dp">
+
+    <CheckBox
+        android:id="@+id/recode_checkbox"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:button="@drawable/checkbox_style"
+        android:checked="false"
+        android:clickable="false"
+        android:focusable="false"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginBottom="14dp"
+        android:gravity="center_vertical"/>
+
+    <RelativeLayout
+        android:id="@+id/middle_display"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop="12dp"
+        android:layout_toRightOf="@+id/recode_checkbox">
+        <TextView
+            android:id="@+id/record_displayname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:ellipsize="middle"
+            android:singleLine="true"
+            android:textColor="#202020"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/record_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/record_displayname"
+            android:layout_marginTop="3dp"
+            android:textColor="#7d7d7d"
+            android:textSize="10sp"/>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/record_duration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="13dp"
+        android:layout_marginTop="20dp"
+        android:maxLines="1"
+        android:textColor="#afafaf"
+        android:textSize="16sp"/>
+
+</RelativeLayout>

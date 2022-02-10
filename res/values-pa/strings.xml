@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">ਆਵਾਜ਼ ਰਿਕਾਰਡਰ</string>
+<string name="record_your_message">ਆਪਣਾ ਸੰਦੇਸ਼ ਰਿਕਾਰਡ ਕਰੋ</string>
+<string name="message_recorded">ਸੰਦੇਸ਼ ਰਿਕਾਰਡ ਕੀਤਾ ਗਿਆ</string>
+<string name="review_message">ਸੰਦੇਸ਼ ਸ਼ੁਰੂ</string>
+<string name="recording">ਰਿਕਾਰਡਿੰਗ</string>
+<string name="recording_stopped">"ਰਿਕਾਰਡਿੰਗ ਰੁਕ ਗਈ"</string>
+<string name="recording_save">ਰਿਕਾਰਡਿੰਗ ਸੇਵ ਕੀਤੀ ਗਈ</string>
+<string name="recording_nosave">ਰਿਕਾਰਡਿੰਗ ਸੇਵ ਨਹੀਂ ਕੀਤਾ ਗਿਆ</string>
+<string name="storage_is_full">ਸਟੋਰੇਜ ਪੂਰਨ ਹੈ</string>
+<string name="max_length_reached">ਅਧਿਕਤਮ ਲੰਬਾਈ ਤੇ ਪਹੁੰਚੀ</string>
+<string name="phone_message">"ਕਾਲ ਕਰਦੇ ਸਮੇਂ ਅਵਾਜ਼ ਰਿਕਾਰਡਰ ਚਾਲੂ ਨਹੀਂ ਕਰ ਸਕਦਾ।"</string>
+<string name="min_available">"ਬਾਰੇ <xliff:g id="minutes">%d</xliff:g> ਮਿੰਟ ਉਪਲਬਧ"</string>
+<string name="min_and_time_available">ਲਗਭਗ <xliff:g id="minutes">%d</xliff:g> ਮਿੰਟ ਅਤੇ <xliff:g id="seconds">%d</xliff:g> ਸਕਿੰਟ ਉਪਲਬਧ</string>
+<string name="sec_available">"ਬਾਰੇ <xliff:g id="seconds">%d</xliff:g> ਸਕਿੰਟ ਉਪਲਬਧ"</string>
+<string name="accept">ਸੁਰੱਖਿਅਤ ਕਰੋ</string>
+<string name="discard">ਹਟਾਉ</string>
+<string name="button_ok">ਸੁਰੱਖਿਅਤ ਕਰੋ</string>
+<string name="press_record">ਰਿਕਾਰਡ ਦਬਾਉ</string>
+<string name="audio_db_artist_name">ਤੁਹਾਡੀਆਂ ਰਿਕਾਰਡਿੰਗਾਂ।</string>
+<string name="audio_db_album_name">ਆਡੀਓ ਰਿਕਾਰਡਿੰਗਾਂ</string>
+<string name="audio_db_playlist_name">ਮੇਰੀਆਂ ਰਿਕਾਰਡਿੰਗਾਂ</string>
+<string name="error_app_internal">ਅੰਦਰੂਨੀ ਅਨੁਪ੍ਰਯੋਗ ਤੁਰੱਟੀ</string>
+<string name="error_mediadb_new_record">ਰਿਕਾਰਡ ਕੀਤੇ ਆਡੀਓ ਨੂੰ ਸੇਵ ਕਰਨ ਵਿੱਚ ਅਸਮਰਥ</string>
+<string name="save">ਸੁਰੱਖਿਅਤ ਕਰੋ</string>
+<string name="select_file_type">ਰਿਕਾਰਡ ਫਾਈਲ ਪ੍ਰਕਾਰ ਚੁਣੋ</string>
+<string name="record_amr">"AMR (ਘੱਟ-ਗੁਣਵੱਤਾ)"</string>
+<string name="record_3gpp">"3GPP (ਉੱਚ-ਦਰਜਾ)"</string>
+<string name="button_cancel">ਰੱਦ ਕਰੋ</string>
+<string name="path_save">"ਡਿਫਾਲਟ ਪਾਥ ਸੇਵ ਹੋ ਗਿਆ ਹੈ"</string>
+<string name="path_nosave">"ਡਿਫਾਲਟ ਪਾਥ ਸੇਵ ਨਹੀਂ ਹੋਇਆ"</string>
+<string name="path_default">"ਮੌਜੂਦਾ ਪਾਥ ਲਿਖਣ ਯੋਗ ਜਾਂ ਗਲਤ ਨਹੀਂ ਹੈ, ਇਹ ਅੰਦਰੂਨੀ ਸਟੋਰੇਜ਼ ਪਾਥ ਦਾ ਮਾਰਗ ਹੈ"</string>
+<string name="menu_set_save_path">ਮਾਰਗ ਸੁਰੱਖਿਅਤ ਕਰੋ ਨੂੰ ਸੈਟ ਕਰੋ</string>
+<string name="back">ਪਿੱਛੇ...</string>
+<string name="path_label">"ਵਿੱਚ ਸੁਰੱਖਿਅਤ ਕਰੋ"</string>
+<string name="pause">"ਰੋਕੋ"</string>
+<string name="storage_is_not_enough">ਸਟੋਰੇਜ ਕਾਫੀ ਨਹੀਂ ਹੈ</string>
+<string name="menu_recording_file_list">"ਰਿਕਾਰਡਿੰਗਜ਼"</string>
+<string name="recording_list_empty">ਖਾਲੀ ਸੂਚੀ</string>
+<string name="menu_recording_list_select_all">ਸਾਰੇ ਚੁਣੋ</string>
+<string name="menu_recording_list_delete">ਮਿਟਾਓ</string>
+<string name="menu_recording_list_deselect_all">ਨਾ ਚੁਣਨ</string>
+<string name="recording_file_delete_success">ਰਿਕਾਰਡਿੰਗ ਮਿਟਾਈ ਗਈ</string>
+<string name="recording_file_database_failed">ਡਾਟਾਬੇਸ ਫਾਇਲ ਮਿਟਾਉਣ ਵਿੱਚ ਅਸਫ਼ਲ ਹੋਇਆ</string>
+<string name="recording_file_delete_failed">ਰਿਕਾਰਡਿੰਗ ਫਾਇਲ ਮਿਟਾਉਣ ਵਿੱਚ ਅਸਫ਼ਲ ਹੋਇਆ</string>
+<string name="confirm_del">ਕੀ ਤੁਸੀ ਫਾਇਲਾਂ ਮਿਟਾਉਣ ਲਈ ਸੁਨਿਸ਼ਚਿਤ ਹੋਂ?</string>
+<string name="button_delete">ਮਿਟਾਓ</string>
+<string name="recording_file_delete_alert_title">ਮਿਟਾਓ</string>
+<string name="recording_file_delete_alert_message">ਕੀ ਤੁਸੀ %1$s ਨੂੰ ਮਿਟਾਉਣ ਲਈ ਸੁਨਿਸ਼ਚਿਤ ਹੋਂ?</string>
+<string name="less_than_one_second">1 ਸੈਕਿੰਡ</string>
+<string name="is_scanning">ਮੀਡਿਆ ਸਕੈਨਰ ਹੁਣ ਸਕੈਨ ਕਰ ਰਿਹਾ ਹੈਸ ਕਿਰਪਾ ਕਰਕੇ ਠਹਿਰੋ...</string>
+<string name="emptylist">ਸੂਚੀ ਖਾਲੀ ਹੈ</string>
+<string name="choose_file">ਕਿਰਪਾ ਕਰਕੇ ਉਹ ਰਿਕਾਰਡਿੰਗ ਚੁਣੋ ਜੋ ਫਾਈਲਾਂ ਤੁਸੀਂ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ!</string>
+<string name="error_path">ਜੋ ਮਾਰਗ ਤੁਸੀਂ ਚੁਣਿਆ ਹੈ ਉਹ ਮੌਜੂਦ ਨਹੀਂ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਰੀ-ਸੈਟ ਕਰੋ!</string>
+<string name="path_miss">"ਸਟੋਰ ਕੀਤਾ ਪਾਥ ਮੌਜੂਦ ਨਹੀਂ ਹੈ ਜਾਂ ਐਕਸੈੱਸ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ!"</string>
+<string name="file_is_corrupt">"ਫਾਈਲ ਕਰੱਪਟ ਹੈ"</string>
+<string name="low_memory">"ਮੈਮੋਰੀ ਕਾਫ਼ੀ ਨਹੀਂ ਹੈ, ਰਿਕਾਰਡਿੰਗ ਬੰਦ ਹੋ ਜਾਵੇਗੀ!"</string>
+<string name="record_error">ਰਿਕਾਰਡ ਕਰਦੇ ਸਮੇਂ ਇੱਕ ਐਕਸੈਪਸ਼ਨ ਵਾਪਰੀ!</string>
+<string name="play_error">"ਮਿਊਜ਼ਿਕ ਪਲੇਅਰ ਡਿਸਏਬਲਡ ਕੀਤਾ ਗਿਆ ਹੈ, ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਅਨਏਬਲ ਕਰੋ!"</string>
+<string name="dialog_title">ਕਿਰਪਾ ਕਰਕੇ ਚੁਣੋ</string>
+<string name="dialog_message">"ਰਿਕਾਰਡਿੰਗ ਸੇਵ ਕਰੋ?"</string>
+<string name="same_application_running">"ਰਿਕਾਰਡਿੰਗ ਡਿਵਾਈਸ ਨੂੰ ਕਿਸੇ ਹੋਰ ਪ੍ਰੋਗਰਾਮ ਦੁਆਰਾ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਪ੍ਰੋਗਰਾਮ ਨੂੰ ਬੰਦ ਕਰੋ!"</string>
+<string name="recording_time_short">ਰਿਕਾਰਡ ਕਰਨ ਦਾ ਸਮਾਂ 1 ਸਕਿੰਟ ਤੋਂ ਘੱਟ ਹੈ, ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਕੀਤਾ</string>
+<string name="file_path_button">"ਫਾਈਲ ਪਾਥ"</string>
+<string name="file_name">"ਫਾਈਲ ਨਾਮ："</string>
+<string name="file_path">"ਫਾਈਲ ਪਾਖ："</string>
+<string name="rename">ਦੁਬਾਰਾ ਨਾਮ ਦਿਓ</string>
+<string name="rename_save">"ਸਫ਼ਲਤਾਪੂਰਕ ਨਾਂ ਬਦਲੋ"</string>
+<string name="rename_nosave">"ਨਾਮ ਬਦਲਣਾ ਅਸਫਲ"</string>
+<string name="filename_is_not_modified">"ਫਾਈਲ ਨਾਂ ਸੰਸ਼ੋਧਿਤ ਨਹੀਂ ਹੈ"</string>
+<string name="duplicate_name">"ਫਾਈਲ ਨਾਂ ਡੁਪਲੀਕੇਟ"</string>
+<string name="soundpicker_label">ਕਿਰਪਾ ਕਰਕੇ ਰਿਕਾਰਡਿੰਗ ਫਾਈਲ ਚੁਣੋ</string>
+<string name="error_sdcard_path">"SD ਕਾਰਡ ਮੌਜੂਦ ਨਹੀਂ ਹੈ. ਡਿਫਾਲਟ ਸੇਵ ਪਾਥ ਨੂੰ ਅੰਦਰੂਨੀ ਸਟੋਰੇਜ ਵਿੱਚ ਬਦਲਿਆ ਜਾਂਦਾ ਹੈ."</string>
+<string name="input_length_overstep">"ਇਨਪੁਟ ਅਧਿਕਤਮ ਲੰਬਾਈ ਤੇ ਪਹੁੰਚ ਗਿਆ ਹੈ"</string>
+<string name="filename_empty_error">"ਫਾਈਲ ਨਾਂ ਖਾਲੀ ਨਹੀਂ ਹੋ ਸਕਦਾ, ਅਸਲੀ ਨਾਂ ਸੁਰੱਖਿਅਤ ਕਰੋ"</string>
+<string name="please_choose_files">"ਕਿਰਪਾ ਕਰਕੇ ਫਾਈਲਾਂ ਚੁਣੋ"</string>
+<string name="selected_files_count">"<xliff:g id="COUNTS">%d</xliff:g>ਚੁਣਿਆ ਹੈ"</string>
+<string name="use_default_path">"ਸਟੋਰ ਕੀਤਾ ਮਾਰਗ ਮੌਜੂਦ ਨਹੀਂ ਹੈ, ਡਿਫੌਲਟ ਮਾਰਗ ਵਰਤੋ"</string>
+<string name="stroage_not_mounted">"ਸਟੋਰੇਜ ਨੂੰ ਮਾਊਂਟ ਨਹੀਂ ਕੀਤਾ ਗਿਆ"</string>
+<string name="special_char_exist">"ਖ਼ਾਸ ਚਿੰਨ੍ਹ <xliff:g id="COUNTS">%s</xliff:g> ਸਮਰਥਿਤ ਨਹੀਂ ਹਨ "</string>
+<string name="menu_select_more">ਹੋਰ ਚੁਣੋ</string>
+<string name="menu_select_type">"ਫਾਈਲ ਪ੍ਰਕਾਰ ਸੈਟ ਕਰੋ"</string>
+<string name="path_miss_nosave">"ਸਟੋਰ ਕੀਤਾ ਮਾਰਗ ਮੌਜੂਦ ਨਹੀਂ ਹੈ, ਰਿਕਾਰਡਿੰਗ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਕੀਤੀ ਗਈ ਸੀ！"</string>
+<string name="dialog_dismiss">ਖਰਿਜ ਕਰੋ</string>
+<string name="internal_sdcard">"ਅੰਦਰੂਨੀ SD ਕਾਰਡ"</string>
+<string name="external_sdcard">"ਬਾਹਰੀ SD ਕਾਰਡ"</string>
+<string name="internal_storage">"ਫੋਨ"</string>
+<string name="external_storage">SD ਕਾਰਡ</string>
+<string name="set_as_ring">"ਰਿੰਗਟੋਨ ਦੇ ਤੌਰ ਤੇ ਸੈੱਟ ਕਰੋ"</string>
+<string name="read_file_path">"ਫਾਈਲ ਮਾਰਗ ਦੇਖੋ"</string>
+<string name="operate_share">ਸਾਂਝਾ ਕਰੋ</string>
+<string name="ringtone_title_sim1">SIM1 ਫੋਨ ਦੀ ਰਿੰਗਟੋਨ</string>
+<string name="ringtone_title_sim2">"SIM2 ਫੋਨ ਰਿੰਗਟੋਨ"</string>
+<string name="ringtone_menu_short">ਰਿੰਗਟੋਨ ਦੇ ਰੂਪ ਵਿੱਚ ਵਰਤੋ</string>
+<string name="please_insert_sim_card">ਕਿਰਪਾ ਕਰਕੇ ਘੱਟੋ ਘੱਟ ਇੱਕ SIM ਕਾਰਡ ਪਾਓ</string>
+<string name="ring_set_silent_vibrate">"ਵਰਤਮਾਨ ਮੋਡ ਤੇ ਕਸਟਮ ਰਿੰਗਟੋਨਾਂ ਸਮਰੱਥਿਤ ਨਹੀਂ ਹਨ"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ਨੂੰ SIM1 ਫੋਨ ਰਿੰਗਟੋਨ ਦੇ ਤੌਰ ਤੇ ਸੈਟ ਕਰੋ।"</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ਨੂੰ SIM2 ਫੋਨ ਰਿੰਗਟੋਨ ਦੇ ਤੌਰ ਤੇ ਸੈਟ ਕਰੋ।"</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ਨੂੰ ਫੋਨ ਰਿੰਗਟੋਨ ਦੇ ਤੌਰ ਤੇ ਸੈਟ ਕਰੋ।"</string>
+<string name="ring_set_fail">ਮਾਫ ਕਰਨਾ, ਗਾਣਾ ਪਲੇ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕੇਗਾ। ਕਿਰਪਾ ਕਰਕੇ ਰਿੰਗਟੋਨ ਦੇ ਤੌਰ ਤੇ ਦੂਜਾ ਗਾਣਾ ਚੁਣੋ</string>
+<string name="tag_limit">"ਟੈਗਾਂ ਦੀ ਅਧਿਕਤਮ ਸੰਖਿਆ ਪੂਰੀ ਹੋਈ"</string>
+<string name="playback_failed">"ਪਲੇਅਰ ਇਸ ਪ੍ਰਕਾਰ ਦੀ ਆੱਡਿਓ ਫਾਈਲ ਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦਾ।"</string>
+<string name="tag">ਟੈਗ</string>
+<string name="previous_tag">"ਪਿਛਲਾ ਟੈਗ"</string>
+<string name="next_tag">"ਅਗਲਾ ਟੈਗ"</string>
+<string name="recording_play">"ਰਿਕਾਰਡਿੰਗ ਪਲੇ"</string>
+<string name="clip_duration_tip">"ਲੰਮਾਈ ਸੰਪਾਦਿਤ ਕਰੋ"</string>
+<string name="record_setting">ਸੈਟਿੰਗਸ</string>
+<string name="file_type">ਫਾਰਮੈਟ ਕਰੋ</string>
+<string name="type_amr">"AMR"</string>
+<string name="type_3gpp">"3GPP"</string>
+<string name="save_path">ਸਥਿਤੀ ਸੇਵ ਕਰੋ</string>
+<string name="set_timer_recording">"ਸ਼ਡਿਊਲਡ ਰਿਕਾਰਡਿੰਗ"</string>
+<string name="timer_recording_detail">"<xliff:g id="hours">%s</xliff:g>:<xliff:g id="minutes">%s</xliff:g> ਤੇ <xliff:g id="COUNTS">%s</xliff:g>ਤੱਕ ਰਿਕਾਰਡ ਸ਼ੁਰੂ ਕਰੋ"</string>
+<string name="view_file_details">ਵੇਰਵੇ ਦੇਖੋ</string>
+<string name="file_size">"ਫਾਈਲ ਦਾ ਆਕਾਰ："</string>
+<string name="file_date">"ਫਾਈਲ ਦੀ ਤਾਰੀਖ："</string>
+<string name="recording_start_time">"ਰਿਕਾਰਡਿੰਗ ਸ਼ੁਰੂ ਕਰਨ ਦਾ ਸਮਾਂ"</string>
+<string name="recording_duration">"ਰਿਕਾਰਡਿੰਗ ਮਿਆਦ ਘੰਟਾ"</string>
+<string name="tuned_timer_recording">"ਟਾਈਮਰ ਰਿਕਾਰਡਿੰਗ ਚਾਲੂ ਹੈ"</string>
+<string name="miss_timer_recording">"ਲੁਪਤ ਟਾਈਮਰ ਰਿਕਾਰਡਿੰਗ"</string>
+<string name="miss_timer_time">"ਸਮਾਂ: <xliff:g id="TIME">%s</xliff:g>"</string>
+<string-array name="duration_hours">
+<item>" ਘੰਟਾ"</item>
+<item>" ਘੰਟੇ"</item>
+</string-array>
+<string-array name="timer_recording_time">
+<item>"ਟਾਈਮਰ ਰਿਕਾਰਡਿੰਗ ਹੁਣ ਤੋਂ  1 ਮਿੰਟ ਤੋਂ ਘੱਟ ਲਈ ਸੈਟ ਹੈ।"</item>
+<item>"ਟਾਈਮਰ ਰਿਕਾਰਡਿੰਗ ਹੁਣ ਤੋਂ <xliff:g id="HOURS">%1$s</xliff:g> ਲਈ ਸੈਟ ਹੈ।"</item>
+<item>"ਟਾਈਮਰ ਰਿਕਾਰਡਿੰਗ ਹੁਣ ਤੋਂ <xliff:g id="MINUTES">%2$s</xliff:g> ਲਈ ਸੈਟ ਹੈ।"</item>
+<item>"ਟਾਈਮਰ ਰਿਕਾਰਡਿੰਗ ਹੁਣ ਤੋਂ <xliff:g id="HOURS">%1$s</xliff:g> ਅਤੇ <xliff:g id="MINUTES">%2$s</xliff:g> ਲਈ ਸੈਟ ਹੈ।"</item>
+</string-array>
+<plurals name="hours">
+<item quantity="one">1 ਘੰਟਾ</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> ਘੰਟੇ"</item>
+</plurals>
+<plurals name="minutes">
+<item quantity="one">"1 ਮਿੰਟ"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> ਮਿੰਟ"</item>
+</plurals>
+<string name="start_record">"ਰਿਕਾਰਡ ਸ਼ੁਰੂ ਕਰੋ"</string>
+<string name="resume_record">"ਰਿਕਾਰਡ ਦੁਬਾਰਾ ਸ਼ੁਰੂ ਕਰੋ"</string>
+<string name="start_play">"ਪਲੇ ਸ਼ੁਰੂ ਕਰੋ"</string>
+<string name="resume_play">"ਪਲੇ ਦੁਬਾਰਾ ਸ਼ੁਰੂ ਕਰੋ"</string>
+<string name="reset_timer_recording">"ਰਿਕਾਰਡਿੰਗ ਡਿਵਾਈਸ ਦੂਜੇ ਪ੍ਰੋਗਰਾਮ ਵੱਲੋਂ ਪ੍ਰਯੋਗ ਵਿੱਚ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਟਾਈਮਰ ਰਿਕਾਰਡਿੰਗ ਰੀਸੈਟ ਕਰੋ!"</string>
+<string name="storage_not_enough">"ਸਟੋਰੇਜ ਕਾਫ਼ੀ ਨਹੀਂ ਹੈ, ਰਿਕਾਰਡਿੰਗ ਸ਼ੁਰੂ ਕਰਨ ਵਿੱਚ ਅਸਫ਼ਲ!"</string>
+<string name="phone_storage_not_enough">"ਫੋਨ ਸਟੋਰੇਜ ਕਾਫੀ ਨਹੀਂ ਹੈ!"</string>
+<string name="illegal_chars_of_filename">"ਫਾਈਲ ਦੇ ਨਾਮ ਵਿੱਚ ਅਵੈਧ ਅੱਖਰ \\:*?"\u003C&gt;।/ ਨਹੀਂ ਹੋ ਸਕਦੇ</string>
+<string name="hour">"h"</string>
+<string name="min">M</string>
+<string name="start">ਸ਼ੁਰੂ ਕਰੋ</string>
+<string name="record">"ਰੇਕ"</string>
+<string name="timeset">"ਟਾਈਮਰ ਸੈੱਟ ਕਰੋ"</string>
+<string name="starttimeandduration">"ਸ਼ੁਰੂਆਤੀ ਸਮਾਂ \u0026 ਮਿਆਦ"</string>
+<string name="local_record">"ਸਥਾਨਕ ਰਿਕਾਰਡ"</string>
+<string name="call_record">"ਕਾਲ ਰਿਕਾਰਡ"</string>
+<string name="clip_time">"ਕਲਿੱਪ ਦਾ ਸਮਾਂ"</string>
+<string name="clip_name_suffix">"ਕਲਿੱਪ"</string>
+<string name="file_choose">"ਫਾਈਲ ਚੁਣੋ"</string>
+<string name="save_dialog_title">"ਨਵੀਂ ਰਿਕਾਰਡਿੰਗ"</string>
+<string name="keep_original_file">"ਅਸਲ ਫਾਈਲ ਰੱਖੋ"</string>
+<string name="save_successful">"ਸੇਵ ਸਫਲ ਰਿਹਾ!ਸੇਵ ਪਾਥ: <xliff:g id="FILEPATH">%1$s</xliff:g>"</string>
+<string name="save_failed">"ਸੁਰੱਖਿਅਤ ਕਰਨਾ ਅਸਫਲ ਹੋਇਆ!"</string>
+<string name="recording_now">"ਰਿਕਾਰਡਿੰਗ ਕਰ ਰਿਹਾ ਹੈ..."</string>
+<string name="recording_pause">"ਰਿਕਾਰਡਿੰਗ ਰੋਕੀ ਗਈ..."</string>
+<string name="record_pause">"ਰੋਕੋ"</string>
+<string name="record_stop">ਬੰਦ ਕਰਨਾ</string>
+<string name="record_stop_and_save">"ਸਟਾਪ ਅਤੇ ਸੇਵ"</string>
+<string name="record_timer">"ਟਾਈਮਰ ਰਿਕਾਰਡ"</string>
+<string name="record_miss">"ਛੁੱਟਿਆ ਟਾਈਮਰ ਰਿਕਾਰਡ"</string>
+<string name="close_timer">"ਟਾਈਮਰ ਰਿਕਾਰਡ ਬੰਦ ਕਰੋ"</string>
+<string name="soundrecording">ਰਿਕਾਰਡਿੰਗ</string>
+<string name="pauserecording">"ਰਿਕਾਰਡ ਰੋਕੋ"</string>
+<string name="clip_file_exit">"ਫਾਈਲ ਦਾ ਨਾਮ ਦੁਹਰਾਇਆ ਗਿਆ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਨੂੰ ਦੁਬਾਰਾ ਦਰਜ ਕਰੋ"</string>
+<string name="autosaverecord">"ਆਟੋ ਸੇਵ"</string>
+<string name="auto_save">"ਰਿਕਾਰਡਿੰਗਸ ਨੂੰ ਆਪਣੇ ਆਪ ਸੇਵ ਕਰਦਾ ਹੈ"</string>
+<string name="new_record">"ਨਵਾਂ ਰਿਕਾਰਡ"</string>
+<string name="speak_open">"ਰਿਸੀਵਰ ਮੋਡ ਚਾਲੂ ਹੈ"</string>
+<string name="speak_close">"ਰਿਸੀਵਰ ਮੋਡ ਬੰਦ ਹੈ"</string>
+<string name="hour_duration">"<xliff:g id="hour">%s</xliff:g>H"</string>
+<string name="button_set">ਸੈਟ ਕਰੋ</string>
+<string name="button_tag">ਟੈਗ</string>
+<string name="button_list">ਸੂਚੀ</string>
+<string name="type_mp3">"MP3"</string>
+<string name="record_mp3">"MP3 (ਉੱਚ-ਗੁਣਵੱਤਾ)"</string>
+<string name="file_rename">"ਫਾਈਲ ਦਾ ਨਾਮ ਦੁਹਰਾਇਆ ਗਿਆ ਹੈ, ਇਹ ਸੇਵ ਨਹੀਂ ਕੀਤਾ ਗਿਆ"</string>
+<string name="background_speak_close">"ਰਿਕਾਰਡ ਪਲੇਅ ਬੈਕਗਰਾਊਂਡ ਵਿੱਚ ਕੰਮ ਨਹੀਂ ਕਰ ਸਕਦਾ ਅਤੇ ਬੰਦ ਹੈ"</string>
+<plurals name="confirm_delfile">
+<item quantity="one">"ਕੀ ਤੁਸੀਂ ਇਸ ਫਾਈਲ ਨੂੰ ਯਕੀਨੀ ਤੌਰ \'ਤੇ ਡਿਲੀਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</item>
+<item quantity="other">ਕੀ ਤੁਸੀ ਫਾਇਲਾਂ ਮਿਟਾਉਣ ਲਈ ਸੁਨਿਸ਼ਚਿਤ ਹੋਂ?</item>
+</plurals>
+<string name="mode_change">"ਆਡੀਓ ਮੋਡ ਦੇ ਬਦਲਣ ਲਈ ਸਮਾਂ ਚਾਹੀਦਾ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਇੰਤਜ਼ਾਰ ਕਰੋ..."</string>
+<string name="rename_button">"ਅਬੈਨਡਨ"</string>
+<string name="no_sd_write_permission">"ਸਾਊਂਡ ਰਿਕਾਰਡਰ ਦੇ ਕੋਲ ਤੁਹਾਡੇ SD ਕਾਰਡ ਦੀ ਐਕਸੈਸ ਨਹੀਂ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਨੂੰ ਪ੍ਰਮਾਣਿਤ ਕਰੋ ਜਾਂ ਐਪਲੀਕੇਸ਼ਨ ਦੀ ਸਟੋਰੇਜ ਨੂੰ ਖਾਲੀ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਓਪਰੇਟ ਕਰੋ."</string>
+<string name="confirm">OK</string>
+<string name="recording_file_list">"ਰਿਕਾਰਡਿੰਗਜ਼"</string>
+<string name="no_allow_play_calling">"ਕਾਲ ਦੇ ਦੌਰਾਨ ਕੋਈ ਆਡੀਓ ਫਾਈਲ ਨਹੀਂ ਚਲਾਈ ਜਾ ਸਕਦੀ."</string>
+<string name="error_permissions">"ਐਪ ਕੋਲ ਚਲਾਉਣ ਲਈ ਲੋੜੀਂਦੀਆਂ ਮਹੱਤਵਪੂਰਣ ਪ੍ਰਵਾਨਗੀਆਂ ਨਹੀਂ ਹਨ. ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਪ੍ਰਵਾਨਗੀ ਸੈਟਿੰਗਜ਼ ਦੀ ਜਾਂਚ ਕਰੋ."</string>
+<string name="superuser_request_confirm">"ਸਾਊਂਡ-ਰਿਕਾਰਡਰ ਦੀ ਤੁਹਾਡੇ SD ਕਾਰਡ ਤੱਕ ਪਹੁੰਚ ਨਹੀਂ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਬਾਹਰੀ ਰੂਟ ਡਾਇਰੈਕਟਰੀ SANDISK SD ਕਾਰਡ ਦੀ ਚੋਣ ਕਰੋ ਅਤੇ ਸਾਊਂਡ-ਰਿਕਾਰਡਰ ਨੂੰ ਚਲਾਉਣ ਲਈ ਅਧਿਕਾਰਤ ਕਰੋ।"</string>
+<string name="share_max_warning">"100 ਫਾਈਲਾਂ ਤੋਂ ਵੱਧ ਚੁਣੀਆਂ ਗਈਆਂ ਹਨ, ਅਤੇ ਸ਼ੇਅਰ ਫੰਕਸ਼ਨ ਮੌਜੂਦ ਨਹੀਂ ਹੈ"</string>
+<string name="exit_multiwindow_tips">"ਸਾਉਂਡ ਰਿਕੋਰਡਰ ਮਲਟੀਵਿੰਡੋ ਮੋਡ ਨੂੰ ਸੁਪੋਰਟ ਨਹੀਂ ਕਰਦਾ, ਕਿਰਪਾ ਕਰਕੇ ਫੁੱਲ ਸਕਰੀਨ ਵਿੱਚ ਸਾਉਂਡ ਰਿਕੋਰਡਰ ਦੀ ਵਰਤੋਂ ਕਰੋ।"</string>
+</resources>

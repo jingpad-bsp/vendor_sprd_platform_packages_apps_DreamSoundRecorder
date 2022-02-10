@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Spreadst -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@android:id/background"
+        android:layout_height="3dp"
+        android:drawable="@color/play_no_progress">
+    </item>
+    <item android:id="@android:id/secondaryProgress">
+        <scale
+            android:layout_height="3dp"
+            android:drawable="@color/play_no_progress"
+            android:scaleWidth="100%" />
+    </item>
+    <item android:id="@android:id/progress">
+        <scale
+            android:layout_height="2dp"
+            android:drawable="@color/menu_color_blue"
+            android:scaleWidth="100%" />
+    </item>
+
+</layer-list>

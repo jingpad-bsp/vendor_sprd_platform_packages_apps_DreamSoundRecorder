@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Spreadst -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/item_speak"
+        android:icon="@drawable/ear_speak"
+        android:showAsAction="always"
+        android:title="@string/record_setting"/>
+</menu>

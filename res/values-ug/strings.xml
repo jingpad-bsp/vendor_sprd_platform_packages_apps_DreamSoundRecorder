@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">ئۈن ئالغۇ</string>
+  <string name="record_your_message">ئۇچۇرىڭىزنى خاتىرلىدى</string>
+  <string name="message_recorded">ئۇچۇر خاتىرلەندى</string>
+  <string name="review_message">ئۇچۇر رېتىمى</string>
+  <string name="recording">ئۈن ئېلىۋاتىدۇ</string>
+  <string name="recording_save">خاتىرە ساقلاندى</string>
+  <string name="recording_nosave">خاتىرە ساقلانمىغان</string>
+  <string name="storage_is_full">ئىچكى ساقلىغۇچ توشۇپ كەتتى</string>
+  <string name="max_length_reached">ئەڭ چوڭ ئۇزۇنلۇققا يىتىلدى</string>
+  <string name="insert_sd_card">SD كارتىنى كۈرگۈزىڭ</string>
+  <string name="phone_message">چاقىرۋاتقان ۋاقىتتا ئاۋاز ئالغۇچى ئىشلىمەيدۇ.</string>
+  <string name="min_available"><xliff:g id="minutes">%d</xliff:g> ئىشلىتىشكە بولىدىغان مىنۇت</string>
+  <string name="sec_available"><xliff:g id="seconds">%d</xliff:g>s ئىشلىتىشكە بولىدۇ</string>
+  <string name="accept">ساقلاش</string>
+  <string name="discard">تاشلىۋىتىش</string>
+  <string name="button_ok">مۇقىملاش</string>
+  <string name="press_record">خاتىرىنى بېسىڭ</string>
+  <string name="audio_db_title_format">
+    <xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g>
+  </string>
+  <string name="audio_db_artist_name">سىزنىڭ خاتىرىڭىز</string>
+  <string name="audio_db_album_name">ئۈن خاتىرسى</string>
+  <string name="audio_db_playlist_name">مېنىڭ خاتىرەم</string>
+  <string name="error_sdcard_access">SD كارتىغا كىرگىلى بولمىدى</string>
+  <string name="error_app_internal">ئىچكى پروگرامما خاتالىقى</string>
+  <string name="error_mediadb_new_record">ئېلىنغان ئاۋازنى ساقلىيالمىدى</string>
+  <string name="select_file_type">خاتىرلەنگەن ھۆججەتلەرنىڭ تۈرىنى تاللاش</string>
+  <string name="record_amr">amrتىپلىق</string>
+  <string name="record_3gpp">3gpp شەكلى</string>
+  <string name="button_cancel">"بىكار قىلىش"</string>
+  <string name="path_save">يولى ساقلاندى</string>
+  <string name="path_nosave">يولى ساقلانمىدى</string>
+  <string name="path_default">نۆۋەتتىكى يول ھەم ئىچكى ساقلاش ھەم سىرتقى ساقلاش ئەمەس، ھازىر ئىچكى ساقلاشقا ئۆزگەرتىلىدۇ.</string>
+  <string name="menu_set_save_path">ساقلاش يولىنى تەڭشەش</string>
+  <string name="back">قايتىش</string>
+  <string name="path_label">يولنى تاللاش</string>
+  <string name="storage_is_not_enough">ساقلاش بوشلىقى يىتەرلىك ئەمەس</string>
+  <string name="menu_recording_file_list">ئاۋاز ئېلىش خاتىرسى</string>
+  <string name="menu_recording_list_select_all">ھەممىنى تاللاش</string>
+  <string name="menu_recording_list_delete">ئۆچۈرۈش</string>
+  <string name="menu_recording_list_deselect_all">ھەممىدىن چىكىنىش</string>
+  <string name="recording_file_delete_success">خاتىرە چىقىرىلۋاتىدۇ</string>
+  <string name="recording_file_database_failed">ھۆججەت ئامبىرىدىكى ماتىرىياللارنى ئۆچۈرۈش مەغلۇپ بولدى</string>
+  <string name="recording_file_delete_failed">خاتىرە قالدۇرۇلغان ماتىرىياللارنى ئۆچۈرۈش مەغلۇپ بولدى</string>
+  <string name="list_recorder_item_size_format_b">%1$s\u0020B</string>
+  <string name="list_recorder_item_size_format_kb">%1$s\u0020KB</string>
+  <string name="list_recorder_item_size_format_mb">%1$s\u0020MB</string>
+  <string name="confirm_del">چوقۇم ھۆججەتنى ئۆچۈرەمسىز؟</string>
+  <string name="button_delete">ئۆچۈرۈش</string>
+  <string name="recording_file_delete_alert_title">ئۆچۈرۈش</string>
+  <string name="recording_file_delete_alert_message">ئۈچۈرۈشنى جەزىملەشتۇرۈش%1$s ?</string>
+  <string name="recording_file_list">ئاۋاز ئېلىش خاتىرسى</string>
+  <string name="less_than_one_second">بىر سىكۇنت</string>
+  <string name="is_scanning">سىسىتىما كۆپ ۋاستىلىق ھۆججەتلەرنى سىكەننىرلەۋاتىدۇ ،سەل تۇرۇپ قايتا سىناپ بىقىڭ .</string>
+  <string name="low_memory">يانفۇن ئىچكى ساقلىغۇچىسى يىتىشمىدى ،قوللىنىشچان پىروگرامما توختىتىلىدۇ .</string>
+  <string name="emptylist">تىزىملىك قۇرۇق </string>
+  <string name="choose_file">يۇيىۋىتىدىغان ئۈن ھۆججىتىنى تاللاڭ !</string>
+  <string name="error_path">ساقلاش يولى مەۋجۇت ئەمەس ،قايتىدىن تەڭشەڭ !</string>
+  <string name="path_miss">ساقلاش يولى مەۋجۇت ئەمەس ياكى زىيارەت قىلىشقا ئامال يوق !</string>
+  <string name="record_error">ئۈ ئىلىشتا مەسىلە كۆرۈلدى !</string>
+  <string name="same_application_running">ئۈن ئىلىش ئۈسكۈنىسىنى باشقا پىروگرامما ئىشلىتىۋاتىدۇ ،ئاۋال شۇ پىروگراممىنى ئىتىۋىتىڭ !</string>
+  <string name="min_and_time_available">"تەخمىنەن <xliff:g id="minutes">%d</xliff:g> مىنۇت <xliff:g id="seconds">%d</xliff:g> قالدى"</string>
+  <string name="rename">ئىسىمنى ئۆگەرتىش</string>
+  <string name="rename_save">"قايتا نام قويۇش مۇۋاپپىقىيەتلىك بولدى"</string>
+  <string name="rename_nosave">"قايتا نام قويۇش مەغلۇب بولدى"</string>
+  <string name="soundpicker_label">"خاتىرلەش ھۆججىتىنى تاللاڭ"</string>
+  <string name="dialog_title">"تاللاڭ"</string>
+  <string name="dialog_message">"خاتىرىنى ساقلامدۇ؟"</string>
+  <string name="recording_time_short">"1 سىكۇنتتىن ئاز خاتىرلىگەن، ساقلانمىدى"</string>
+    <string name="recording_stopped">"ئاۋازغا ئېلىش توختىدى"</string>
+    <string name="save">"ساقلاش"</string>
+    <string name="pause">"ۋاقتىنچە توختاش"</string>
+    <string name="recording_list_empty">"قۇرۇق تىزىملىك"</string>
+    <string name="filename_is_not_modified">"ھۆججەت ئىسمى ئۆزگەرتىلمىدى"</string>
+    <string name="duplicate_name">"ھۆججەت ئىسمى ئوخشاش بولۇپ قالدى"</string>
+    <string name="error_sdcard_path">"كارتا مەۋجۇت ئەمەس، سۈكۈتلۈك ساقلاش لىنىيەسى سىرتقى ساقلىغۇچقا ئۆزگەرتىلدىsd"</string>
+    <string name="input_length_overstep">"كىرگۈزۈش ئەڭ چوڭ ئۇزۇنلۇققا يەتتى"</string>
+    <string name="filename_empty_error">"ھۆججەت ئىسمى قۇرۇق بولسا بولمايدۇ، ئەسلىدىكى ئىسىمنى ساقلايدۇ"</string>
+    <string name="please_choose_files">"ھۆججەتلەرنى تاللاڭ"</string>
+    <string name="selected_files_count">"نى تاللىدى<xliff:g id="COUNTS">%d</xliff:g>"</string>
+    <string name="play_error">"!مۇزىكا قويغۇچ توختىتىلدى، ھۆججەت ئاچالمىدى"</string>
+    <string name="use_default_path">"بۇ ساقلاش لىنىيەسى مەۋجۇت ئەمەس، سۈكۈتلۈك ساقلاش لىنىيەسىنى ئىشلىتىش"</string>
+    <string name="stroage_not_mounted">"ساقلىغۇچنى ئىشلەتكىلى بولمايدۇ"</string>
+    <string name="special_char_exist">"<xliff:g id="COUNTS">%s</xliff:g>ئالاھىدە بەلگىلەرنى قوللىمايدۇ"</string>
+    <string name="menu_select_more">كۆپ تاللاش</string>
+    <string name="menu_select_type">"ھۆججەت تۈرىنى تەڭشەش"</string>
+    <string name="path_miss_nosave">"!ساقلاش لىنىيەسى مەۋجۇت ئەمەس، لىنتىغا ئېلىنغان ھۆججەت ساقلانمىدى"</string>
+    <string name="file_is_corrupt">"ھۆججەت بۇزۇلغان"</string>
+     <string name="file_path_button">"ھۆججەت لىنىيەسى"</string>
+     <string name="file_name">":ھۆججەت ئىسمى"</string>
+     <string name="file_path">":ھۆججەت لىنىيەسى"</string>
+     <string name="dialog_dismiss">"تارقىلىش"</string>
+     <string name="error_permissions">"بۇ ئەپنىڭ يۇرۈشىشى ئۈچۈن ھالقىلىق ھوقۇقلار كەمچىل. ھوقۇق تەڭشىكىڭىزنى تەكشۈرۈڭ"</string>
+     <string name="internal_sdcard">"كارتاsdئىچكى"</string>
+     <string name="external_sdcard">"كارتاsdسرتقى"</string>
+     <string name="internal_storage">"ئىچكى تېلفۇننى ساقلاش"</string>
+     <string name="external_storage">سىرتقى ساقلىغۇچ</string>
+     <string name="set_as_ring">"قوڭغىراق ئاۋازى قىلىپ تەڭشەش"</string>
+     <string name="read_file_path">"ھۆججەت مۇساپىسىنى كۆرۈش"</string>
+     <string name="operate_share">بەھرىمان بولۇش</string>
+     <string name="ringtone_title_sim1">"يانڧۇن قوڭغىرىقىSIM1"</string>
+     <string name="ringtone_title_sim2">"يانڧۇن قوڭغىرىقىSIM2"</string>
+     <string name="ringtone_menu_short">"قوڭغىراق ئاۋازى قىلىپ ئىشلىتىش"</string>
+     <string name="please_insert_sim_card">"ئاز بولغاندا بىر SIM كارتا كىرگۈزۈڭ"</string>
+     <string name="ring_set_silent_vibrate">"ھازىرقى ھالەتتە خاسلىق قوڭغىراق ئاۋازىنى قوللىمايدۇ"</string>
+     <string name="ringtone_set_sim1">".نىڭ قوڭغىرىقى قىلىپ تەڭشەلدىSIMئاللىبۇرۇن1"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>""</string>
+     <string name="ringtone_set_sim2">".نىڭ قوڭغىرىقى قىلىپ تەڭشەلدىSIMئاللىبۇرۇن2"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>""</string>
+     <string name="ringtone_set">".نى يانڧۇن قوڭغىراق ئاۋازى قىلىپ تەڭشەلدى"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>""</string>
+     <string name="ring_set_fail">كەچۈرۈڭ، ناخشا قويۇلمىدى. باشقا ناخشا تاللاپ قوڭغۇراق قىلىپ بېكىتىڭ</string>
+     <string name="tag_limit">"بەلگە قىلىش سانى يۇقىرى چەككە يەتتى"</string>
+     <string name="no_allow_play_calling">".(رادىئو\سىن)سۆزلىشىش جەريانىدا مۇزىكا قويۇشقا رۇخسەت قىلىنمايدۇ"</string>
+     <string name="playback_failed">"بۇ قويغۇچ بۇ خىلدىكى ئاۋاز ھۆججىتىنى قوللىمايدۇ"</string>
+     <string name="tag">خەتكۈچ</string>
+     <string name="previous_tag">"ئالدىنقى بەلگە"</string>
+     <string name="next_tag">"كىيىنكى بەلگە"</string>
+     <string name="recording_play">"ئۈنئالغۇ قويۇش"</string>
+     <string name="clip_duration_tip">"ۋاقىت ئۇزۇنلىقىنى تەڭشەش"</string>
+     <string name="record_setting">"ئۈنئالغۇ تەڭشىكى"</string>
+     <string name="file_type">ھۆججەت ئورنى</string>
+     <string name="type_amr">"تۈرىamr"</string>
+     <string name="type_3gpp">"3تۈرىgpp"</string>
+     <string name="save_path">"ساقلانغان ئادرېسى"</string>
+     <string name="set_timer_recording">"بەلگىلەنگەن ۋاقىتتا ئۈنگە ئېلىشنى تەڭشەش"</string>
+     <string name="timer_recording_detail">"<xliff:g id="hours">%s</xliff:g>:<xliff:g id="minutes">%s</xliff:g> دە باشلىنىدۇ،داۋاملىشىدىغان ۋاقتى <xliff:g id="COUNTS">%s</xliff:g>""</string>
+     <string name="view_file_details">"تەپسىلاتىنى كۆرۈش"</string>
+     <string name="file_size">":ھۆججەت چوڭلۇقى"</string>
+     <string name="file_date">":ھۆججەت چېسلاسى"</string>
+     <string name="recording_start_time">"ئۈنگە ئېلىشنى باشلاش ۋاقتى"</string>
+     <string name="recording_duration">"داۋاملاشقان ئۈنگە ئېلىش سائىتى"</string>
+     <string name="tuned_timer_recording">"ۋاقىت بەلگىلەپ ئۈنگە ئېلىش ئېچلدى"</string>
+     <string name="miss_timer_recording">"ۋاقىت بەلگىلەپ ئۈنگە ئېلىش ئۈتۈپ كەتكەن"</string>
+     <string name="miss_timer_time">"<xliff:g id="TIME">%s</xliff:g>:ۋاقىت"</string>
+     <string-array name="timer_recording_time">
+        <item>".ۋاقىت بەلگىلەپ ئۈنگە ئېلىش ھازىردىن باشلاپ 1مىنۇتقا يەتمەيدىغان قىلىپ تەڭشەلدى"</item>
+        <item>".غا يەتمەيدىغان قىلىپ تەڭشەلدى<xliff:g id="HOURS">%1$s</xliff:g>ۋاقىت بەلگىلەپ ئۈنگە ئېلىش ھازىردىن باشلاپ"</item>
+        <item>".غا يەتمەيدىغان قىلىپ تەڭشەلدى<xliff:g id="MINUTES">%2$s</xliff:g>ۋاقىت بەلگىلەپ ئۈنگە ئېلىش ھازىردىن باشلاپ"</item>
+        <item>".غا يەتمەيدىغان قىلىپ تەڭشەلدى<xliff:g id="MINUTES">%2$s</xliff:g>ۋە<xliff:g id="HOURS">%1$s</xliff:g>ۋاقىت بەلگىلەپ ئۈنگە ئېلىش ھازىردىن باشلاپ"</item>
+    </string-array>
+     <string name="start_record">"ئۈنگە ئېلىشنى باشلاش "</string>
+     <string name="resume_record">"داۋاملىق ئۈنگە ئېلىش"</string>
+     <string name="start_play">"قويۇشنى باشلاش"</string>
+     <string name="resume_play">"قويۇشنى داۋاملاشتۇرۇش"</string>
+     <string name="reset_timer_recording">"!ئۈنگە ئېلىش ئەسلىھەسى باشقا پىروگرامما تەرىپىدىن ئىشلىتىلىۋاتىدۇ، ۋاقىت بەلگىلەپ ئۈنگە ئېلىشنى قايتا تەڭشەڭ"</string>
+     <string name="storage_not_enough">"!ساقلىغۇچ سىغىمى يەتمەيدۇ، ۋاقىت بەلگىلەپ ئۈنگە ئېلىشنى باشلاش مەغلۇپ بولدى"</string>
+     <string name="phone_storage_not_enough">"!يانڧۇن ئىچكى سىغىمى يەتمەيدۇ"</string>
+    <string-array name="duration_hours">
+        <item>"سائەت"</item>
+        <item>"سائەت"</item>
+    </string-array>
+     <plurals name="hours">
+<item quantity="one">1 سائەت</item>
+<item quantity="other">"سائەت<xliff:g id="number">%s</xliff:g>"</item>
+    </plurals>
+     <plurals name="minutes">
+<item quantity="one">"1مىنۇت"</item>
+<item quantity="other">"مىنۇت<xliff:g id="number">%s</xliff:g>"</item>
+    </plurals>
+</resources>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"အသံသွင်းစက်"</string>
+<string name="record_your_message">"သင့်မက်ဆေ့ခ်ျကို မှတ်တမ်းတင်ထားသည်"</string>
+<string name="message_recorded">"မက်ဆေ့ခ်ျမှတ်တမ်းတင်ပြီး"</string>
+<string name="review_message">"မက်ဆေ့ခ်ျစာသား"</string>
+<string name="recording">"မှတ်တမ်းတင်နေသည်"</string>
+<string name="recording_stopped">"မှတ်တမ်းတင်ခြင်းကိုရပ်ပြီး"</string>
+<string name="recording_save">"အသံသွင်းမှုကို သိမ်းဆည်းပြီးပြီ"</string>
+<string name="recording_nosave">"ရီကောဒင်းကို မသိမ်းပါ"</string>
+<string name="storage_is_full">"သိုလှောင်မှုပြည့်နေသည်"</string>
+<string name="max_length_reached">"အများဆုံးခွင့်ပြုချက်ပမာဏသို့ ရောက်ရှိ"</string>
+<string name="phone_message">"ဖုန်းပြောနေစဉ် အသံဖမ်းယူကိရိယာကို ဖွင့်၍ မရနိုင်ပါ။"</string>
+<string name="min_available">"<xliff:g id="minutes">%d</xliff:g> မိနစ်ခန့် ရရှိနိုင်သည်"</string>
+<string name="min_and_time_available">"<xliff:g id="minutes">%d</xliff:g> မိနစ်နှင့် <xliff:g id="seconds">%d</xliff:g> စက္ကန့်ခန့် ရရှိနိုင်သည်"</string>
+<string name="sec_available">"<xliff:g id="seconds">%d</xliff:g>စက္ကန့်ခန့် ရရှိနိုင်သည်"</string>
+<string name="accept">"သိမ်းပါ"</string>
+<string name="discard">"ဖြတ်ချမည်"</string>
+<string name="button_ok">"သိမ်းပါ"</string>
+<string name="press_record">"မှတ်ပုံတင်ကို နှိပ်ပါ"</string>
+<string name="audio_db_artist_name">"သင်၏ မှတ်တမ်းတင်မှုများ"</string>
+<string name="audio_db_album_name">"အသံဖမ်းယူချက်များ"</string>
+<string name="audio_db_playlist_name">"ကျွန်ုပ်၏ အသံသွင်းခြင်းများ"</string>
+<string name="error_app_internal">"ဖုန်းအတွင်းပိုင်း အပလီကေးရှင်း အမှား"</string>
+<string name="error_mediadb_new_record">"အသံဖမ်းထားသည့်အော်ဒီယိုကိုသိမ်းရန် မထောက်ပံ့ပါ"</string>
+<string name="save">"သိမ်းပါ"</string>
+<string name="select_file_type">"ဖိုင်အမျိုးအစားမှတ်တမ်းကို ရွေးချယ်ပါ"</string>
+<string name="record_amr">"AMR (အရည်အသွေးနိမ့်)"</string>
+<string name="record_3gpp">"3GPP (အဆင့်မြင့်)"</string>
+<string name="button_cancel">"ပယ်ဖျက်ပါ"</string>
+<string name="path_save">"မူလသိမ်းထားသည့်လမ်းကြောင်းအား သိမ်းဆည်းပြီး"</string>
+<string name="path_nosave">"မူလသိမ်းထားသည့်လမ်းကြောင်းအား မသိမ်းရသေးပါ"</string>
+<string name="path_default">"ယခု အသုံးပြုနေသောလမ်းကြောင်းသည် မမှန်ကန်ပါ။ အတွင်း သိုလှောင်မှုလမ်းကြောင်းကို သုံးနေခြင်းဖြစ်ပါသည်"</string>
+<string name="menu_set_save_path">"လမ်းကြောင်းသိမ်းဆည်းခြင်း တပ်ဆင်ပါ"</string>
+<string name="back">"နောက်သို့.."</string>
+<string name="path_label">"သိမ်းပါ"</string>
+<string name="pause">"ခဏရပ်"</string>
+<string name="storage_is_not_enough">"သိုလှောင်မှုမလုံလောက်ပါ"</string>
+<string name="menu_recording_file_list">"အသံဖမ်းဖိုင်များ"</string>
+<string name="recording_list_empty">"ဗလာစာရင်း"</string>
+<string name="menu_recording_list_select_all">"အားလုံးကို ရွေးချယ်ပါ"</string>
+<string name="menu_recording_list_delete">"ပယ်ဖျက်သည်"</string>
+<string name="menu_recording_list_deselect_all">"မရွေးချယ်ပါ"</string>
+<string name="recording_file_delete_success">"ရီကောဒင်းကို ဖျက်ပြီး"</string>
+<string name="recording_file_database_failed">"ဒေတာဘေ့စ် ဖိုင်မျက်ရန် မအောင်မြင်ပါ"</string>
+<string name="recording_file_delete_failed">"ရီကောဒင်း ဖိုင်ဖျက်ရန် မအောင်မြင်ပါ"</string>
+<string name="confirm_del">"ဖိုင်များကို ဖျက်မှာ သေချာလား?"</string>
+<string name="button_delete">"ပယ်ဖျက်သည်"</string>
+<string name="recording_file_delete_alert_title">"ပယ်ဖျက်သည်"</string>
+<string name="recording_file_delete_alert_message">"%1$s ကိုဖျက်မှာသေချာလား?"</string>
+<string name="recording_file_list">"အသံဖမ်းဖိုင်များ"</string>
+<string name="less_than_one_second">"1 စက္ကန့်"</string>
+<string name="is_scanning">"မီဒီယာစကင်နာ စကင်ဖတ်နေသည်၊ ကျေးဇူးပြု၍ စောင့်ပေးပါ..."</string>
+<string name="emptylist">"စာရင်းဗလာ"</string>
+<string name="choose_file">"ကျေးဇူးပြု၍ သင်ပယ်ဖျက်လိုသည့် ရီကောဒင်းကို ဖိုင်များ ရွေးချယ်ပါ!"</string>
+<string name="error_path">"သင်ရွေးချယ်ထားသည့်လမ်းကြောင်း မတည်ရှိပါ!"</string>
+<string name="path_miss">"သိုလှောင်မှုလမ်းကြောင်း မရှိပါ (သို့) ဝင်၍မရနိုင်ပါ!"</string>
+<string name="file_is_corrupt">"ဖိုင် ပျက်နေသည်"</string>
+<string name="low_memory">"မမ်မိုရီ မလုံလောက်ပါ၊ အသံဖမ်းခြင်း ရပ်သွားပါမည်!"</string>
+<string name="record_error">"ရီကောဒင်း ခြွင်းချက်တွေ့ရှိ!"</string>
+<string name="play_error">"ဂီတပလေယာကို ပိတ်ထားသည်၊ ဖွင့်၍မရပါ！"</string>
+<string name="dialog_title">"ကျေးဇူးပြု၍ရွေးချယ်ပါ"</string>
+<string name="dialog_message">"အသံသွင်းထားသည်ကို သိမ်းမလား"</string>
+<string name="same_application_running">"အသံဖမ်းစက်ကို အခြား ပရိုဂရမ်က သုံးနေသည်။ ဤပရိုဂရမ်ကို ပိတ်ပေးပါ!"</string>
+<string name="recording_time_short">"ရီကောဒင်းအချိန် 1 မိနစ်အောက်ရှိလျှင်၊ သိမ်း၍မရပါ"</string>
+<string name="file_path_button">"ဖိုင်လမ်းကြောင်း"</string>
+<string name="file_name">"ဖိုင်အမည် - "</string>
+<string name="file_path">"ဖိုင်လမ်းကြောင်း - "</string>
+<string name="rename">"နာမည်အသစ်ပေး"</string>
+<string name="rename_save">"အမည်ပြန်ပေးခြင်းအောင်မြင်သည်"</string>
+<string name="rename_nosave">"အမည်ပြောင်း၍မရပါ"</string>
+<string name="filename_is_not_modified">"ဖိုင်အမည်ကို မပြင်ခဲ့ပါ"</string>
+<string name="duplicate_name">"ဖိုင်အမည် ပွားထားသည်"</string>
+<string name="soundpicker_label">"ကျေးဇူးပြု၍ ရီကောဒင်းဖိုင်ကိုရွေးချယ်ပါ"</string>
+<string name="error_sdcard_path">"SD ကတ် မရှိပါ။ ပုံသေသိမ်းရန် လမ်းကြောင်းသည် စက်တွင်းသိုလှောင်ခန်းသို့ ပြောင်းသွားသည်။"</string>
+<string name="input_length_overstep">"အင်ပွတ်ပမာဏအမြင့်ဆုံးသို့ရောက်နေ"</string>
+<string name="filename_empty_error">"ဖိုင်အမည်သည် ဗလာဖြစ်၍မရပါ၊ မူရင်းအမည်ကို သိမ်းပါ"</string>
+<string name="please_choose_files">"ကျေးဇူးပြု၍ မူလဖိုင်များရွေးချယ်ပါ"</string>
+<string name="selected_files_count">"ရွေးချယ်ထား<xliff:g id="COUNTS">%d</xliff:g>"</string>
+<string name="use_default_path">"သိုလှောင်မှုလမ်းကြောင်း မရှိပါ၊ အခြားနည်းလမ်းသုံးပါ"</string>
+<string name="stroage_not_mounted">"သိုလှောင်ခန်းကို စနစ်တွင် တပ်မထားပါ"</string>
+<string name="special_char_exist">"အထူးအက္ခရာ <xliff:g id="COUNTS">%s</xliff:g> လုံးကို ပံ့ပိုးမပေးပါ"</string>
+<string name="menu_select_more">"ပို၍ ရွေးချယ်ပါ"</string>
+<string name="menu_select_type">"ဖိုင်အမျိုးအစားကို သတ်မှတ်ပါ"</string>
+<string name="path_miss_nosave">"သိုလှောင်သော လမ်းကြောင်း မတည်ရှိပါ၊ အသံဖမ်းယူထားမှုကို မသိမ်းထားပါ!"</string>
+<string name="dialog_dismiss">"ချန်လှပ်ထားသည်"</string>
+<string name="error_permissions">"အက်ပ်တွင် ၎င်းအလုပ်လုပ်ရန် အရေးကြီးသည့် ခွင့်ပြုချက်များကို ရမထားပါ။ သင်၏ ခွင့်ပြုချက် ဆက်တင်များကို စစ်ဆေးပေးပါ။"</string>
+<string name="internal_sdcard">"စက်တွင်း SD ကတ်"</string>
+<string name="external_sdcard">"ပြင်ပ SD ကတ်"</string>
+<string name="internal_storage">"ဖုန်း"</string>
+<string name="external_storage">"SD ကဒ်"</string>
+<string name="set_as_ring">"မြည်သံအဖြစ် သတ်မှတ်ရန်"</string>
+<string name="read_file_path">"ဖိုင်လမ်းကြောင်းကို စစ်ပါ"</string>
+<string name="operate_share">"ဝေမျှပါ"</string>
+<string name="ringtone_title_sim1">"SIM1 ဖုန်းမြည်သံ"</string>
+<string name="ringtone_title_sim2">"SIM2 ဖုန်းမြည်သံ"</string>
+<string name="ringtone_menu_short">"မြည်သံအဖြစ်သုံးမည်"</string>
+<string name="please_insert_sim_card">"အနည်းဆုံး SIM ကဒ်တစ်ခု ကျေးဇူးပြု၍ ထည့်ပါ"</string>
+<string name="ring_set_silent_vibrate">"စိတ်ကြိုက်သတ်မှတ်ထားသော ဖုန်းမြည်သံကို လက်ရှိမုဒ်တွင် မပံ့ပိုးပေးပါ"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" အား SIM1ဖုန်းခေါ်ဆိုမှုတီးလုံးအဖြစ်ထားမည်။"</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" အား SIM2 ဖုန်းခေါ်ဆိုမှုတီးလုံးအဖြစ်ထားမည်။"</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" အား ဖုန်းမြည်သံအဖြစ်ထားမည်။"</string>
+<string name="ring_set_fail">"ဆောရီး၊ သီချင်းဖွင့်မရပါ၊ ကျေးဇူးပြု၍ ဖုန်းမြည်သံအတွက် တခြားသီချင်းကိုရွေးချယ်ပါ"</string>
+<string name="tag_limit">"တဂ်အရေအတွက်သည် အများဆုံးကန့်သတ်ချက်သို့ ရောက်နေသည်"</string>
+<string name="no_allow_play_calling">"ဖုန်းခေါ်ဆိုနေစဉ်တွင် မည်သည့်အသံဖိုင်ကိုမျှ ဖွင့်၍မရပါ။"</string>
+<string name="playback_failed">"ဤအသံဖိုင်အမျိုးအစားကို ပလေယာက ပံ့ပိုးမပေးပါ။"</string>
+<string name="tag">"အမှတ်အသား"</string>
+<string name="previous_tag">"ပြီးခဲ့သောတဂ်"</string>
+<string name="next_tag">"နောက်ထပ် တဂ်"</string>
+<string name="recording_play">"အသံဖမ်းဖိုင် ဖွင့်ရန်"</string>
+<string name="clip_duration_tip">"ကြာချိန်ကို တည်းဖြတ်ရန်"</string>
+<string name="record_setting">"ဆက်တင်များ"</string>
+<string name="file_type">"ဖောမက်ချပါ"</string>
+<string name="type_amr">"AMR"</string>
+<string name="type_3gpp">"3GPP"</string>
+<string name="save_path">"တည်နေရာသိမ်းထားမည်"</string>
+<string name="set_timer_recording">"အချိန်ဇယားဆွဲထားသော အသံဖမ်းခြင်း"</string>
+<string name="timer_recording_detail">"<xliff:g id="hours">%s</xliff:g>:<xliff:g id="minutes">%s</xliff:g> တွင် <xliff:g id="COUNTS">%s</xliff:g> ကြိမ်အတွက် စတင်အသံဖမ်းပါ"</string>
+<string name="view_file_details">"အသေးစိတ်ကို ကြည့်ရှုပါ"</string>
+<string name="file_size">"ဖိုင်အရွယ်အစား-"</string>
+<string name="file_date">"ဖိုင်ရက်စွဲ -"</string>
+<string name="recording_start_time">"အသံဖမ်းခြင်း စတင်ချိန်"</string>
+<string name="recording_duration">"အသံဖမ်းခြင်း ကြာချိန်နာရီ"</string>
+<string name="tuned_timer_recording">"တိုင်မာသုံး အသံဖမ်းခြင်းကို ဖွင့်ထားသည်"</string>
+<string name="miss_timer_recording">"တိုင်မာသုံး အသံဖမ်းခြင်းနှင့် လွဲသွားသည်"</string>
+<string name="miss_timer_time">"အချိန်- <xliff:g id="TIME">%s</xliff:g>"</string>
+<string-array name="duration_hours">
+<item>" နာရီ"</item>
+<item>" နာရီ"</item>
+</string-array>
+<string-array name="timer_recording_time">
+<item>"တိုင်မာသုံး၍ အသံဖမ်းခြင်းကို ယခုမှစ၍ 1 မိနစ်အောက်ကြာ သတ်မှတ်ထားသည်။"</item>
+<item>"တိုင်မာသုံး၍ အသံဖမ်းခြင်းကို ယခုမှစ၍ <xliff:g id="HOURS">%1$s</xliff:g> ကြာ သတ်မှတ်ထားသည်။"</item>
+<item>"တိုင်မာသုံး၍ အသံဖမ်းခြင်းကို ယခုမှစ၍ <xliff:g id="MINUTES">%2$s</xliff:g> ကြာ သတ်မှတ်ထားသည်။"</item>
+<item>"တိုင်မာသုံး၍ အသံဖမ်းခြင်းကို ယခုမှစ၍ <xliff:g id="HOURS">%1$s</xliff:g> နှင့် <xliff:g id="MINUTES">%2$s</xliff:g> ကြာ သတ်မှတ်ထားသည်။"</item>
+</string-array>
+<plurals name="hours">
+<item quantity="one">"1 နာရီ"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> နာရီ"</item>
+</plurals>
+<plurals name="minutes">
+<item quantity="one">"1 မိနစ်"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> မိနစ်"</item>
+</plurals>
+<string name="start_record">"စတင် အသံဖမ်းရန်"</string>
+<string name="resume_record">"ဆက်လက် အသံဖမ်းရန်"</string>
+<string name="start_play">"စဖွင့်ပါ"</string>
+<string name="resume_play">"ဆက်ဖွင့်ပါ"</string>
+<string name="reset_timer_recording">"အသံဖမ်းစက်ကို အခြား ပရိုဂရမ်က သုံးနေသည်။ တိုင်မာသုံး၍ အသံဖမ်းခြင်းကို ပြန်သတ်မှတ်ပေးပါ။"</string>
+<string name="storage_not_enough">"သိုလှောင်ခန်း မလုံလောက်ပါ၊ အသံဖမ်းခြင်းကို စတင်၍မရပါ။"</string>
+<string name="phone_storage_not_enough">"ဖုန်းသိုလှောင်ခန်း မလုံလောက်ပါ။"</string>
+<string name="illegal_chars_of_filename">"ဖိုင်အမည်တွင် တရားမဝင်သော အက္ခရာများ ပါဝင်၍ မရပါ \\:*?\"\u003C\u003E|/"</string>
+<string name="hour">"အိမ်"</string>
+<string name="min">"M"</string>
+<string name="start">"စတင်ပါ"</string>
+<string name="record">"အသံဖမ်း"</string>
+<string name="timeset">"တိုင်မာ သတ်မှတ်ချက်"</string>
+<string name="starttimeandduration">"စတင်ချိန် \u0026 ကြာချိန်"</string>
+<string name="local_record">"စက်တွင်း အသံဖမ်းခြင်း"</string>
+<string name="call_record">"ဖုန်းအသံဖမ်းခြင်း"</string>
+<string name="clip_time">"အော်ဒီယိုကလစ်ပ် ကြာချိန်"</string>
+<string name="clip_name_suffix">"ကလစ်ပ်"</string>
+<string name="file_choose">"ဖိုင် ရွေးချယ်မှု"</string>
+<string name="save_dialog_title">"အသံဖမ်းဖိုင် အသစ်"</string>
+<string name="keep_original_file">"မူရင်းဖိုင်ကို ထိန်းသိမ်းထားပါ"</string>
+<string name="save_successful">"သိမ်းခြင်း အောင်မြင်ပါသည်။ သိမ်းသည့် လမ်းကြောင်း-<xliff:g id="FILEPATH">%1$s</xliff:g>"</string>
+<string name="save_failed">"သိမ်းခြင်း မအောင်မြင်ပါ။"</string>
+<string name="recording_now">"အသံဖမ်းနေသည် ..."</string>
+<string name="recording_pause">"အသံဖမ်းခြင်း ခဏရပ်သွားသည်..."</string>
+<string name="record_pause">"ခဏရပ်"</string>
+<string name="record_stop">"ရပ်"</string>
+<string name="record_stop_and_save">"ရပ်၍ သိမ်းရန်"</string>
+<string name="record_timer">"တိုင်မာသုံး အသံဖမ်း"</string>
+<string name="record_miss">"လွဲသွားသော တိုင်မာသုံး အသံဖမ်းခြင်း"</string>
+<string name="close_timer">"တိုင်မာသုံး အသံဖမ်းခြင်းကို ပိတ်ပါ"</string>
+<string name="soundrecording">"မှတ်တမ်းတင်နေသည်"</string>
+<string name="pauserecording">"အသံဖမ်းခြင်း ခဏရပ်"</string>
+<string name="clip_file_exit">"ဖိုင်အမည် ထပ်နေသည်။ ၎င်းကို ပြန်ဖြည့်ပေးပါ"</string>
+<string name="autosaverecord">"အော်တိုသိမ်း"</string>
+<string name="auto_save">"အသံဖမ်းဖိုင်များကို အလိုအလျောက် သိမ်းပေးသည်"</string>
+<string name="new_record">"အသံဖမ်းဖိုင်သစ်"</string>
+<string name="speak_open">"ရဆိဗာမုဒ်ကို ဖွင့်ထားသည်"</string>
+<string name="speak_close">"ရဆိဗာမုဒ်ကို ပိတ်ထားသည်"</string>
+<string name="hour_duration">"<xliff:g id="hour">%s</xliff:g> နာရီ"</string>
+<string name="button_set">"တပ်ဆင်"</string>
+<string name="button_tag">"အမှတ်အသား"</string>
+<string name="button_list">"စာရင်း"</string>
+<string name="type_mp3">"MP3"</string>
+<string name="record_mp3">"MP3 (အရည်အသွေးမြင့်)"</string>
+<string name="file_rename">"ဖိုင်အမည် ထပ်နေသည်၊ သိမ်း၍မရပါ"</string>
+<string name="background_speak_close">"အသံဖမ်းခြင်းကို နောက်ခံ၌ ဖွင့်မရသဖြင့် ပိတ်လိုက်သည်"</string>
+<plurals name="confirm_delfile">
+<item quantity="one">"ဤဖိုင်ကို သင်ဖျက်လိုတာ သေချာပါသလား။"</item>
+<item quantity="other">"ဖိုင်များကို ဖျက်မှာ သေချာလား?"</item>
+</plurals>
+<string name="mode_change">"အော်ဒီယိုဖုန်းပြောင်းခြင်းသည် အချိန်လိုအပ်သည်၊ စောင့်ပေးပါ…"</string>
+<string name="rename_button">"ထွက်ခွာရန်"</string>
+<string name="no_sd_write_permission">"အသံဖမ်းစက်တွင် သင့် SD ကတ်ကို ဝင်သုံးခွင့် မရှိပါ။ ခွင့်ပြုပေးပါ သို့မဟုတ် အပလီကေးရှင်း၏ သိုလှောင်ခန်းကို ရှင်းလင်းပြီး ထပ်မံ ဆောင်ရွက်ပါ။"</string>
+<string name="confirm">"အိုကေ"</string>
+<string name="superuser_request_confirm">"အသံဖမ်းစက်သည် SD ကတ်သို့ ဝင်သုံးခွင့် ရမထားပါ၊ ခွင့်ပြုပေးပါ။ ပြင်ပ ရု(တ်) ဖိုင်လမ်းညွှန် SANDISK SD ကတ်ကို ရွေးချယ်ပြီး အသံဖမ်းစက်ကို လုပ်ဆောင်ခွင့်ပေးပါ။"</string>
+<string name="share_max_warning">"ဖိုင် 100 ကျော် ရွေးထားသဖြင့် မျှဝေခြင်း လုပ်ဆောင်ချက်ကို သုံး၍မရခဲ့ပါ"</string>
+<string name="exit_multiwindow_tips">"အသံဖမ်းစပ်က မာလ်တီဝင်းဒိုးမုဒ်ကို မပံ့ပိုးပါ၊ အသံဖမ်းစက်ကို စခရင်အပြည့်မုဒ်ဖြင့် သုံးပေးပါ။"</string>
+</resources>

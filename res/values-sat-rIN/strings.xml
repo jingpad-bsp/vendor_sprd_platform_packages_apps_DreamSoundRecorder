@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"साडे रेकॉर्डर"</string>
+<string name="record_your_message">"आमाक् सान्देस रेकॉर्ड"</string>
+<string name="message_recorded">"सान्देस रेकॉर्ड एना"</string>
+<string name="review_message">"सान्देस रु"</string>
+<string name="recording">"रेकॉर्डिंग"</string>
+<string name="recording_stopped">"रेकॉर्डिंग थुकुमेना"</string>
+<string name="recording_save">"रेकॉर्डिंग जोगावेना"</string>
+<string name="recording_nosave">"रेकॉर्डिंग बाङ जोगावलेना"</string>
+<string name="storage_is_full">"बान्दी पेरेजेना"</string>
+<string name="max_length_reached">"बाड़ती सीम हाबिच् तियोक् केदा"</string>
+<string name="phone_message">"साडे रेकॉर्डर कॉल जोखेच् बाङ थुकुमोक्आ"</string>
+<string name="min_available">"बाखरा रे<xliff:g id="minutes">%d</xliff:g> मिनट मेनाक्आ"</string>
+<string name="min_and_time_available">"बाखरा रे <xliff:g id="minutes">%d</xliff:g> मिनट आर<xliff:g id="seconds">%d</xliff:g> सेकेंड मेनाक्आ"</string>
+<string name="sec_available">"बाखरा रे <xliff:g id="seconds">%d</xliff:g> सेकेंड मेनाक्आ"</string>
+<string name="accept">"जोगाव"</string>
+<string name="discard">"इकाकाक्"</string>
+<string name="button_ok">"हे"</string>
+<string name="press_record">"रेकॉर्ड ओताय"</string>
+<string name="audio_db_artist_name">"आमाक् रेकॉर्डिंग"</string>
+<string name="audio_db_album_name">"ऑडियो रेकॉर्डिंग"</string>
+<string name="audio_db_playlist_name">"इञाक् रेकॉर्डिंग"</string>
+<string name="error_app_internal">"भितार एप्लीकेसन तापुक्"</string>
+<string name="error_mediadb_new_record">"रेकॉर्डाक् ऑडियो जोगाव बाङ ञामोक् काना"</string>
+<string name="save">"जोगाव"</string>
+<string name="select_file_type">"रेकॉर्ड फाइल लेकान बाछावमे"</string>
+<string name="record_amr">"amr टायिप (निरस ञेल)"</string>
+<string name="record_3gpp">"3gpp टायिप (निरस ञेलक्आ)"</string>
+<string name="button_cancel">"बातिल"</string>
+<string name="path_save">"डिफल्ट होर जोगावा"</string>
+<string name="path_nosave">"डिफल्ट होर बाङ जोगावा"</string>
+<string name="path_default">"निताक् होर बाङ नापाया से बाङबातावाक् काना, नोवा होर दो भितार बान्दी होर काना"</string>
+<string name="menu_set_save_path">"जोगाव होर सेट"</string>
+<string name="back">"देया.."</string>
+<string name="path_label">"दायाकाते जोगाव होर बाछाव मे"</string>
+<string name="pause">"साब दोहो"</string>
+<string name="storage_is_not_enough">"जोगावाक् उनाक् बानुक्आ"</string>
+<string name="menu_recording_file_list">"रेकॉर्ड फाइल सूची"</string>
+<string name="recording_list_empty">"सूची आजाड़ी"</string>
+<string name="menu_recording_list_select_all">"जोतो सेलेद् मे"</string>
+<string name="menu_recording_list_delete">"मेटाव"</string>
+<string name="menu_recording_list_deselect_all">"बाङबाछाव"</string>
+<string name="recording_file_delete_success">"रेकॉर्डिंग मेटाव"</string>
+<string name="recording_file_database_failed">"डेटाबेस फाइल बाङ मेटाव लेना"</string>
+<string name="recording_file_delete_failed">"रेकॉर्डिंग फाइल मेटाव बाङ गानलेना"</string>
+<string name="confirm_del">"चेत् आम खाटी गेया जे फाइल एम मेटावा?"</string>
+<string name="button_delete">"मेटाव"</string>
+<string name="recording_file_delete_alert_title">"मेटाव"</string>
+<string name="recording_file_delete_alert_message">"खाटी गे मेटाव %1$s ?"</string>
+<string name="recording_file_list">"रेकॉर्ड फाइल सूची"</string>
+<string name="less_than_one_second">"मिद् सेकेन्ड"</string>
+<string name="is_scanning">"नितोक् मीडिया स्कैनर स्कैनेत्  काना, दायाकाते ताङ्गीय…"</string>
+<string name="emptylist">"सूजी आजाड़ीगेया"</string>
+<string name="choose_file">"दायाकाते रेकॉर्डाक् बाछावमे जाहाँटाक् फाइल को मेटावेम मेनेदा"</string>
+<string name="error_path">"जोहाँ होर एम बाछाव आकात् होर बानुक्आ, दायाकाते रीसेट मे!"</string>
+<string name="path_miss">"जोगावाक् होर बानुक्आ से बाङ सेटेर दाड़ेयाक्!"</string>
+<string name="file_is_corrupt">"फाइल रापुत् गेया"</string>
+<string name="low_memory">"मेमोरा उनाक् बानुक्आ, रेकॉर्डिंग थुकुमा!"</string>
+<string name="record_error">"रेकॉर्डिंग मित् अपवाद उन रे हुयुक्आ!"</string>
+<string name="play_error">"सेरेञ एनेजाक् बाङ सोमोला, बाङ झिजुक् काना !"</string>
+<string name="dialog_title">"दायाकाते बाछाव"</string>
+<string name="dialog_message">"रेकॉर्डिंग जोगावा?"</string>
+<string name="same_application_running">"रेकॉर्डिंग डिवाइस ओका एटाक् कामीहोरा दाराय ते बेबोहारोक् काना, नोवा कामीहोरा थुकुमोक् काना।"</string>
+<string name="recording_time_short">"रेकॉर्डिंग समय कोम खाच् 1 सेकेंड बाङ बाञ्चाव लेना"</string>
+<string name="file_path_button">"फाइल होर"</string>
+<string name="file_name">"फाइल ञुतुम："</string>
+<string name="file_path">"फाइल होर："</string>
+<string name="rename">"ञुतुमआरो"</string>
+<string name="rename_save">"ञुतुम आरो गानेना"</string>
+<string name="rename_nosave">"ञुतुम दोहड़ा बाङगानलेना"</string>
+<string name="filename_is_not_modified">"फाइलञुतुम बाङ फेराक्आ"</string>
+<string name="duplicate_name">"फाइल ञुतुम डुप्लीकेट एना"</string>
+<string name="soundpicker_label">"दायाकाते रेकॉर्डिंग फाइल रेयाक् बाछाव मे"</string>
+<string name="error_sdcard_path">"SD कार्ड बाङ ओडोकोक्आ। भितार बान्दीय लागित् ते डिफल्ट जोगाव हेर फेरावमे।"</string>
+<string name="input_length_overstep">"इनपुट बाड़ती जिलिञ हाबिच सेटेर"</string>
+<string name="filename_empty_error">"फाइल ञुतुम आजाड़ी बानुक्आ, आसोल ञुतुम रे जोगावमे"</string>
+<string name="please_choose_files">"फाइलको बाछाव मे"</string>
+<string name="selected_files_count">"थुकुम आकाना <xliff:g id="COUNTS">%d</xliff:g>"</string>
+<string name="use_default_path">"जोगावाकात् होर बानुकाआ, डिफॉल्ट होर बेभार मे"</string>
+<string name="stroage_not_mounted">"जोगावाक् रे साजाव बानुक्आ"</string>
+<string name="special_char_exist">"आसोल गुनागुनको<xliff:g id="COUNTS">%s</xliff:g> बाङ गोड़ोक् काना"</string>
+<string name="menu_select_more">"आयाम बाछाव"</string>
+<string name="menu_select_type">"लेकान फाइल सेट"</string>
+<string name="path_miss_nosave">"जोगावाकात् होर  बानुक्आ, रेकॉर्डिंग बाङ जोगाव आकाना"</string>
+<string name="dialog_dismiss">"बातिलकाक्"</string>
+<string name="error_permissions">"ऐप चालाव लागित् लाकतीयानाक् मोरमोवाक् छाड़ बानुक्आ। दायाकाते आनाक् छाड़ सेटिंग पाछनाव मे।"</string>
+<string name="internal_sdcard">"भितरी SD कार्ड"</string>
+<string name="external_sdcard">"भितरी sd कार्ड"</string>
+<string name="internal_storage">"भितरी जोगावाक्"</string>
+<string name="external_storage">"बाहरे जोगाव"</string>
+<string name="set_as_ring">"रिंग टोन लेकाते ते सेट मे"</string>
+<string name="read_file_path">"फाइल होर ञेल मे"</string>
+<string name="operate_share">"हांटिञ"</string>
+<string name="ringtone_title_sim1">"SIM1 फोन रेयाक् रिंगटोन"</string>
+<string name="ringtone_title_sim2">"SIM2 फोन रेयाक् रिंगटोन"</string>
+<string name="ringtone_menu_short">"रिंगटो लेकाते बेभार"</string>
+<string name="please_insert_sim_card">"दायाकाते कोम खाच् कोम मित् SIM कार्ड खाड़मे"</string>
+<string name="ring_set_silent_vibrate">"निताक् मोड रे कस्टम रिंगटोन बाङ गोड़ोक् काना"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"सेट SIM1 फोन रेयाक् रिंगटोन।"</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"सेट SIM2 फोन रेयाक् रिंगटोन।"</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"फोन रिंगटोन लेकाते सेट।"</string>
+<string name="ring_set_fail">"इकाञ मे, सेरेञ बाङ चालू दाड़ेयाआ। दायाकाते किंगटोन लेकाते आरमित् सेरेञ बाछावमे"</string>
+<string name="tag_limit">"टैग आकात् नंबर हाबिच् सेटेर आकाना"</string>
+<string name="no_allow_play_calling">"कॉल ओकते रे सेरेञ चालू रेयाक् दाँव बानुक्आ (रेडियो/वीडियो)।"</string>
+<string name="playback_failed">"इका एनेच् फाइल बाङ गानलेना।"</string>
+<string name="tag">"टैग"</string>
+<string name="previous_tag">"मुचात् टैग"</string>
+<string name="next_tag">"दारायकान टैग"</string>
+<string name="recording_play">"रिकॉर्डाक् चालूय"</string>
+<string name="clip_duration_tip">"जिलिञ सासापड़ावमे"</string>
+<string name="record_setting">"रिकॉर्ड सेटिंग"</string>
+<string name="file_type">"फाइल टाइप  "</string>
+<string name="type_amr">"amr लेकान"</string>
+<string name="type_3gpp">"3gpp लेकान"</string>
+<string name="save_path">"जोगाव होर"</string>
+<string name="set_timer_recording">"टाइमर रिकॉर्डाक् सेट मे"</string>
+<string name="timer_recording_detail">"रिकॉर्ड एहोब <xliff:g id="hours">%s</xliff:g>:<xliff:g id="minutes">%s</xliff:g> लागित् <xliff:g id="COUNTS">%s</xliff:g>"</string>
+<string name="view_file_details">"ञेनेल बेवराको"</string>
+<string name="file_size">"फाइल साइज"</string>
+<string name="file_date">"फाइल माँहित："</string>
+<string name="recording_start_time">"रिकॉर्डिंग एहोब ओकते"</string>
+<string name="recording_duration">"रिकॉर्डिंग ओकते टाड़ाङ"</string>
+<string name="tuned_timer_recording">"टाइमर रिकॉर्डिंग रे टुयून आकात् आ"</string>
+<string name="miss_timer_recording">"हिड़िञ टाइमर रिकॉर्डिंग"</string>
+<string name="miss_timer_time">"ओकते: <xliff:g id="TIME">%s</xliff:g>"</string>
+<string-array name="duration_hours">
+<item>"घन्टा"</item>
+<item>"घन्टा"</item>
+</string-array>
+<string-array name="timer_recording_time">
+<item>"टाइमर रिकॉर्डिंग नित खोन 1 टिपिच् खोन कोम ओकते लागित् सेट मेनाक्आ।"</item>
+<item>"टाइमर रिकॉर्डिंग सेट लागित् <xliff:g id="HOURS">%1$s</xliff:g> नित खोन।"</item>
+<item>"टाइमर रिकॉर्डिग सेट लागित् <xliff:g id="MINUTES">%2$s</xliff:g> नित् खोन।"</item>
+<item>"टाइमर रिकॉर्डिंग सेट लागित् <xliff:g id="HOURS">%1$s</xliff:g>आर <xliff:g id="MINUTES">%2$s</xliff:g> नित् खोन।"</item>
+</string-array>
+<plurals name="hours">
+<item quantity="one">"मित् घन्टा"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> टाड़ाङ को"</item>
+</plurals>
+<plurals name="minutes">
+<item quantity="one">"मित् मिनट"</item>
+<item quantity="other">"<xliff:g id="number">%s</xliff:g> टिपिच् को"</item>
+</plurals>
+<string name="start_record">"रेकॉर्डर चालूय"</string>
+<string name="resume_record">"रिकॉर्ड आरहो एहोबमे"</string>
+<string name="start_play">"एहोब चालाव"</string>
+<string name="resume_play">"एनेच् आरहो चालूय"</string>
+<string name="reset_timer_recording">"रिकॉर्ड डिवाइस रेयाक् बेभार एटाक् कामीहोरा दाराय ते हुयुक् कानास दायाकाते टाइमर रिकॉर्डिंग दो रीसेट मे!"</string>
+<string name="storage_not_enough">"जोगावा सोमोल बानुक्आआ, टाइमर रिकॉर्डिग एहोप् लागित् रे बाङ गानोक् काना।!"</string>
+<string name="phone_storage_not_enough">"फोन जोगावाक् उनाक् बानुक्आ!"</string>
+</resources>
